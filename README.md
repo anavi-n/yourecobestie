@@ -353,9 +353,19 @@ Mushroom Packaging
 Green Cell Foam
 Compostable Mailers	
 
-## Sustainable shops /Zero waste shops	
+## Groceries in bulk
+### Seattle
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Central Co-op
 
-###Southern California
+## Sustainable shops /Zero waste shops	
+### Seattle
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Scoop
+
+### Southern California
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Refill Evolution (Altadena Farmer’s Market)
