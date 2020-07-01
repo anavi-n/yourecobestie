@@ -22,10 +22,10 @@ Credit to lots of different resources across the internet (let's be real mostly,
 | [Earth Hero](https://earthhero.com/) | one-stop sustainability store | |
 
 ## Kitchen	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why?	|
+| ------ | ------|
 [Clean Cult](https://www.cleancult.com/) | 95% plastic-free, all-natural, zero-waste, natural cleaners | |
-Aplat Bowl & Pan Covers
+[Aplat Bowl & Pan Covers](https://aplat.com/collections/food-covers)| "Our 100% organic cotton canvas is 10oz, food-safe, and produced from environmentally friendly materials and fabrication methods using sustainable fibers along with low impact dyeing methods preserving the Earth"|
 No Tox Life Dishwashing Block
 Echoview Fiber Mill Compostable Wool Dish Sponge
 Ambrosia Produce Storage Bags
