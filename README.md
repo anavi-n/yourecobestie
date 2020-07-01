@@ -83,7 +83,8 @@ Dropps Sensitive Skin Laundry Detergent Pods
 ## Bathroom	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
-Who Gives A Crap Toilet Paper
+| Who Gives A Crap Toilet Paper |  | |
+| [Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) | I have tried them and perfectly fine |
 Plant Paper Toilet Paper
 Public Goods Tree Free Toilet Paper
 Root Safety Razor
