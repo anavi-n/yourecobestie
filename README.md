@@ -235,8 +235,9 @@ Compostable Unbleached Coffee Filters
 Reusable Hemp Coffee Filter		
 
 ##Skincare / Beauty
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+| [BLK + GRN](https://blkgrn.com/) | All-natural, non-toxic marketplace by black artisans | 
 The Detox Market
 Follain
 Credo Beauty
