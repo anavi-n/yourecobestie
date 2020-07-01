@@ -447,14 +447,28 @@ Whole Foods
 Smart & Final
 WinCo Foods
 New Leaf	
-Subscriptions	Clean Cult
+
+## Subscriptions	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Clean Cult
 Public Goods	
-DIY	Dryer Sheets 
+
+## DIY	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Dryer Sheets 
 Vinegar All-Purpose Cleaner
 Massage Oil
 Clothing Odor Remover Spray
 How To Remove Labels From Jars	
-Water Bottles	Purist Collective
+
+## Water Bottles	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Purist Collective
 Klean Kanteen
 Kinto Travel Tumbler
 BKR
@@ -466,7 +480,11 @@ BKR
 Swell
 Hydroflask
 Miir	
-Makeup	Kjaer Weis
+
+## Makeup	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Kjaer Weis
 Aether
 Noto Botanics
 RMS 
