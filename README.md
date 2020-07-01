@@ -8,11 +8,11 @@ I'd also like to emphasize the sustainability angle on buying as well, for items
 
 Credit to lots of different YouTube channels I watch and instagram accounts I follow.
 
-## XX
+## One-stop shops
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
-Made Trade - one-stop shop for all things sustainability and carbon offset shipping Ten Tree - plants 10 trees for every purchase
-Earth Hero - one-stop sustainability store
+| [Made Trade](https://www.madetrade.com/)| all things sustainability, ethically made, and carbon offset shipping | |
+| [Earth Hero](https://earthhero.com/) | one-stop sustainability store | |
 
 ## Kitchen	
 | Brand/Shop	| Why?	| Notes |
@@ -67,8 +67,7 @@ Organic Soap Nuts
 Microfiber Filter
 Dropps Sensitive Skin Laundry Detergent Pods		
 
-##Bathroom	
-
+## Bathroom	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Who Gives A Crap Toilet Paper
@@ -107,8 +106,7 @@ Beechwood Toilet Brush with Stand
 Bamboo Organic Cotton Swabs
 Organic Cotton Shower Curtain/Liner	
 
-##Beddroom	
-
+## Beddroom	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Avocado Luxury Green Mattress
@@ -128,7 +126,7 @@ Buffy Eucalyptus Pillow
 Buffy Eucalyptus Sheets
 Buffy Eucalyptus Duvet Cover		
 
-##Furniture/Home Decor	
+## Furniture/Home Decor	
 
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
@@ -235,7 +233,6 @@ Oak Face Brush
 Moon Valley Organics Lotion Bar	
 
 ## Undergarments	
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Arq
@@ -253,7 +250,6 @@ Organic Linen Socks
 Organic Hemp + Cotton Socks	
 
 ## Workout gear	
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Girlfriend Collective
@@ -280,7 +276,6 @@ Outerknown
 Londré		
 
 ## Jewelry	
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Danica Stamenic
@@ -306,7 +301,6 @@ Pela Phone Case
 Ecosia Search Engine
 
 ## Parties	
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Austeriti Sustainable Bar Services (Los Angeles)
@@ -317,6 +311,7 @@ Fibers & Florals (Los Angeles)
 ### Not vintage
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
+| [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
 Sezanne
 Whimsy & Row
 Jesse Kamm
@@ -351,7 +346,6 @@ Poshmark
 Etsy		
 
 ## Packaging/Shipping	
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Eco Enclose
@@ -362,7 +356,6 @@ Compostable Mailers
 ## Sustainable shops /Zero waste shops	
 
 ###Southern California
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Refill Evolution (Altadena Farmer’s Market)
@@ -449,15 +442,13 @@ WinCo Foods
 New Leaf	
 
 ## Subscriptions	
-
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Clean Cult
 Public Goods	
 
 ## DIY	
-
-| Brand/Shop	| Why?	| Notes |
+| What	| Why?	| Notes |
 | ------ | ------| --------|
 Dryer Sheets 
 Vinegar All-Purpose Cleaner
