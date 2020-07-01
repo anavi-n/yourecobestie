@@ -1,12 +1,19 @@
-# Sustainable everything
+# SustainablEverything
 
-Your guide to everything that is good for the earth and good for you!
+I'm a (barely) 20-something low-waste / sustaianable / eco-friendly / minaimalist and I wanted to share resources to help those who might be interested in similar topics.
+This is a guide to everything that is good for the earth and good for you!
 
-Hi y'all  - I'm super happy to see that we're all actively being better about things we already have and finding a new home or use for them. As always, the most sustainable thing you can do is use things you already have. 
+As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have or using them until end of their life.
+I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option. 
 
-I'd also like to emphasize the sustainability angle on buying as well, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option. Here's what I have so far, pease add to it from your own experiences as well! 
+Credit to lots of different resources across the internet (let's be real mostly, Instagram accounts).
 
-Credit to lots of different YouTube channels I watch and instagram accounts I follow.
+*Things to note:*
+
+*1. FInd local options - stores within your neighborhood. If that is not an option, online works, too.*
+*2. I don't recommend Amazon unless you have limited options for where you live. Try to club and buy multiple items at once if you do so.*
+*3. I don't endorse or make a profit from sharing any of these links*
+*4. Credit to lots of different resources across the internet (let's be real mostly, Instagram/YouTube accounts), I've linked some at the end. Especially, Claggie's Sustainability Masterlist, apart from the amount of time I've spent doing my own research*
 
 ## One-stop shops
 | Brand/Shop	| Why?	| Notes |
