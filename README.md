@@ -1,6 +1,7 @@
 # sustainableverything
 
 Sustainable everything
+
 Your guide to everything that is good for the earth and good for you!
 
 Hi y'all  - I'm super happy to see that we're all actively being better about things we already have and finding a new home or use for them. As always, the most sustainable thing you can do is use things you already have. 
@@ -9,7 +10,8 @@ I'd also like to emphasize the sustainability angle on buying as well, for items
 
 Credit to lots of different YouTube channels I watch and instagram accounts I follow.
 
-Category	Brand/Shop	Why?	Notes
+| Category	| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------| ------- |
 Kitchen	
 Clean Cult
 Aplat Bowl & Pan Covers
@@ -41,8 +43,7 @@ Clear Glass Spray Bottles
 Organic Loofah Kitchen Sponge
 Natural Cleaning Brush Kit
 No Tox Life Dishwashing Block
-70% Certified Post Consumer Recycled Trash Bags
-		
+70% Certified Post Consumer Recycled Trash Bags		
 Laundry	Guppyfriend
 Cora Ball
 Girlfriend Filter
@@ -56,8 +57,7 @@ Natural Lint Brush
 Wooden Clothes Pins
 Organic Soap Nuts
 Microfiber Filter
-Dropps Sensitive Skin Laundry Detergent Pods
-		
+Dropps Sensitive Skin Laundry Detergent Pods		
 Bathroom	Who Gives A Crap Toilet Paper
 Plant Paper Toilet Paper
 Public Goods Tree Free Toilet Paper
@@ -92,8 +92,7 @@ Bamboo Tree-Free Toilet Paper
 Birch Toilet Brush
 Beechwood Toilet Brush with Stand
 Bamboo Organic Cotton Swabs
-Organic Cotton Shower Curtain/Liner
-		
+Organic Cotton Shower Curtain/Liner	
 Beddroom	Avocado Luxury Green Mattress
 Avocado Luxury Vegan Mattress
 Avocado Luxury Green Pillow
@@ -129,9 +128,7 @@ Parachute Undyed Wool Rugs
 Lorena Canals Nontoxic Washable Cotton + Wool Rugs
 EBTH
 Craigslist
-Facebook Marketplace
-
-		
+Facebook Marketplace	
 Vitamins, probiotics	Seed Probiotics
 Cap Beauty Daily
 Ritual Vitamins		
@@ -146,10 +143,7 @@ Saalt Cup
 Pixie Cup
 Diva Cup
 Organic Cotton Reusable Pantyliners		
-			
 Storage	Ecoist Pulp Storage Box
-
-		
 Cleaning	Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
@@ -176,8 +170,7 @@ Stojo Collapsible Coffee Cup
 Reusable Stainless Steel Coffee Filter
 Stainless Steal Tea Strainer
 Compostable Unbleached Coffee Filters
-Reusable Hemp Coffee Filter
-		
+Reusable Hemp Coffee Filter		
 Skincare	The Detox Market
 Follain
 Credo Beauty
@@ -196,8 +189,7 @@ By Humankind Refillable Deodorant
 Beautycounter
 Amazon:
 Oak Face Brush
-Moon Valley Organics Lotion Bar
-		
+Moon Valley Organics Lotion Bar	
 Undergarments	Arq
 Proclaim
 Hara the Label
@@ -210,8 +202,7 @@ Brook There
 Groceries Apparel
 Amazon:
 Organic Linen Socks
-Organic Hemp + Cotton Socks
-		
+Organic Hemp + Cotton Socks	
 Workout gear	Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
@@ -219,9 +210,7 @@ Patagonia
 Boody
 Pact
 Amazon:
-Cork .+ Natural Rubber Yoga Mat
-
-		
+Cork .+ Natural Rubber Yoga Mat	
 Swim	Galamaar
 Summersalt
 TallPoppy
@@ -231,29 +220,22 @@ Now Then
 Alyned
 Bold Swim
 Outerknown
-Londré
-		
+Londré		
 Jewelry	Danica Stamenic
 Ceremony
 Olivia Kane
 Mr. OK
 J. Hannah
-Vrai
-
-		
+Vrai		
 Shoes	Avarcas
 Allbirds
 Rothys
-Soludos
-		
+Soludos	
 Tech	Pela Phone Case
-Ecosia Search Engine
-		
+Ecosia Search Engine	
 Parties	Austeriti Sustainable Bar Services (Los Angeles)
 Sustain LA Event rentals (Los Angeles)
 Fibers & Florals (Los Angeles)
-
-		
 Clothing	Not vintage
 Sezanne
 Whimsy & Row
@@ -287,8 +269,7 @@ Etsy
 Packaging/Shipping	Eco Enclose
 Mushroom Packaging
 Green Cell Foam
-Compostable Mailers
-		
+Compostable Mailers	
 Sustainable shops /Zero waste shops	Southern California
 Refill Evolution (Altadena Farmer’s Market)
 Riley’s General Store (Arcadia, Azusa, Monrovia)
@@ -371,19 +352,14 @@ Rainbow Grocery
 Whole Foods
 Smart & Final
 WinCo Foods
-New Leaf
-
-		
+New Leaf	
 Subscriptions	Clean Cult
-Public Goods
-
-		
+Public Goods	
 DIY	Dryer Sheets 
 Vinegar All-Purpose Cleaner
 Massage Oil
 Clothing Odor Remover Spray
-How To Remove Labels From Jars
-		
+How To Remove Labels From Jars	
 Water Bottles	Purist Collective
 Klean Kanteen
 Kinto Travel Tumbler
@@ -395,8 +371,7 @@ Amazon:
 BKR
 Swell
 Hydroflask
-Miir
-		
+Miir	
 Makeup	Kjaer Weis
 Aether
 Noto Botanics
@@ -409,5 +384,3 @@ Beautycounter
 Amazon:
 Eco Tools Beauty Blender
 Eco Tools Beauty Blender Duo		
-
-
