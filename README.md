@@ -17,7 +17,7 @@ Credit to lots of different YouTube channels I watch and instagram accounts I fo
 ## Kitchen	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
-Clean Cult
+[Clean Cult](https://www.cleancult.com/) | 95% plastic-free, all-natural, zero-waste, natural cleaners | |
 Aplat Bowl & Pan Covers
 No Tox Life Dishwashing Block
 Echoview Fiber Mill Compostable Wool Dish Sponge
@@ -25,7 +25,10 @@ Ambrosia Produce Storage Bags
 Stasher Bags
 Bamboo Countertop Compost Bin
 Inka World Food Containers
-Amazon:
+
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Abeego Beeswax Food Covers
 Silicone Stretch Covers
 Stasher Bags (2 pack, 3 pack, 15 ounce, half gallon)
@@ -58,7 +61,9 @@ Girlfriend Filter
 Dryer Sheet DIY
 Clean Cult
 Dropps Laundry Pods
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Wool Dryer Balls
 Drying Rack
 Natural Lint Brush
@@ -86,7 +91,9 @@ Refillable Bathing Culture Body Wash
 Marley’s Monsters Organic Bamboo Washcloths
 Marley’s Monsters Organic Facial Rounds
 Tushy Spa Bidet Attachment
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Reusable Silicone Swab
 Organic Bamboo Rounds
 Organic Bamboo Washcloths
@@ -157,13 +164,20 @@ Facebook Marketplace
 Seed Probiotics
 Cap Beauty Daily
 Ritual Vitamins		
-Feminine products	Thinx
+
+## Feminine products	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Saathi Pads
+Thinx
 Luna Pads
 Thinx Reusable Tampon Applicator
 Saalt Cup
 Dot Cup
 Lunette Cup
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Saalt Cup
 Pixie Cup
 Diva Cup
@@ -182,7 +196,9 @@ Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
 Echoview Fiber Mill Reusable Cleaner Cloth
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Compostable Dish Brush (+ Replaceable Head)
 Bamboo Unpaper Towels
 No Tox Life Dishwashing Block
@@ -200,7 +216,9 @@ Beleaf Green Travel Straw
 Huskee
 Corksickle
 Stojo Collapsible Coffee Cup
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Huskee
 Corksicle
 Stojo Collapsible Coffee Cup
@@ -228,7 +246,9 @@ REN Skincare
 Meow Meow Tweet Baking Soda Free Deodorant Cream
 By Humankind Refillable Deodorant
 Beautycounter
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Oak Face Brush
 Moon Valley Organics Lotion Bar	
 
@@ -258,7 +278,9 @@ Groceries Apparel
 Patagonia
 Boody
 Pact
-Amazon:
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
 Cork .+ Natural Rubber Yoga Mat	
 
 ## Swim	
