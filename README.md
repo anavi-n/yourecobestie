@@ -520,3 +520,13 @@ Beautycounter
 Amazon:
 Eco Tools Beauty Blender
 Eco Tools Beauty Blender Duo		
+
+## Resources
+
+### Instgram
+| Handle | Why? |
+| ------ | ------|
+
+### YouTube
+| Handle | Why? |
+| ------ | ------|
