@@ -397,6 +397,7 @@ Central Co-op
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 [Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | |
+[Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | | 
 
 ### Southern California
 | Brand/Shop	| Why?	| Notes |
