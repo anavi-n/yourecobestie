@@ -8,9 +8,15 @@ I'd also like to emphasize the sustainability angle on buying as well, for items
 
 Credit to lots of different YouTube channels I watch and instagram accounts I follow.
 
+## XX
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Made Trade - one-stop shop for all things sustainability and carbon offset shipping Ten Tree - plants 10 trees for every purchase
+Earth Hero - one-stop sustainability store
+
 ## Kitchen	
-| Category	| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------| ------- |
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
 Clean Cult
 Aplat Bowl & Pan Covers
 No Tox Life Dishwashing Block
@@ -44,8 +50,8 @@ No Tox Life Dishwashing Block
 70% Certified Post Consumer Recycled Trash Bags		
 
 ## Laundry	
-| Category	| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------| ------- |
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
 Guppyfriend
 Cora Ball
 Girlfriend Filter
@@ -60,7 +66,12 @@ Wooden Clothes Pins
 Organic Soap Nuts
 Microfiber Filter
 Dropps Sensitive Skin Laundry Detergent Pods		
-Bathroom	Who Gives A Crap Toilet Paper
+
+##Bathroom	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Who Gives A Crap Toilet Paper
 Plant Paper Toilet Paper
 Public Goods Tree Free Toilet Paper
 Root Safety Razor
@@ -95,7 +106,12 @@ Birch Toilet Brush
 Beechwood Toilet Brush with Stand
 Bamboo Organic Cotton Swabs
 Organic Cotton Shower Curtain/Liner	
-Beddroom	Avocado Luxury Green Mattress
+
+##Beddroom	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Avocado Luxury Green Mattress
 Avocado Luxury Vegan Mattress
 Avocado Luxury Green Pillow
 Coyuchi Organic Mattress Pad
@@ -111,7 +127,12 @@ Buffy Eucalyptus Breeze Comforter
 Buffy Eucalyptus Pillow
 Buffy Eucalyptus Sheets
 Buffy Eucalyptus Duvet Cover		
-Furniture/Home Decor	Chairish
+
+##Furniture/Home Decor	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Chairish
 Studio Moe
 Fyrn
 Burrow
@@ -131,7 +152,11 @@ Lorena Canals Nontoxic Washable Cotton + Wool Rugs
 EBTH
 Craigslist
 Facebook Marketplace	
-Vitamins, probiotics	Seed Probiotics
+
+## Vitamins, probiotics	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Seed Probiotics
 Cap Beauty Daily
 Ritual Vitamins		
 Feminine products	Thinx
@@ -145,8 +170,17 @@ Saalt Cup
 Pixie Cup
 Diva Cup
 Organic Cotton Reusable Pantyliners		
-Storage	Ecoist Pulp Storage Box
-Cleaning	Clean Cult
+
+## Storage	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Ecoist Pulp Storage Box
+
+
+## Cleaning	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
 Echoview Fiber Mill Reusable Cleaner Cloth
@@ -156,7 +190,10 @@ Bamboo Unpaper Towels
 No Tox Life Dishwashing Block
 Quick Loop Mop (+ Handle)
 		
-Coffee	Purist Collective
+## Coffee	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Purist Collective
 Kinto Travel Tumbler
 Keep Cup
 Palmpress Coffee Press
@@ -173,7 +210,11 @@ Reusable Stainless Steel Coffee Filter
 Stainless Steal Tea Strainer
 Compostable Unbleached Coffee Filters
 Reusable Hemp Coffee Filter		
-Skincare	The Detox Market
+
+##Skincare / Beauty
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+The Detox Market
 Follain
 Credo Beauty
 Evan Healy
@@ -192,7 +233,12 @@ Beautycounter
 Amazon:
 Oak Face Brush
 Moon Valley Organics Lotion Bar	
-Undergarments	Arq
+
+##Undergarments	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Arq
 Proclaim
 Hara the Label
 Parade
