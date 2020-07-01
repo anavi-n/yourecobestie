@@ -14,6 +14,7 @@ Credit to lots of different resources across the internet (let's be real mostly,
 *2. I don't recommend Amazon unless you have limited options for where you live. Try to club and buy multiple items at once if you do so.*
 *3. I don't endorse or make a profit from sharing any of these links*
 *4. Credit to lots of different resources across the internet (let's be real mostly, Instagram/YouTube accounts), I've linked some at the end. Especially, Claggie's Sustainability Masterlist, apart from the amount of time I've spent doing my own research*
+*5. This is a work-in-progress*
 
 ## One-stop shops
 | Brand/Shop	| Why?	| Notes |
