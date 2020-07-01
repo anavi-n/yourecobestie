@@ -234,7 +234,7 @@ Amazon:
 Oak Face Brush
 Moon Valley Organics Lotion Bar	
 
-##Undergarments	
+## Undergarments	
 
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
@@ -251,7 +251,12 @@ Groceries Apparel
 Amazon:
 Organic Linen Socks
 Organic Hemp + Cotton Socks	
-Workout gear	Girlfriend Collective
+
+## Workout gear	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
 Patagonia
@@ -259,7 +264,11 @@ Boody
 Pact
 Amazon:
 Cork .+ Natural Rubber Yoga Mat	
-Swim	Galamaar
+
+## Swim	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Galamaar
 Summersalt
 TallPoppy
 Vitamin A
@@ -269,22 +278,45 @@ Alyned
 Bold Swim
 Outerknown
 Londré		
-Jewelry	Danica Stamenic
+
+## Jewelry	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Danica Stamenic
 Ceremony
 Olivia Kane
 Mr. OK
 J. Hannah
 Vrai		
-Shoes	Avarcas
+
+## Shoes	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Avarcas
 Allbirds
 Rothys
 Soludos	
-Tech	Pela Phone Case
-Ecosia Search Engine	
-Parties	Austeriti Sustainable Bar Services (Los Angeles)
+
+## Technology
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Samara Bags
+Pela Phone Case
+Ecosia Search Engine
+
+## Parties	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Austeriti Sustainable Bar Services (Los Angeles)
 Sustain LA Event rentals (Los Angeles)
 Fibers & Florals (Los Angeles)
-Clothing	Not vintage
+
+## Clothing	
+### Not vintage
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
 Sezanne
 Whimsy & Row
 Jesse Kamm
@@ -300,7 +332,10 @@ Suay Shop
 MATE The Label
 Boyish Jeans
 ThredUp
-Vintage/Secondhand
+
+### Vintage/Secondhand
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
 Fair Season
 Shop Future
 Shop Stressed
@@ -314,11 +349,22 @@ The RealReal
 Depop
 Poshmark
 Etsy		
-Packaging/Shipping	Eco Enclose
+
+## Packaging/Shipping	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Eco Enclose
 Mushroom Packaging
 Green Cell Foam
 Compostable Mailers	
-Sustainable shops /Zero waste shops	Southern California
+
+## Sustainable shops /Zero waste shops	
+
+###Southern California
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
 Refill Evolution (Altadena Farmer’s Market)
 Riley’s General Store (Arcadia, Azusa, Monrovia)
 Without Waste Shop (Brentwood Farmers Market)
