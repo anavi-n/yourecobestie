@@ -20,6 +20,7 @@ Credit to lots of different resources across the internet (let's be real mostly,
 | ------ | ------| --------|
 | [Made Trade](https://www.madetrade.com/)| all things sustainability, ethically made, and carbon offset shipping | |
 | [Earth Hero](https://earthhero.com/) | one-stop sustainability store | |
+| [BLK + GRN](https://blkgrn.com/) | All-natural, non-toxic marketplace by black artisans | 
 
 ## Kitchen	
 | Brand/Shop	| Why?	|
@@ -234,10 +235,9 @@ Stainless Steal Tea Strainer
 Compostable Unbleached Coffee Filters
 Reusable Hemp Coffee Filter		
 
-##Skincare / Beauty
+## Skincare / Beauty
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-| [BLK + GRN](https://blkgrn.com/) | All-natural, non-toxic marketplace by black artisans | 
 The Detox Market
 Follain
 Credo Beauty
