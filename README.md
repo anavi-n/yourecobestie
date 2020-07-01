@@ -396,7 +396,7 @@ Central Co-op
 ### Seattle
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
-Scoop
+[Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | |
 
 ### Southern California
 | Brand/Shop	| Why?	| Notes |
