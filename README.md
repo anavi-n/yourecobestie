@@ -1,6 +1,4 @@
-# sustainableverything
-
-Sustainable everything
+# Sustainable everything
 
 Your guide to everything that is good for the earth and good for you!
 
@@ -10,9 +8,9 @@ I'd also like to emphasize the sustainability angle on buying as well, for items
 
 Credit to lots of different YouTube channels I watch and instagram accounts I follow.
 
+## Kitchen	
 | Category	| Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------| ------- |
-Kitchen	
 Clean Cult
 Aplat Bowl & Pan Covers
 No Tox Life Dishwashing Block
@@ -44,7 +42,11 @@ Organic Loofah Kitchen Sponge
 Natural Cleaning Brush Kit
 No Tox Life Dishwashing Block
 70% Certified Post Consumer Recycled Trash Bags		
-Laundry	Guppyfriend
+
+## Laundry	
+| Category	| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------| ------- |
+Guppyfriend
 Cora Ball
 Girlfriend Filter
 Dryer Sheet DIY
