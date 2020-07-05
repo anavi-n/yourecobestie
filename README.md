@@ -173,7 +173,8 @@ Facebook Marketplace
 | ------ | ------| --------|
 Seed Probiotics
 Cap Beauty Daily
-Ritual Vitamins		
+Ritual Vitamins	
+|Vegums | | UK based |
 
 ## Feminine products	
 | Brand/Shop	| Why?	| Notes |
