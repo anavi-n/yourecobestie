@@ -1,6 +1,6 @@
 # SustainablEverything
 
-I'm a (barely) 20-something low-waste / sustaianable / eco-friendly / minaimalist and I wanted to share resources to help those who might be interested in similar topics.
+I'm a (barely) 20-something low-waste / sustaianable / eco-friendly / minimalist and I wanted to share resources to help those who might be interested in similar topics.
 This is a guide to everything that is good for the earth and good for you!
 
 As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have or using them until end of their life.
@@ -62,15 +62,15 @@ No Tox Life Dishwashing Block
 70% Certified Post Consumer Recycled Trash Bags		
 
 ## Laundry	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why?	|
+| ------ | ------|
 Guppyfriend
 Cora Ball
 Girlfriend Filter
 Dryer Sheet DIY
 Clean Cult
 Dropps Laundry Pods
-[Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid)| Plastic free & post consumer recycled plastic caps | Australia based |
+[Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid) | Post-consumer recycled plastic, no new plastic, non toxic, Australia based |
 
 ### Amazon:
 | Item| Why?	 |
@@ -103,6 +103,7 @@ Refillable Bathing Culture Body Wash
 Marley’s Monsters Organic Bamboo Washcloths
 Marley’s Monsters Organic Facial Rounds
 Tushy Spa Bidet Attachment
+
 ### Amazon:
 | Item| Why?	 |
 | ------ | ------|
