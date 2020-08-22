@@ -70,6 +70,8 @@ Girlfriend Filter
 Dryer Sheet DIY
 Clean Cult
 Dropps Laundry Pods
+[Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid)| Plastic free & post consumer recycled plastic caps | Australia based |
+
 ### Amazon:
 | Item| Why?	 |
 | ------ | ------|
