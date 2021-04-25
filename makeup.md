@@ -20,9 +20,10 @@ Location: US based
 [Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
 
 ### Amazon
-
+| Item| Why?	
+| ------ | ------ 
 EcoTools Beauty Blender | Biodegradeable within 180 days via home composting
-[EcoTools Beauty Blender Duo](https://www.amazon.com/BioBlender-Ecotools-Natural-Blender-Foundation/dp/B08RQLJRJ3/) | Biodegradeable within 180 days via home composting
+[EcoTools Beauty Blender Duo](https://www.amazon.com/BioBlender-Ecotools-Natural-Blender-Foundation/dp/B08RQLJRJ3/) | Biodegradeable within 180 days via home composting. Also available at Target
 
 Location: India based
 
