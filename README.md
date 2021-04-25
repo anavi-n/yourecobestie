@@ -11,7 +11,7 @@ I'd also like to emphasize the sustainability angle on buying, for items we're b
 *1. FInd local options - stores within your neighborhood. If that is not an option, online works, too.*
 *2. I don't recommend Amazon unless you have limited options for where you live. Try to club and buy multiple items at once if you do so.*
 *3. I don't endorse or make a profit from sharing any of these links*
-*4. Credit to lots of different resources across the internet (let's be real mostly, Instagram/YouTube accounts), I've linked some at the end. Especially, Claggie's Sustainability Masterlist, apart from the amount of time I've spent doing my own research*
+*4. Credit to lots of different resources across the internet
 *5. This is a work-in-progress*
 
 ## One-stop shops
