@@ -21,8 +21,9 @@ Nudi Goods |
 Clean Faced Cosmetics | 
 100& Pure | 
 
-Amazon:
-Eco Tools Beauty Blender
+### Amazon
+
+Eco Tools Beauty Blender 
 Eco Tools Beauty Blender Duo
 
 Location: India based
