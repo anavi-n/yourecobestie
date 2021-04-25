@@ -1,14 +1,15 @@
 ## Bathroom	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
-| Who Gives A Crap Toilet Paper |  | |
-| [Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) | I have tried them and perfectly fine |
+| Brand/Shop	| Why?
+| ------ | ------|
+Who Gives A Crap Toilet Paper |  |
+[Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) 
 Plant Paper Toilet Paper
 Public Goods Tree Free Toilet Paper
 Root Safety Razor
+Eco Roots 
 Compostable/Refillable Dental Floss (+ Refill)
 Bite Toothpaste Tablets
-Plaine Products
+Plaine Products | Refill program, aluminuium packaging
 Coyuchi Organic Cotton Towels
 WiseTowl Organic Cotton Towels
 Leaf Shave Stainless Razor
