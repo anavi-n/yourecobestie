@@ -19,6 +19,7 @@ Location: US based
 [Nudi Goods](https://nudigoods.com) | plastic free, low waste / zero waste skincare, cosmetics, and home goods brand 
 [Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
 
+
 ### Amazon
 | Item| Why?	
 | ------ | ------ 
@@ -30,3 +31,9 @@ Location: India based
 | Brand/Shop	| Why?	
 | ------ | ------ 
 [Asa Beauty](https://asabeauty.com) | Refillable, vegan, recyclable, cruelty-free
+
+Location: Australia based
+
+| Brand/Shop	| Why?	
+| ------ | ------ 
+[Dirty Hippie Cosmetics](https://dirtyhippiecosmetics.com.au/shop) | vegan, cruelty-free, zerowaste
