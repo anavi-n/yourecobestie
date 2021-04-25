@@ -1,17 +1,21 @@
 ## Groceries in bulk
 ### Seattle
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why?	|
+| ------ | ------| 
 Central Co-op
+PCC
 
 ## Sustainable shops /Zero waste shops	
+
 ### Seattle
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 [Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | |
 [Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | | 
+Zenith 
 
 ### Southern California
+
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Refill Evolution (Altadena Farmer’s Market)
