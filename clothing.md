@@ -1,3 +1,41 @@
+## Clothing 
+### New
+| Brand/Shop  | Why?  | Notes |
+| ------ | ------| --------|
+| [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
+Sezanne
+Whimsy & Row
+Jesse Kamm
+Mixed Business
+OR Los Angeles
+Galerie LA
+Girlfriend Collective
+Back Beat Co. 
+Christy Dawn
+Elizabeth Suzann
+Pair Up Etc.
+Suay Shop
+MATE The Label
+Boyish Jeans
+ThredUp
+
+### Secondhand/Thrift
+| Brand/Shop  | Why?  | Notes |
+| ------ | ------| --------|
+Fair Season
+Shop Future
+Shop Stressed
+Cabin Vintage
+Weepah Way
+Rawson
+Lunes Store
+This Repair Shop
+Ética Denim
+The RealReal
+Depop
+Poshmark
+Etsy  
+
 ## Undergarments	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
