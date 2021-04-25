@@ -524,15 +524,18 @@ Miir
 ## Makeup	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
-Kjaer Weis
+Axiology | | Lipsticks |
+Kjaer Weis| | 
 Aether
 Noto Botanics
 RMS 
-Elate Beauty
+Elate Cosmetics 
 Birch Makeup Brush
 W3ll People
 Ilia Beauty
 Beautycounter
+
+
 Amazon:
 Eco Tools Beauty Blender
 Eco Tools Beauty Blender Duo		
