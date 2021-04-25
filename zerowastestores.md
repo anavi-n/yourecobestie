@@ -97,33 +97,3 @@ Smart & Final
 WinCo Foods
 New Leaf	
 
-## Subscriptions	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
-Clean Cult
-Public Goods	
-
-## DIY	
-| What	| Why?	| Notes |
-| ------ | ------| --------|
-Dryer Sheets 
-Vinegar All-Purpose Cleaner
-Massage Oil
-Clothing Odor Remover Spray
-How To Remove Labels From Jars	
-
-## Water Bottles	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
-Purist Collective
-Klean Kanteen
-Kinto Travel Tumbler
-BKR
-Swell
-Hydroflask
-Miir
-Amazon:
-BKR
-Swell
-Hydroflask
-Miir	
