@@ -6,8 +6,6 @@ This is a guide to everything that is good for the earth and good for you!
 As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have or using them until end of their life.
 I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option. 
 
-Credit to lots of different resources across the internet (let's be real mostly, Instagram accounts).
-
 *Things to note:*
 
 *1. FInd local options - stores within your neighborhood. If that is not an option, online works, too.*
