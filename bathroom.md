@@ -9,6 +9,7 @@ Root Safety Razor
 Eco Roots 
 Compostable/Refillable Dental Floss (+ Refill)
 Bite Toothpaste Tablets
+By HumanKind tooth tabs
 Plaine Products | Refill program, aluminuium packaging
 Coyuchi Organic Cotton Towels
 WiseTowl Organic Cotton Towels
