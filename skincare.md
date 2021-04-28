@@ -1,6 +1,6 @@
 ## Skincare 
 
-Location: US based 
+### Location: US based 
 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
@@ -28,14 +28,14 @@ Location: US based
 [By Humankind](https://byhumankind.com) | Refillable and plastic free products |
 [Beautycounter](https://www.beautycounter.com) | plastic-free options |
 
-Location: India based
+### Location: India based
 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 [Earth Rhythm](https://www.earthrhythm.com) | plastic-free, natural ingredients 
 [Zero Waste Shop India](https://zerowasteshop.in) | a bunch of zero waste products from different brands
 
-Location: London based
+### Location: London based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 [Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
