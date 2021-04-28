@@ -1,4 +1,6 @@
 ## Skincare / Beauty
+
+Location: US based 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 The Detox Market
@@ -17,6 +19,13 @@ REN Skincare
 Meow Meow Tweet Baking Soda Free Deodorant Cream
 By Humankind Refillable Deodorant
 Beautycounter
+
+Location: India based
+
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+Earth Rhythm | plastic-free, natural ingredients 
+Zero Waste Shop India | a bunch of zero waste products from different brands
 
 ### Amazon:
 | Item| Why?	 |
