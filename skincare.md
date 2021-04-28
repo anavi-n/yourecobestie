@@ -4,8 +4,8 @@ Location: US based
 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-The Detox Market | variety of products from different brands, also ships to India |
-Follain | re-usable glass containers |
+[The Detox Market](https://www.thedetoxmarket.com) | variety of products from different brands, also ships to India |
+[Follain](http://follain.com) | re-usable glass containers |
 [Meow Meow Tweet](https://meowmeowtweet.com) | Plastic-free , vegan, creulty-free, ethical |
 [Fat and The Moon](https://www.fatandthemoon.com) | plastic-free, ethical |
 [RAW elements](https://www.rawelementsusa.com) | Plastic free sun protection products|
