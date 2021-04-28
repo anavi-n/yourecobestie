@@ -38,7 +38,7 @@ Location: India based
 Location: London based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-Pai Skincare(https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
+[Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
 
 ### Amazon:
 | Item| Why?	 |
