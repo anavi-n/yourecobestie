@@ -15,5 +15,3 @@ I'd also like to emphasize the sustainability angle on buying, for items we're b
  4. Credit to lots of different resources across the internet
  5. This is a work-in-progress
 
-## Table of content
-Bathroom - https://github.com/anavi-n/sustainableverything/blob/master/bathroom.md
