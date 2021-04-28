@@ -11,7 +11,7 @@ Follain | re-usable glass containers |
 [RAW elements](https://www.rawelementsusa.com) | Plastic free sun protection products|
 [Empiresquad oragnics](https://www.empiresquid.com) | Plastic-free, certified organic, made to order |
 [Rainwater Botanicals](https://www.rainwaterbotanicals.com) | plastic-free, natural ingredients, cruelty-free|
-[Andreas Oragnic Market] (https://www.etsy.com/shop/AndreasOrganicMarket)| fair-trade, organic, plastic-free products
+[Andreas Oragnic Market](https://www.etsy.com/shop/AndreasOrganicMarket)| fair-trade, organic, plastic-free products
 [Dab Herb](https://www.dabhms.com/about) | plastic-free, natural ingredients |
 [God Juju Herbal](https://www.goodjujuherbal.com) | plastic-free, natural ingredients, handmade |
 [Ethique](https://ethique.com) | Plastic-free |
@@ -21,20 +21,24 @@ Follain | re-usable glass containers |
 [Noto Botanics](https://notobotanics.com) | vegan, refill stations, plastic-free, locally sourced ingredients |
 [Cocokind](https://www.cocokind.com) | some plastic-free options
 [Osea](https://oseamalibu.com) | plastic-free, vegan, plant-based | 
-Pai Skincare
-Tata Harper
-True Botanicals
-Biossance
-REN Skincare
-By Humankind | Refillable Deodorant and plastic free products |
-Beautycounter
+[Tata Harper](https://global.tataharperskincare.com) | natural skincare, plastic-free options|
+[True Botanicals](https://truebotanicals.com)|  plastic-free options |
+[Biossance](https://biossance.com) | carbon-neutral shipping, plastic-free, zero wate commitment by 2025 |
+[REN Skincare](https://usa.renskincare.com) | zero-waste, plastic-free options
+[By Humankind](https://byhumankind.com) | Refillable and plastic free products |
+[Beautycounter](https://www.beautycounter.com) | plastic-free options |
 
 Location: India based
 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-Earth Rhythm | plastic-free, natural ingredients 
-Zero Waste Shop India | a bunch of zero waste products from different brands
+[Earth Rhythm](https://www.earthrhythm.com) | plastic-free, natural ingredients 
+[Zero Waste Shop India](https://zerowasteshop.in) | a bunch of zero waste products from different brands
+
+Location: London based
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+Pai Skincare(https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
 
 ### Amazon:
 | Item| Why?	 |
