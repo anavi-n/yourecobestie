@@ -6,7 +6,7 @@
 | ------ | ------| 
 [The Detox Market](https://www.thedetoxmarket.com) | variety of products from different brands, also ships to India |
 [Follain](http://follain.com) | re-usable glass containers |
-[Meow Meow Tweet](https://meowmeowtweet.com) | Plastic-free , vegan, creulty-free, ethical |
+[Meow Meow Tweet](https://meowmeowtweet.com) | Plastic-free , vegan, cruelty-free, ethical |
 [Fat and The Moon](https://www.fatandthemoon.com) | plastic-free, ethical |
 [RAW elements](https://www.rawelementsusa.com) | Plastic free sun protection products|
 [Empiresquad oragnics](https://www.empiresquid.com) | Plastic-free, certified organic, made to order |
@@ -27,6 +27,20 @@
 [REN Skincare](https://usa.renskincare.com) | zero-waste, plastic-free options
 [By Humankind](https://byhumankind.com) | Refillable and plastic free products |
 [Beautycounter](https://www.beautycounter.com) | plastic-free options |
+
+Sunscreen
+
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+Bytter bean organics
+Raw elements 
+badger balm
+just skin food
+Pacific Beach Organica
+Go Wax head
+Sun butter skincare | vegan
+Suntribe screen
+Not the norm LTD
 
 ### Location: India based
 
