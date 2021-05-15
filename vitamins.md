@@ -7,6 +7,7 @@
 | [Seed Probiotics](https://seed.com/) | plastic-free, glass jars w refils = only one probiotic though | 
 | [Ritual Vitamins](https://ritual.com/)	| bottles from recycled content | 
 | [Care/Of](https://takecareof.com/) | plastic-free, compostable, subscription model| 
+| Central-Coop | Local to Seattle, vitamins in glass bottles | 
 
 * Look for your local liquid supplements as they come in glass bottles
 
