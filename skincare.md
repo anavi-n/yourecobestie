@@ -28,7 +28,7 @@
 [By Humankind](https://byhumankind.com) | Refillable and plastic free products |
 [Beautycounter](https://www.beautycounter.com) | plastic-free options |
 
-Sunscreen
+## Sunscreen
 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
