@@ -32,15 +32,15 @@
 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-Bytter bean organics
-Raw elements 
-badger balm
-just skin food
-Pacific Beach Organica
-Go Wax head
+[Butter bean organics](https://www.butterbeanorganics.com/)| Plastic-free, Refill system, mineral sunscreen
+[Raw elements USA](https://www.rawelementsusa.com/)| Plastic-free, available at REI
+[badger balm](https://www.badgerbalm.com/)| Mineral sunscreen
+[just skin food](https://www.justskinfood.com/products/baby-beach-bum-sunscreen) | mineral sunscreen
+[Pacific Beach Organica](https://www.pacificbeachorganics.com/) | Plastic free, mineral sunscreen
+[Go Wax head](https://gowaxhead.com/) | Mineral sunscreen
 Sun butter skincare | vegan
-Suntribe screen
-Not the norm LTD
+Suntribe screen | 
+Not the norm LTD |
 
 ### Location: India based
 
