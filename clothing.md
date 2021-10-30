@@ -3,7 +3,7 @@
 | Brand/Shop  | Why?  | Notes |
 | ------ | ------| --------|
 | [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
-Aritzia
+| [Aritzia](https://www.aritzia.com/us/en/home) | 
 Sezanne
 Whimsy & Row
 Jesse Kamm
