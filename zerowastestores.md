@@ -1,11 +1,4 @@
-## Groceries in bulk
-### Seattle
-| Brand/Shop	| Why?	|
-| ------ | ------| 
-Central Co-op
-PCC
-
-## Sustainable shops /Zero waste shops	
+## Sustainable shops / Zero waste shops	
 
 ### Seattle
 | Brand/Shop	| Why? |
@@ -13,6 +6,12 @@ PCC
 [Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | 
 [Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | 
 Zenith Supplies |
+Ballard Market | bulk dry goods and so much more! |
+[Mimi's Zero waste](https://mimiszerowastemarket.com/) | bulk grocery |
+[Central Co-op](https://www.centralcoop.coop/) | Bulk grocery and plastic0free produce |
+[PCC Markets](https://www.pccmarkets.com/) | bulk grocery, food, and cleaning supplies |
+[Dandelion Botanical Company](https://dandelionbotanical.com/) | Bulk spices, teas, salts, etc.|
+[Public Goods](https://apublicshop.com/) | Bulk everything |
 
 ### Southern California
 
