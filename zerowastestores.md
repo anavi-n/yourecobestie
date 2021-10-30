@@ -8,16 +8,16 @@ PCC
 ## Sustainable shops /Zero waste shops	
 
 ### Seattle
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
-[Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | |
-[Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | | 
-Zenith 
+| Brand/Shop	| Why? |
+| ------ | ------| 
+[Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | 
+[Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | 
+Zenith Supplies |
 
 ### Southern California
 
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why?	| 
+| ------ | ------| 
 Refill Evolution (Altadena Farmer’s Market)
 Riley’s General Store (Arcadia, Azusa, Monrovia)
 Without Waste Shop (Brentwood Farmers Market)
