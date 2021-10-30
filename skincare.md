@@ -19,6 +19,7 @@
 [Bee You Organics](https://beeyouorganics.com) | cruelty-free, plastic-free |
 [Evan Healy](https://www.evanhealy.com) | certified organic, no synthetic fragrances in products |
 [Monastery](https://www.monasterymade.com)| natural skincare |
+[Mad Hippie](https://madhippie.com/) | Vegan, cruelty-free |
 [Noto Botanics](https://notobotanics.com) | vegan, refill stations, plastic-free, locally sourced ingredients |
 [Cocokind](https://www.cocokind.com) | some plastic-free options
 [Osea](https://oseamalibu.com) | plastic-free, vegan, plant-based | 
