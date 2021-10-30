@@ -3,6 +3,7 @@
 | Brand/Shop  | Why?  | Notes |
 | ------ | ------| --------|
 | [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
+Aritzia
 Sezanne
 Whimsy & Row
 Jesse Kamm
@@ -17,7 +18,7 @@ Pair Up Etc.
 Suay Shop
 MATE The Label
 Boyish Jeans
-ThredUp
+Organic Basics
 
 ### Secondhand/Thrift
 | Brand/Shop  | Why?  | Notes |
@@ -34,7 +35,8 @@ This Repair Shop
 The RealReal
 Depop
 Poshmark
-Etsy  
+Etsy 
+ThredUp
 
 ## Undergarments	
 | Brand/Shop	| Why?	| Notes |
