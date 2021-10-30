@@ -1,6 +1,8 @@
+Location: US based
 | Brand/Shop  | Why?  |
 | ------ | ------| 
 | [Glee gum](https://www.gleegum.com/) | Plastic-free | 
+| [Simply Gum](https://www.simplygum.com/) | Plastic-free |
 
 
 Location: UK based
