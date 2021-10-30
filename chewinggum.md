@@ -13,4 +13,5 @@ Location: UK based
 
 Location: Australia/NZ
 | Brand/Shop  | Why? |
+| ------ | ------| 
 | [Honest Gum](https://honest-gum.myshopify.com/collections/all)|
