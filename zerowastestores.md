@@ -13,8 +13,19 @@ Ballard Market | bulk dry goods and so much more! |
 [Dandelion Botanical Company](https://dandelionbotanical.com/) | Bulk spices, teas, salts, etc.|
 [Public Goods](https://apublicshop.com/) | Bulk everything |
 
-### Southern California
+### Ithaca
+| Brand/Shop | Why? |
+| ------ | ------ |
+The Ithaca farmers market | Local produce | 
+Adrina Dietra | soaps, oils and body butters | 
+[Bramble](https://www.brambleithaca.com/) | bulk tea, spices | 
+Wegmans | some bulk items |
+[Home Green Home](http://www.homegreenhome.com/) | Reusable and other kitchen items |
+[Mimi’s attic](https://mimisatticithaca.com/) | Secondand items for home, kitchen |
+[Green Star](https://greenstar.coop/) | Bulk dry goods
 
+
+### Southern California
 | Brand/Shop	| Why?	| 
 | ------ | ------| 
 Refill Evolution (Altadena Farmer’s Market)
