@@ -74,3 +74,135 @@ Compostable Dish Brush (+ Replaceable Head)
 Bamboo Unpaper Towels
 No Tox Life Dishwashing Block
 Quick Loop Mop (+ Handle)
+
+## Clothing 
+### New
+| Brand/Shop  | Why?  | Notes |
+| ------ | ------| --------|
+| [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
+| [Aritzia](https://www.aritzia.com/us/en/home) | 
+Sezanne
+Whimsy & Row
+Jesse Kamm
+Mixed Business
+OR Los Angeles
+Galerie LA
+Girlfriend Collective
+Back Beat Co. 
+Christy Dawn
+Elizabeth Suzann
+Pair Up Etc.
+Suay Shop
+MATE The Label
+Boyish Jeans
+Organic Basics
+
+### Secondhand/Thrift
+| Brand/Shop  | Why?  | Notes |
+| ------ | ------| --------|
+Fair Season
+Shop Future
+Shop Stressed
+Cabin Vintage
+Weepah Way
+Rawson
+Lunes Store
+This Repair Shop
+Ética Denim
+The RealReal
+Depop
+Poshmark
+Etsy 
+ThredUp
+
+## Undergarments	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Arq
+Proclaim
+Hara the Label
+Parade
+Knickey
+Pansy
+Organic Basics
+Pact Organic Underwear
+Brook There
+Groceries Apparel
+Amazon:
+Organic Linen Socks
+Organic Hemp + Cotton Socks	
+
+## Workout gear	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Girlfriend Collective
+Outdoor Voices
+Groceries Apparel
+Patagonia
+Boody
+Pact
+
+## Swim	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Galamaar
+Summersalt
+TallPoppy
+Vitamin A
+Salome Swim
+Now Then
+Alyned
+Bold Swim
+Outerknown
+Londré		
+
+## Coffee	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Purist Collective
+Kinto Travel Tumbler
+Keep Cup
+Palmpress Coffee Press
+Nayad Classic Tumbler (22oz)
+Beleaf Green Travel Straw
+Huskee
+Corksickle
+Stojo Collapsible Coffee Cup
+
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
+Huskee
+Corksicle
+Stojo Collapsible Coffee Cup
+Reusable Stainless Steel Coffee Filter
+Stainless Steal Tea Strainer
+Compostable Unbleached Coffee Filters
+Reusable Hemp Coffee Filter	
+
+## Furniture/Home Decor	
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Chairish
+Studio Moe
+Fyrn
+Burrow
+Medley
+Thuma
+The Joinery
+Made Trade
+Sabai
+Simbly
+Viesso
+Atomic Threshold
+Resource Furniture
+Vermont Wood Studios
+Avocado Reclaimed Wood Furniture
+Parachute Undyed Wool Rugs
+Lorena Canals Nontoxic Washable Cotton + Wool Rugs
+EBTH
+Craigslist
+Facebook Marketplace	
+
+
