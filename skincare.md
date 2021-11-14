@@ -29,7 +29,7 @@
 [REN Skincare](https://usa.renskincare.com) | zero-waste, plastic-free options
 [By Humankind](https://byhumankind.com) | Refillable and plastic free products |
 [Beautycounter](https://www.beautycounter.com) | plastic-free options |
-
+[Sustain Yourself Shop](https://www.sustainyourselfshop.com/shop) | plastic-free, small business, female owned |
 ## Sunscreen
 
 | Brand/Shop	| Why?	|
