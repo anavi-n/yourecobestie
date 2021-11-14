@@ -255,3 +255,107 @@ Natural Cleaning Brush Kit
 No Tox Life Dishwashing Block
 70% Certified Post Consumer Recycled Trash Bags		
 
+## Laundry	
+
+### Location: US/Canada based
+| Brand/Shop	| Why?	|
+| ------ | ------|
+Nellie's clean | Canadian but available in local stores in US; Powder detergents, plastic free and other laundry related items
+True Earth laundry strips | Canada based, plastic free detergent
+Etee | Canada based, laundry detergent is palm oil free |
+Ethique | Laundry bar and stain removing stick |
+Dr Bronner's | Castille soap as laundry detergent
+Well Earth Goods | Laundry detergent strips
+Urban Oreganics | Laundry soap |
+Meliora | plastic-free detergent
+Shower Treat | zero waste laundry detergent
+Cleancult | Wool dryer balls |
+Guppyfriend | Micro-plastic catcher | 
+Cora Ball | 
+Girlfriend Filter | Micro-plastic filter |
+
+
+
+### Location: Australia based
+| Brand/Shop	| Why?	|
+| ------ | ------|
+Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid) | Post-consumer recycled plastic, no new plastic, non toxic, Australia based |
+Zero Co | Laundry detergent 
+Happi Earth | Laundry refills
+
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
+Wool Dryer Balls
+Wood Drying Rack
+Natural Lint Brush
+Wooden Clothes Pins
+Microfiber Filter
+
+## Makeup	
+
+Location: US based
+
+| Brand/Shop	| Why?	
+| ------ | ------ 
+[Axiology Beauty](https://axiologybeauty.com/collections/balmies) | zero-waste lip colors - Lip Balmies|
+[Kjaer Weis](https://kjaerweis.com)| Blush, Bronzer, Highlighter are compostable and refillable = Refresh On Repeat RED EDITION made from Paper, 100% refillable, recyclable and compostable. Iconic edition is refillable.
+[Aether](https://athrbeauty.com)| vegan, cruelty-free, made from paper, recyclable 
+[Noto Botanics](https://notobotanics.com) | LA based in store refill|
+[RMS](https://www.rmsbeauty.com) | Cruelty-free, recylable, compostable make up wipes
+[Elate Cosmetics] |vegan, cruelty-free, re-fillable, plastic free, fair-trade, "Our packaging is currently around 75% waste free. Products that contain recyclable plastic include our liquid products (Refresh and Uplift foundation, mascara, liquid eyeliner, lip gloss), lipsticks, and loose powders. We continue to make efforts to become a 100% plastic free and waste free company."
+[W3ll People](http://w3llpeople.com) |vegan, cruelty-free, toxic-chemical free
+[Ilia Beauty](https://iliabeauty.com) | recycling program with TerraCycle
+[Beautycounter](https://www.beautycounter.com/) | cruelty-free, setting good goals for sustainability, certified B corp
+[Pacifica](https://www.pacificabeauty.com) | vegan, cruelty-free, recycling program 
+[Faraday Face](http://faradayface.com) | non-toxic, vegan, cruelty-free,  plastic-free 
+[Dab Herb](https://www.dabhms.com) | vegan, cruelty-free, plastic-free
+[Nudi Goods](https://nudigoods.com) | plastic free, low waste / zero waste skincare, cosmetics, and home goods brand 
+[Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
+
+
+### Amazon
+| Item| Why?	
+| ------ | ------ 
+EcoTools Beauty Blender | Biodegradeable within 180 days via home composting
+[EcoTools Beauty Blender Duo](https://www.amazon.com/BioBlender-Ecotools-Natural-Blender-Foundation/dp/B08RQLJRJ3/) | Biodegradeable within 180 days via home composting. Also available at Target
+
+Location: India based
+
+| Brand/Shop	| Why?	
+| ------ | ------ 
+[Asa Beauty](https://asabeauty.com) | Refillable, vegan, recyclable, cruelty-free
+
+Location: Australia based
+
+| Brand/Shop	| Why?	
+| ------ | ------ 
+[Dirty Hippie Cosmetics](https://dirtyhippiecosmetics.com.au/shop) | vegan, cruelty-free, zerowaste
+
+
+## Menstrual Producs
+Location: US Based
+
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Thinx
+Luna Pads
+Thinx Reusable Tampon Applicator
+Saalt Cup
+Dot Cup
+Lunette Cup
+June Cup
+
+### Amazon:
+| Item| Why?	 |
+| ------ | ------|
+Saalt Cup
+Pixie Cup
+Diva Cup
+Organic Cotton Reusable Pantyliners		
+
+Location: India Based
+
+| Item| Why?	 |
+| ------ | ------|
+Saathi Pads | Compostable pads
