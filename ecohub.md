@@ -359,3 +359,44 @@ Location: India Based
 | Item| Why?	 |
 | ------ | ------|
 Saathi Pads | Compostable pads
+
+## Packaging/Shipping	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Eco Enclose
+Mushroom Packaging
+Green Cell Foam
+Compostable Mailers	
+
+## Parties	
+| Brand/Shop	| Why?	| Notes |
+| ------ | ------| --------|
+Austeriti Sustainable Bar Services (Los Angeles)
+Sustain LA Event rentals (Los Angeles)
+Fibers & Florals (Los Angeles)
+
+## Hair Care
+
+Location: US based
+
+| Brand/Shop	| Why?|
+| ------ | ------|
+Ethique | Shampoo bar |
+EcoRoots
+Plaine Products
+Andreas Organic Market
+Battle Green
+The Better Soap Company
+Friendly Soap
+Emerson Soaps
+Beauty and the Beas
+Dirty Hippie Cosmetics
+Katie Mae Natuals
+Sea and Clean
+
+Location: India based
+
+| Brand/Shop	| Why?|
+| ------ | ------|
+The Body Soap | 
+
