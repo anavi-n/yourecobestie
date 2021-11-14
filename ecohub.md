@@ -213,10 +213,18 @@ Stainless Steal Tea Strainer
 Compostable Unbleached Coffee Filters
 Reusable Hemp Coffee Filter	
 
+## Deodorant
+| Brand/Shop	| Why?	|
+| ------ | ------|
+Bite | Plastic-free, refills
+No Tox Life | Woman owned, plastic-free
+Sustain Yourself Shop | Woman owned, plastic-free
+
+
 ## Furniture/Home Decor	
 
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why?	|
+| ------ | ------|
 Chairish
 Studio Moe
 Fyrn
