@@ -269,7 +269,7 @@ Stasher Bags
 Bamboo Countertop Compost Bin
 Inka World Food Containers
 [Sunbird Straws](https://sunbirdstraws.com/) | Uses Cocconut leaves that would be o/w burnt while funding women in rural areas| Karnataka, India| 
-
+[Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |
 ### Amazon:
 | Item| Why?	 |
 | ------ | ------|
