@@ -483,6 +483,8 @@ Soludos
 [By Humankind](https://byhumankind.com) | Refillable and plastic free products |
 [Beautycounter](https://www.beautycounter.com) | plastic-free options |
 [Sustain Yourself Shop](https://www.sustainyourselfshop.com/shop) | plastic-free, small business, female owned |
+[Dermaplaning tool](https://www.tweezerman.com/facial-razor.html) | plastic-free
+
 ## Sunscreen
 
 | Brand/Shop	| Why?	|
