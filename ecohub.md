@@ -10,11 +10,11 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Chewing Gum](ecohub.md#chewing-gum)
 - [Cleaning](ecohub.md#cleaning)
 - [Clothing](ecohub.md#clothing)
-  - Secondhand/Thrift
-  - Undergarments	
-  - Workout gear
-  - Swim	
-  - New
+  - [Secondhand/Thrift](ecohub.md#secondhandthrift)
+  - [Undergarments](ecohub.md#undergarments)
+  - [Workout gear](ecohub.md#workout-gear)
+  - [Swim](ecohub.md#swim)	
+  - [New](ecohub.md#new)
 - [Coffee](ecohub.md#coffee)
 - [Deodorant](ecohub.md#deodorant)
 - [Furniture](ecohub.md#furniture)
