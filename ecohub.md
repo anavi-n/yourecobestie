@@ -4,23 +4,23 @@ I'm a  low-waste / sustaianable / eco-friendly / minimalist and I wanted to shar
 As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have or using them until end of their life. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable
 
 ## Table of Contents
-- One stop sustainable shops
-- Bathroom
-- Bedroom
-- Chewing Gum
-- Cleaning
-- Clothing
-- Coffee
-- Deodorant
-- Furniture
-- Hair care
-- Jewelry
-- Kitchen
-- Laundry
-- Make up
-- Menstrual products
-- Packaging
-- Parties
+- [One stop sustainable shops](ecohub.md#one-stop-shops)
+- [Bathroom](ecohub.md#bathroom)
+- [Bedroom](ecohub.md#bedroom)
+- [Chewing Gum](ecohub.md#chewing-gum)
+- [Cleaning](ecohub.md#cleaning)
+- [Clothing](ecohub.md#clothing)
+- [Coffee](ecohub.md#coffee)
+- [Deodorant](ecohub.md#deodorant)
+- [Furniture](ecohub.md#furniture)
+- [Hair care](ecohub.md#hair-care)
+- [Jewelry](ecohub.md#jewelry)
+- [Kitchen](ecohub.md#kitchen)
+- [Laundry](ecohub.md#laundry)
+- [Make up](ecohub.md#makeup)
+- [Menstrual products](ecohub.md#menstrual-products)
+- [Packaging/Shipping](ecohub.md#packagingshipping)
+- [Parties](ecohub.md#parties)
 - [Shoes](ecohub.md#shoes)
 - [Skincare](ecohub.md#skincare)
 - [Sunscreen](ecohub.md#sunscreen)
