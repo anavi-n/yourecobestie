@@ -46,7 +46,7 @@ As always, the most sustainable thing you can do is use things you already have,
 
 
 ## Bathroom	
-| Brand/Shop	| Why?
+| Brand/Shop	| Why? | 
 | ------ | ------|
 Who Gives A Crap Toilet Paper |  |
 [Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) 
@@ -70,8 +70,8 @@ Tushy Spa Bidet Attachment
 
 
 ## Bedroom	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Avocado Luxury Green Mattress
 Avocado Luxury Vegan Mattress
 Avocado Luxury Green Pillow
@@ -109,8 +109,8 @@ Location: Australia/NZ
 | [Honest Gum](https://honest-gum.myshopify.com/collections/all)|
 
 ## Cleaning	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
@@ -119,8 +119,8 @@ Echoview Fiber Mill Reusable Cleaner Cloth
 
 ## Clothing 
 ### New
-| Brand/Shop  | Why?  | Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 | [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
 | [Aritzia](https://www.aritzia.com/us/en/home) | 
 Sezanne
@@ -140,8 +140,8 @@ Boyish Jeans
 Organic Basics
 
 ### Secondhand/Thrift
-| Brand/Shop  | Why?  | Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Fair Season
 Shop Future
 Shop Stressed
@@ -158,8 +158,8 @@ Etsy
 ThredUp
 
 ### Undergarments	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Arq
 Proclaim
 Hara the Label
@@ -173,8 +173,8 @@ Groceries Apparel
 
 
 ### Workout gear	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
@@ -183,8 +183,8 @@ Boody
 Pact
 
 ### Swim	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Galamaar
 Summersalt
 TallPoppy
@@ -197,8 +197,8 @@ Outerknown
 Londré		
 
 ## Coffee	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Purist Collective
 Kinto Travel Tumbler
 Keep Cup
@@ -221,9 +221,13 @@ Sustain Yourself Shop | Woman owned, plastic-free
 
 
 ## Furniture/Home Decor	
+Always buy secondhand or thrift first.
 
 | Brand/Shop	| Why?	|
 | ------ | ------|
+Craigslist
+Facebook Marketplace	
+Local thrift stores
 Chairish
 Studio Moe
 Fyrn
@@ -231,7 +235,6 @@ Burrow
 Medley
 Thuma
 The Joinery
-Made Trade
 Sabai
 Simbly
 Viesso
@@ -242,12 +245,11 @@ Avocado Reclaimed Wood Furniture
 Parachute Undyed Wool Rugs
 Lorena Canals Nontoxic Washable Cotton + Wool Rugs
 EBTH
-Craigslist
-Facebook Marketplace	
+
 
 ## Jewelry	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 Danica Stamenic
 Ceremony
 Olivia Kane
@@ -257,8 +259,8 @@ Vrai
 
 
 ## Kitchen	
-| Brand/Shop	| Why?	| Location |
-| ------ | ------| ------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
 [Clean Cult](https://www.cleancult.com/) | 95% plastic-free, all-natural, zero-waste, natural cleaners | |
 [Aplat Bowl & Pan Covers](https://aplat.com/collections/food-covers)| "Our 100% organic cotton canvas is 10oz, food-safe, and produced from environmentally friendly materials and fabrication methods using sustainable fibers along with low impact dyeing methods preserving the Earth"|
 No Tox Life Dishwashing Block
@@ -460,11 +462,12 @@ Not the norm LTD |
 [Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
 
 ## Technology
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? | 
+| ------ | ------|
+[Made Trade](https://www.madetrade.com/)| Second hand techology
+[Pela Phone Case](https://pelacase.com/) | Compostable phone cases; Poshmark also has secondhand Pela cases |
+[Ecosia Search Engine](https://www.ecosia.org/) | Search engine that plants trees with ad revenue |
 | [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free,  vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | I have a bag and a sleeve they are amazing! | 
-Pela Phone Case
-Ecosia Search Engine
 
 ## Vitamins, probiotics	
 
