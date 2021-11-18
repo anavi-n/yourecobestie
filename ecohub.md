@@ -43,7 +43,7 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Pretty Planet Co](https://www.prettyplanetsupplyco.com/products) | Hair, body, kitchen products, woman owned, small business |
 | [Earthling Co](https://theearthlingco.com/) | 1% for the planet, plastic-free |
 | [Zero Waste Store](https://zerowastestore.com/) | Sustainable brands on one platform | 
-
+| [Ware](https://www.wareavl.com/collections/shop-all) | Sustainable refill store, local to Asheville, NC | 
 
 ## Bathroom	
 | Brand/Shop	| Why? | 
