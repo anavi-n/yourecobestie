@@ -1,9 +1,33 @@
-#Your Eco Bestie's Eco Hub
+# Your Eco Bestie's Eco Hub
 I'm a  low-waste / sustaianable / eco-friendly / minimalist and I wanted to share resources to help those who might be interested in similar topics. This is a guide to everything that is good for the earth and good for you! Follow me on instagram for more sustainable data-based tips @yourecobestie 
 
 As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have or using them until end of their life. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable
 
 ## Table of Contents
+- One stop sustainable shops
+- Bathroom
+- Bedroom
+- Chewing Gum
+- Cleaning
+- Clothing
+- Coffee
+- Deodorant
+- Furniture
+- Hair care
+- Jewelry
+- Kitchen
+- Laundry
+- Make up
+- Menstrual products
+- Packaging
+- Parties
+- [Shoes](ecohub.md#shoes)
+- [Skincare](ecohub.md#skincare)
+- [Sunscreen](ecohub.md#sunscreen)
+- [Technology](ecohub.md#technology)
+- [Vitamins](ecohub.md#vitamins-probiotics)
+- [Water bottles](ecohub.md#water-bottles)
+
 
 ## One-stop shops
 | Brand/Shop	| Why?	| Location|
@@ -39,27 +63,6 @@ Marley’s Monsters Organic Bamboo Washcloths
 Marley’s Monsters Organic Facial Rounds
 Tushy Spa Bidet Attachment
 
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Reusable Silicone Swab
-Organic Bamboo Rounds
-Organic Bamboo Washcloths
-Bamboo Toothbrushes
-David’s Aluminum Tube Toothpaste
-Georganics Organic Toothpaste Jar
-Georganics Mouthwash Tablets
-Safety Razor
-Organic Cotton + Natural Rubber Black Hair Ties
-Organic Cotton Neutral Hair Ties
-Natural Loofah Set
-Exfoliating Soap Bag
-Tushy Classic Bidet Attachment
-Bamboo Tree-Free Toilet Paper
-Birch Toilet Brush
-Beechwood Toilet Brush with Stand
-Bamboo Organic Cotton Swabs
-Organic Cotton Shower Curtain/Liner	
 
 ## Bedroom	
 | Brand/Shop	| Why?	| Notes |
@@ -107,13 +110,7 @@ Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
 Echoview Fiber Mill Reusable Cleaner Cloth
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Compostable Dish Brush (+ Replaceable Head)
-Bamboo Unpaper Towels
-No Tox Life Dishwashing Block
-Quick Loop Mop (+ Handle)
+
 
 ## Clothing 
 ### New
@@ -168,9 +165,7 @@ Organic Basics
 Pact Organic Underwear
 Brook There
 Groceries Apparel
-Amazon:
-Organic Linen Socks
-Organic Hemp + Cotton Socks	
+
 
 ## Workout gear	
 | Brand/Shop	| Why?	| Notes |
@@ -208,17 +203,6 @@ Beleaf Green Travel Straw
 Huskee
 Corksickle
 Stojo Collapsible Coffee Cup
-
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Huskee
-Corksicle
-Stojo Collapsible Coffee Cup
-Reusable Stainless Steel Coffee Filter
-Stainless Steal Tea Strainer
-Compostable Unbleached Coffee Filters
-Reusable Hemp Coffee Filter	
 
 ## Deodorant
 | Brand/Shop	| Why?	|
@@ -279,32 +263,7 @@ Stasher Bags
 Bamboo Countertop Compost Bin
 Inka World Food Containers
 [Sunbird Straws](https://sunbirdstraws.com/) | Uses Cocconut leaves that would be o/w burnt while funding women in rural areas| Karnataka, India| 
-[Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Abeego Beeswax Food Covers
-Silicone Stretch Covers
-Stasher Bags (2 pack, 3 pack, 15 ounce, half gallon)
-Glass + Bamboo Tupperware
-Weck Jars (set of 6)
-Ball Jars (set of 12)
-Bamboo Countertop Compost Bin
-Stainless Steel Countertop Compost Bin
-Tea Infuser
-Compostable Dish Brush (+ Replaceable Head)
-Reusable Silicone Food Savers
-Reusable Silicone Avocado Savers
-Bamboo Unpaper Towels
-Stainless Steel Straws
-Clear Glass Straws
-Bamboo Straws
-Amber Glass Spray Bottles
-Clear Glass Spray Bottles
-Organic Loofah Kitchen Sponge
-Natural Cleaning Brush Kit
-No Tox Life Dishwashing Block
-70% Certified Post Consumer Recycled Trash Bags		
+[Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |	
 
 ## Laundry	
 
@@ -325,23 +284,12 @@ Guppyfriend | Micro-plastic catcher |
 Cora Ball | 
 Girlfriend Filter | Micro-plastic filter |
 
-
-
 ### Location: Australia based
 | Brand/Shop	| Why?	|
 | ------ | ------|
 Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid) | Post-consumer recycled plastic, no new plastic, non toxic, Australia based |
 Zero Co | Laundry detergent 
 Happi Earth | Laundry refills
-
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Wool Dryer Balls
-Wood Drying Rack
-Natural Lint Brush
-Wooden Clothes Pins
-Microfiber Filter
 
 ## Makeup	
 
@@ -363,13 +311,6 @@ Location: US based
 [Dab Herb](https://www.dabhms.com) | vegan, cruelty-free, plastic-free
 [Nudi Goods](https://nudigoods.com) | plastic free, low waste / zero waste skincare, cosmetics, and home goods brand 
 [Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
-
-
-### Amazon
-| Item| Why?	
-| ------ | ------ 
-EcoTools Beauty Blender | Biodegradeable within 180 days via home composting
-[EcoTools Beauty Blender Duo](https://www.amazon.com/BioBlender-Ecotools-Natural-Blender-Foundation/dp/B08RQLJRJ3/) | Biodegradeable within 180 days via home composting. Also available at Target
 
 Location: India based
 
@@ -396,14 +337,6 @@ Saalt Cup
 Dot Cup
 Lunette Cup
 June Cup
-
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Saalt Cup
-Pixie Cup
-Diva Cup
-Organic Cotton Reusable Pantyliners		
 
 Location: India Based
 
@@ -522,12 +455,6 @@ Not the norm LTD |
 | ------ | ------| 
 [Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
 
-### Amazon:
-| Item| Why?	 |
-| ------ | ------|
-Oak Face Brush
-Moon Valley Organics Lotion Bar	
-
 ## Technology
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
@@ -562,11 +489,6 @@ Ecosia Search Engine
 Purist Collective
 Klean Kanteen
 Kinto Travel Tumbler
-BKR
-Swell
-Hydroflask
-Miir
-Amazon:
 BKR
 Swell
 Hydroflask
