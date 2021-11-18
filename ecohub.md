@@ -216,9 +216,12 @@ Reusable Hemp Coffee Filter
 ## Deodorant
 | Brand/Shop	| Why?	|
 | ------ | ------|
-Bite | Plastic-free, refills
-No Tox Life | Woman owned, plastic-free
+[Bite](https://bitetoothpastebits.com/products/deodorant)| Plastic-free, refills
+[No Tox Life](https://notoxlife.com/)| Woman owned, plastic-free
 Sustain Yourself Shop | Woman owned, plastic-free
+[Pure Chimp](https://purechimp.com/products/natural-deodorant-balm?variant=16078154989662)| UK based, plastic-free |
+[Island Thyme](https://www.islandthyme.com/) | plastic free, biodegradable | 
+[Tierra & Lava](https://www.tierraandlava.com/) | fair-trade, women-owned, small business |
 
 
 ## Furniture/Home Decor	
@@ -444,7 +447,7 @@ The Body Soap |
 ## Shoes	
 | Brand/Shop	| Why? |
 | ------ | ------| 
-[Thaely's](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
+[Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
 [Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available in target | 
 The Plant Shoe
 Avarcas
