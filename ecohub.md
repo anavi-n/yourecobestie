@@ -287,7 +287,7 @@ Girlfriend Filter | Micro-plastic filter |
 ### Location: Australia based
 | Brand/Shop	| Why?	|
 | ------ | ------|
-Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid) | Post-consumer recycled plastic, no new plastic, non toxic, Australia based |
+[Koala Eco Laundry wash](https://koala.eco/products/natural-laundry-liquid) | Post-consumer recycled plastic, no new plastic, non toxic, Australia based |
 Zero Co | Laundry detergent 
 Happi Earth | Laundry refills
 
@@ -295,14 +295,14 @@ Happi Earth | Laundry refills
 
 Location: US based
 
-| Brand/Shop	| Why?	
-| ------ | ------ 
+| Brand/Shop	| Why? |	
+| ------ | ------ |
 [Axiology Beauty](https://axiologybeauty.com/collections/balmies) | zero-waste lip colors - Lip Balmies|
 [Kjaer Weis](https://kjaerweis.com)| Blush, Bronzer, Highlighter are compostable and refillable = Refresh On Repeat RED EDITION made from Paper, 100% refillable, recyclable and compostable. Iconic edition is refillable.
 [Aether](https://athrbeauty.com)| vegan, cruelty-free, made from paper, recyclable 
 [Noto Botanics](https://notobotanics.com) | LA based in store refill|
 [RMS](https://www.rmsbeauty.com) | Cruelty-free, recylable, compostable make up wipes
-[Elate Cosmetics] |vegan, cruelty-free, re-fillable, plastic free, fair-trade, "Our packaging is currently around 75% waste free. Products that contain recyclable plastic include our liquid products (Refresh and Uplift foundation, mascara, liquid eyeliner, lip gloss), lipsticks, and loose powders. We continue to make efforts to become a 100% plastic free and waste free company."
+[Elate Cosmetics](https://elatebeauty.com/) |vegan, cruelty-free, re-fillable, plastic free, fair-trade, "Our packaging is currently around 75% waste free. Products that contain recyclable plastic include our liquid products (Refresh and Uplift foundation, mascara, liquid eyeliner, lip gloss), lipsticks, and loose powders. We continue to make efforts to become a 100% plastic free and waste free company."
 [W3ll People](http://w3llpeople.com) |vegan, cruelty-free, toxic-chemical free
 [Ilia Beauty](https://iliabeauty.com) | recycling program with TerraCycle
 [Beautycounter](https://www.beautycounter.com/) | cruelty-free, setting good goals for sustainability, certified B corp
@@ -314,13 +314,13 @@ Location: US based
 
 Location: India based
 
-| Brand/Shop	| Why?	
-| ------ | ------ 
+| Brand/Shop	| Why?	|
+| ------ | ------ |
 [Asa Beauty](https://asabeauty.com) | Refillable, vegan, recyclable, cruelty-free
 
 Location: Australia based
 
-| Brand/Shop	| Why?	
+| Brand/Shop	| Why?	|
 | ------ | ------ 
 [Dirty Hippie Cosmetics](https://dirtyhippiecosmetics.com.au/shop) | vegan, cruelty-free, zerowaste
 
@@ -328,9 +328,8 @@ Location: Australia based
 ## Menstrual Producs
 Location: US Based
 
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
-Thinx
+| Brand/Shop	| Why?	|
+| ------ | ------|
 Luna Pads
 Thinx Reusable Tampon Applicator
 Saalt Cup
@@ -345,16 +344,16 @@ Location: India Based
 Saathi Pads | Compostable pads
 
 ## Packaging/Shipping	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? |	
+| ------ | ------ |
 Eco Enclose
 Mushroom Packaging
 Green Cell Foam
 Compostable Mailers	
 
 ## Parties	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? |	
+| ------ | ------ |
 Austeriti Sustainable Bar Services (Los Angeles)
 Sustain LA Event rentals (Los Angeles)
 Fibers & Florals (Los Angeles)
@@ -484,8 +483,8 @@ Ecosia Search Engine
 | [Misfits](https://misfits.health/) | plastic-free |
 
 ## Water Bottles	
-| Brand/Shop	| Why?	| Notes |
-| ------ | ------| --------|
+| Brand/Shop	| Why? |	
+| ------ | ------ |
 Purist Collective
 Klean Kanteen
 Kinto Travel Tumbler
