@@ -10,6 +10,11 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Chewing Gum](ecohub.md#chewing-gum)
 - [Cleaning](ecohub.md#cleaning)
 - [Clothing](ecohub.md#clothing)
+  - Secondhand/Thrift
+  - Undergarments	
+  - Workout gear
+  - Swim	
+  - New
 - [Coffee](ecohub.md#coffee)
 - [Deodorant](ecohub.md#deodorant)
 - [Furniture](ecohub.md#furniture)
@@ -152,7 +157,7 @@ Poshmark
 Etsy 
 ThredUp
 
-## Undergarments	
+### Undergarments	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Arq
@@ -167,7 +172,7 @@ Brook There
 Groceries Apparel
 
 
-## Workout gear	
+### Workout gear	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Girlfriend Collective
@@ -177,7 +182,7 @@ Patagonia
 Boody
 Pact
 
-## Swim	
+### Swim	
 | Brand/Shop	| Why?	| Notes |
 | ------ | ------| --------|
 Galamaar
