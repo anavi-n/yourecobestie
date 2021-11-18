@@ -468,6 +468,13 @@ Not the norm LTD |
 [Pela Phone Case](https://pelacase.com/) | Compostable phone cases; Poshmark also has secondhand Pela cases |
 [Ecosia Search Engine](https://www.ecosia.org/) | Search engine that plants trees with ad revenue |
 | [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free,  vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | I have a bag and a sleeve they are amazing! | 
+| [A green case](https://www.agreencase.com) | Compostable phone and device cases |
+
+### Location: India based
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+| [A Green Co](https://www.agreenco.in) | Compostable phone cases |
+| [Green Case](greencase.in)| Compostable phone cases |
 
 ## Vitamins, probiotics	
 
