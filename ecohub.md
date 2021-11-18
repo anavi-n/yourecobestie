@@ -214,7 +214,7 @@ Stojo Collapsible Coffee Cup
 | ------ | ------|
 [Bite](https://bitetoothpastebits.com/products/deodorant)| Plastic-free, refills
 [No Tox Life](https://notoxlife.com/)| Woman owned, plastic-free
-Sustain Yourself Shop | Woman owned, plastic-free
+[Sustain Yourself Shop](https://www.sustainyourselfshop.com/) | Woman owned, plastic-free
 [Pure Chimp](https://purechimp.com/products/natural-deodorant-balm?variant=16078154989662)| UK based, plastic-free |
 [Island Thyme](https://www.islandthyme.com/) | plastic free, biodegradable | 
 [Tierra & Lava](https://www.tierraandlava.com/) | fair-trade, women-owned, small business |
