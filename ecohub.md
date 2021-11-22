@@ -464,11 +464,12 @@ Not the norm LTD |
 ## Technology
 | Brand/Shop	| Why? | 
 | ------ | ------|
-[Made Trade](https://www.madetrade.com/)| Second hand techology
-[Pela Phone Case](https://pelacase.com/) | Compostable phone cases; Poshmark also has secondhand Pela cases |
-[Ecosia Search Engine](https://www.ecosia.org/) | Search engine that plants trees with ad revenue |
+| [Made Trade](https://www.madetrade.com/)| Second hand techology
+| [Pela Phone Case](https://pelacase.com/) | Compostable phone cases; Poshmark also has secondhand Pela cases |
+| [Ecosia Search Engine](https://www.ecosia.org/) | Search engine that plants trees with ad revenue |
 | [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free,  vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | I have a bag and a sleeve they are amazing! | 
 | [A green case](https://www.agreencase.com) | Compostable phone and device cases |
+| [GroupHug Tech](https://grouphugtech.com/collections/shop/products/window-solar-charger) | Solar powered charger | 
 
 ### Location: India based
 | Brand/Shop	| Why?	|
