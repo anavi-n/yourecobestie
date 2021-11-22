@@ -17,7 +17,7 @@ As always, the most sustainable thing you can do is use things you already have,
   - [New](ecohub.md#new)
 - [Coffee](ecohub.md#coffee)
 - [Deodorant](ecohub.md#deodorant)
-- [Furniture](ecohub.md#furniture)
+- [Furniture](ecohub.md#furniturehome-decor)
 - [Hair care](ecohub.md#hair-care)
 - [Jewelry](ecohub.md#jewelry)
 - [Kitchen](ecohub.md#kitchen)
