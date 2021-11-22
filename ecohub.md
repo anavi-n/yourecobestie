@@ -218,6 +218,7 @@ Stojo Collapsible Coffee Cup
 [Pure Chimp](https://purechimp.com/products/natural-deodorant-balm?variant=16078154989662)| UK based, plastic-free |
 [Island Thyme](https://www.islandthyme.com/) | plastic free, biodegradable | 
 [Tierra & Lava](https://www.tierraandlava.com/) | fair-trade, women-owned, small business |
+[Paper Cosmetics](https://papercosmetics.com/products/sensitive-bare-naked) | natural, plastic free, vegan | 
 
 ### UK based
 
