@@ -225,6 +225,7 @@ Stojo Collapsible Coffee Cup
 | Brand/Shop	| Why?	|
 | ------ | ------|
 | [Wild](https://www.wearewild.com/collections/shop) | Plastic-free deodorant with refills |
+| [Boo heads](https://www.booheads.com/) | Bamboo heads for electric toothbrushes | 
 
 ## Furniture/Home Decor	
 Always buy secondhand or thrift first.
