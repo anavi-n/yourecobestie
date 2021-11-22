@@ -323,6 +323,7 @@ Location: US based
 [Dab Herb](https://www.dabhms.com) | vegan, cruelty-free, plastic-free
 [Nudi Goods](https://nudigoods.com) | plastic free, low waste / zero waste skincare, cosmetics, and home goods brand 
 [Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
+[Trestique](https://www.trestique.com/) | Refillable make up made from post Consumer recycled materials and recyclable | 
 
 Location: India based
 
