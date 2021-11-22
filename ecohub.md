@@ -332,7 +332,7 @@ Location: Australia based
 [Dirty Hippie Cosmetics](https://dirtyhippiecosmetics.com.au/shop) | vegan, cruelty-free, zerowaste
 
 
-## Menstrual Producs
+## Menstrual Products
 Location: US Based
 
 | Brand/Shop	| Why?	|
