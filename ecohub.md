@@ -219,6 +219,11 @@ Stojo Collapsible Coffee Cup
 [Island Thyme](https://www.islandthyme.com/) | plastic free, biodegradable | 
 [Tierra & Lava](https://www.tierraandlava.com/) | fair-trade, women-owned, small business |
 
+### UK based
+
+| Brand/Shop	| Why?	|
+| ------ | ------|
+| [Wild](https://www.wearewild.com/collections/shop) | Plastic-free deodorant with refills |
 
 ## Furniture/Home Decor	
 Always buy secondhand or thrift first.
