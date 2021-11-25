@@ -173,7 +173,7 @@ Organic Basics
 Pact Organic Underwear
 Brook There
 Groceries Apparel
-
+[Pantee](https://pantee.co.uk/) | made from dead stock, 1% for the planet |
 
 ### Workout gear	
 | Brand/Shop	| Why? | 
