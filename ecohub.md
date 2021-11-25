@@ -444,6 +444,12 @@ Soludos
 [Dermaplaning tool](https://www.tweezerman.com/facial-razor.html) | plastic-free
 [Do not eat shampoo and soap bars](https://www.donoteat.ca/) | small business, plastic-free, based in Toronto |
 
+### Location: Canada based
+
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+[Wild Skincare](https://wildskincare.ca/)| small batch, natural skincare | 
+
 ## Sunscreen
 
 | Brand/Shop	| Why?	|
