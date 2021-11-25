@@ -111,9 +111,9 @@ Location: Australia/NZ
 ## Cleaning	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-
 [Fillaree](https://fillaree.com/collections/online-shopping-individual-bottles) | Refillable, plastic free, cleaning |
 Blueland | 
+[Papaya Resuables](https://www.papayareusables.com/) | Reusable paper towels for cleaning, compostable | 
 Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
