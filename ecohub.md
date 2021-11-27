@@ -44,6 +44,12 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Earthling Co](https://theearthlingco.com/) | 1% for the planet, plastic-free |
 | [Zero Waste Store](https://zerowastestore.com/) | Sustainable brands on one platform | 
 | [Ware](https://www.wareavl.com/collections/shop-all) | Sustainable refill store, local to Asheville, NC | 
+| Humble Earth Co |
+| Pure and Skin | 
+| By Humankind | 
+| If You Care |
+| Full Circle | 
+
 
 ## Bathroom	
 | Brand/Shop	| Why? | 
