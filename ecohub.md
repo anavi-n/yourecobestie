@@ -272,7 +272,7 @@ Olivia Kane
 Mr. OK
 J. Hannah
 Vrai		
-
+By Glaze | 
 
 ## Kitchen	
 | Brand/Shop	| Why? | 
