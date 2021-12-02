@@ -63,6 +63,7 @@ Eco Roots
 Compostable/Refillable Dental Floss (+ Refill)
 Bite Toothpaste Tablets
 By HumanKind tooth tabs
+Huppy tooth bites | refillable, plastic free |
 Plaine Products | Refill program, aluminuium packaging
 Coyuchi Organic Cotton Towels
 WiseTowl Organic Cotton Towels
