@@ -75,6 +75,7 @@ Refillable Bathing Culture Body Wash
 Marley’s Monsters Organic Bamboo Washcloths
 Marley’s Monsters Organic Facial Rounds
 Tushy Spa Bidet Attachment
+| [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
 
 
 ## Bedroom	
