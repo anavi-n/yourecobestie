@@ -168,6 +168,8 @@ Depop
 Poshmark
 Etsy 
 ThredUp
+[Mercari](https://www.mercari.com/) | 
+
 
 ### Undergarments	
 | Brand/Shop	| Why? | 
