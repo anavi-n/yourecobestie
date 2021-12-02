@@ -60,6 +60,7 @@ Plant Paper Toilet Paper
 Public Goods Tree Free Toilet Paper
 Root Safety Razor
 Eco Roots 
+[Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
 Compostable/Refillable Dental Floss (+ Refill)
 Bite Toothpaste Tablets
 By HumanKind tooth tabs
