@@ -171,6 +171,7 @@ ThredUp
 | Brand/Shop	| Why? | 
 | ------ | ------|
 Arq
+[Hara The Label](https://www.harathelabel.com/) | Plant dyed bamboo intimates |
 Proclaim
 Hara the Label
 Parade
