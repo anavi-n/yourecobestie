@@ -458,7 +458,7 @@ Soludos
 [Sustain Yourself Shop](https://www.sustainyourselfshop.com/shop) | plastic-free, small business, female owned |
 [Dermaplaning tool](https://www.tweezerman.com/facial-razor.html) | plastic-free
 [Do not eat shampoo and soap bars](https://www.donoteat.ca/) | small business, plastic-free, based in Toronto |
-
+[Sugar waxing - hair removal](https://sugardoh.co/collections/all-products-excluding-route/products/classic-paste) | compostable, plastic free |
 ### Location: Canada based
 
 | Brand/Shop	| Why?	|
