@@ -268,6 +268,12 @@ Parachute Undyed Wool Rugs
 Lorena Canals Nontoxic Washable Cotton + Wool Rugs
 EBTH
 
+## Gift ideas 
+
+###Experiences
+| Brand/Shop	| Why? | 
+| ------ | ------| 
+
 
 ## Jewelry	
 | Brand/Shop	| Why? | 
