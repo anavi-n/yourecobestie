@@ -59,12 +59,7 @@ Who Gives A Crap Toilet Paper |  |
 Plant Paper Toilet Paper
 Public Goods Tree Free Toilet Paper
 Root Safety Razor
-Eco Roots 
-[Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
-Compostable/Refillable Dental Floss (+ Refill)
-Bite Toothpaste Tablets
-By HumanKind tooth tabs
-Huppy tooth bites | refillable, plastic free |
+Eco Roots safety razor 
 Plaine Products | Refill program, aluminuium packaging
 Coyuchi Organic Cotton Towels
 WiseTowl Organic Cotton Towels
@@ -75,8 +70,18 @@ Refillable Bathing Culture Body Wash
 Marley’s Monsters Organic Bamboo Washcloths
 Marley’s Monsters Organic Facial Rounds
 Tushy Spa Bidet Attachment
-| [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
+[Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
 
+
+### Tooth care
+| Brand/Shop	| Why? | 
+| ------ | ------|
+[Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
+Compostable/Refillable Dental Floss (+ Refill)
+Bite Toothpaste Tablets
+By HumanKind tooth tabs
+Huppy tooth bites | refillable, plastic free |
+David's toothpaste 
 
 ## Bedroom	
 | Brand/Shop	| Why? | 
@@ -270,7 +275,7 @@ EBTH
 
 ## Gift ideas 
 
-###Experiences
+### Experiences
 | Brand/Shop	| Why? | 
 | ------ | ------| 
 
