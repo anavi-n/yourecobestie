@@ -77,11 +77,10 @@ Tushy Spa Bidet Attachment
 | Brand/Shop	| Why? | 
 | ------ | ------|
 [Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
-Compostable/Refillable Dental Floss (+ Refill)
-Bite Toothpaste Tablets
-By HumanKind tooth tabs
-Huppy tooth bites | refillable, plastic free |
-David's toothpaste 
+[Bite Toothpaste Tablets](https://bitetoothpastebits.com/products/mint-subscription) | 
+[By HumanKind tooth tabs](https://byhumankind.com/products/toothpaste) |
+[Huppy tooth bites](https://behuppy.com/collections/all) | refillable, plastic free |
+[David's toothpaste](https://davids-usa.com/)
 
 ## Bedroom	
 | Brand/Shop	| Why? | 
