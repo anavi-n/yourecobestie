@@ -6,6 +6,7 @@ As always, the most sustainable thing you can do is use things you already have,
 ## Table of Contents
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
 - [Bathroom](ecohub.md#bathroom)
+  - [Oral care](ecohub.md#oral-care)
 - [Bedroom](ecohub.md#bedroom)
 - [Chewing Gum](ecohub.md#chewing-gum)
 - [Cleaning](ecohub.md#cleaning)
@@ -73,7 +74,7 @@ Tushy Spa Bidet Attachment
 [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
 
 
-### Tooth care
+### Oral care
 | Brand/Shop	| Why? | 
 | ------ | ------|
 [Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
