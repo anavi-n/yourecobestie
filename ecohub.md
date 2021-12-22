@@ -82,6 +82,7 @@ Tushy Spa Bidet Attachment
 [By HumanKind tooth tabs](https://byhumankind.com/products/toothpaste) |
 [Huppy tooth bites](https://behuppy.com/collections/all) | refillable, plastic free |
 [David's toothpaste](https://davids-usa.com/)
+[Kaylaan toothpaste](https://www.kaylaan.com/products/mint-toothpaste-tablets?variant=42071359029484)
 
 ## Bedroom	
 | Brand/Shop	| Why? | 
