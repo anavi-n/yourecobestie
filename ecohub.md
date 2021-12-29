@@ -396,6 +396,7 @@ Compostable Mailers
 ## Parties	
 | Brand/Shop	| Why? |	
 | ------ | ------ |
+[Equo](https://shopequo.com/) | plastic free utensils | 
 Austeriti Sustainable Bar Services (Los Angeles)
 Sustain LA Event rentals (Los Angeles)
 Fibers & Florals (Los Angeles)
