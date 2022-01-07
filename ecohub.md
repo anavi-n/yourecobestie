@@ -436,6 +436,7 @@ The Body Soap |
 | ------ | ------| 
 [Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
 [Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available in target | 
+Vera
 The Plant Shoe
 Avarcas
 Allbirds
