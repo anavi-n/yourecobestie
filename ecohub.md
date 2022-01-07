@@ -142,6 +142,7 @@ Echoview Fiber Mill Reusable Cleaner Cloth
 | ------ | ------|
 | [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
 | [Anian](https://anianmfg.com/) | salvaged cloth from landfill turned into clothing | 
+| Madewell|
 Sezanne
 Whimsy & Row
 Jesse Kamm
