@@ -35,23 +35,22 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Vitamins](ecohub.md#vitamins-probiotics)
 - [Water bottles](ecohub.md#water-bottles)
 
-
 ## One-stop shops
 | Brand/Shop	| Why?	|
 | ------ | ------|
-| [Made Trade](https://www.madetrade.com/)| all things sustainability, ethically made, and carbon offset shipping | 
-| [Earth Hero](https://earthhero.com/) | one-stop sustainability store | 
+| [Made Trade](https://www.madetrade.com/)| All things sustainability, ethically made, and carbon offset shipping | 
+| [Earth Hero](https://earthhero.com/) | One-stop sustainability store | 
 | [BLK + GRN](https://blkgrn.com/) | All-natural, non-toxic marketplace by black artisans | 
 | [Pretty Planet Co](https://www.prettyplanetsupplyco.com/products) | Hair, body, kitchen products, woman owned, small business |
 | [Earthling Co](https://theearthlingco.com/) | 1% for the planet, plastic-free |
 | [Zero Waste Store](https://zerowastestore.com/) | Sustainable brands on one platform | 
 | [Ware](https://www.wareavl.com/collections/shop-all) | Sustainable refill store, local to Asheville, NC | 
 | [Plastic free pursuit](https://plasticfreepursuit.com/) | Package-free and zero waste products | 
-| Humble Earth Co |
-| Pure and Skin | 
-| By Humankind | 
-| If You Care |
-| Full Circle | 
+| [Humble Earth Co](https://humbleearthco.com) | Sustainable, plastic-free, 1% donated to wildlife |
+| [Pure and Skin](https://pureandskin.com) | Plastic-free, 10% donated to environmental causes |
+| [By Humankind](https://byhumankind.com) | Personal care plastic-free, refillable |
+| [If You Care](https://buyifyoucare.com) | Kitchen and household products |
+| [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
 
 
 ## Bathroom	
@@ -129,8 +128,9 @@ Location: Australia/NZ
 | Brand/Shop	| Why? | 
 | ------ | ------|
 [Fillaree](https://fillaree.com/collections/online-shopping-individual-bottles) | Refillable, plastic free, cleaning |
-Blueland | 
-[Papaya Resuables](https://www.papayareusables.com/) | Reusable paper towels for cleaning, compostable | 
+| Blueland | 
+| [Papaya Resuables](https://www.papayareusables.com/) | Reusable paper towels for cleaning, compostable | 
+| [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
 Clean Cult
 No Tox Life Dishwashing Block
 DIY Vinegar All-Purpose Cleaner
@@ -164,6 +164,8 @@ The RealReal
 | Brand/Shop	| Why? | 
 | ------ | ------|
 Rent The Runway |
+Armoire
+
 
 ### New
 | Brand/Shop	| Why? | 
@@ -553,3 +555,8 @@ BKR
 Swell
 Hydroflask
 Miir	
+
+## Water Filters
+| Brand/Shop	| Why? |	
+| ------ | ------ |
+| [Phox](https://www.phoxwater.com)| Reuseable water filter that also fits in Brita jars, UK based |
