@@ -138,6 +138,32 @@ Echoview Fiber Mill Reusable Cleaner Cloth
 
 ## Clothing 
 The most sustainable option is to use what you have or thrift instead of buying new clothes. But if you absolutely have to buy new clothes, here's some sustainable options! 
+
+### Secondhand/Thrift
+| Brand/Shop	| Why? | 
+| ------ | ------|
+Depop
+Poshmark
+Etsy 
+ThredUp
+[Mercari](https://www.mercari.com/) | 
+Goodwill
+Fair Season
+Shop Future
+Shop Stressed
+Cabin Vintage
+Weepah Way
+Rawson
+Lunes Store
+This Repair Shop
+Ética Denim
+The RealReal
+
+### Clothing rentals
+| Brand/Shop	| Why? | 
+| ------ | ------|
+Rent The Runway |
+
 ### New
 | Brand/Shop	| Why? | 
 | ------ | ------|
@@ -161,25 +187,6 @@ Suay Shop
 MATE The Label
 Boyish Jeans
 Organic Basics
-
-### Secondhand/Thrift
-| Brand/Shop	| Why? | 
-| ------ | ------|
-Fair Season
-Shop Future
-Shop Stressed
-Cabin Vintage
-Weepah Way
-Rawson
-Lunes Store
-This Repair Shop
-Ética Denim
-The RealReal
-Depop
-Poshmark
-Etsy 
-ThredUp
-[Mercari](https://www.mercari.com/) | 
 
 
 ### Undergarments	
