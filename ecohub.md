@@ -1,7 +1,7 @@
 # Your Eco Bestie's Eco Hub
 I'm a  low-waste / sustainable / eco-friendly / minimalist and I wanted to share resources to help those who might be interested in similar topics. This is a guide to everything that is good for the earth and good for you! Follow me on instagram for more sustainable data-based tips [@yourecobestie](https://instagram.com/yourecobestie)
 
-As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have or using them until end of their life. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable
+As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have, buying secondhand, or using them until end of their life. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable
 
 ## Table of Contents
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
@@ -137,6 +137,7 @@ Echoview Fiber Mill Reusable Cleaner Cloth
 
 
 ## Clothing 
+The most sustainable option is to use what you have or thrift instead of buying new clothes. But if you absolutely have to buy new clothes, here's some sustainable options! 
 ### New
 | Brand/Shop	| Why? | 
 | ------ | ------|
@@ -144,7 +145,8 @@ Echoview Fiber Mill Reusable Cleaner Cloth
 | [Anian](https://anianmfg.com/) | salvaged cloth from landfill turned into clothing | 
 | [Madewell](https://www.madewell.com/) |
 | [Everlane](https://www.everlane.com/) | 
-Sezanne
+| [KOTN] |
+| Sezanne |  
 Whimsy & Row
 Jesse Kamm
 Mixed Business
