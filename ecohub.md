@@ -4,6 +4,7 @@ I'm a  low-waste / sustainable / eco-friendly / minimalist and I wanted to share
 As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have, or using them until end of their life. Buying secondhand is always superier to buying new from a sustainability standpoint. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable.
 
 ## Table of Contents
+**Reminder: Always opt for secondhand first! (except undergarmets and toothbrushes, use your judgement, duh)**
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
 - [Bathroom](ecohub.md#bathroom)
   - [Oral care](ecohub.md#oral-care)
