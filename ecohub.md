@@ -1,7 +1,7 @@
 # Your Eco Bestie's Eco Hub
 I'm a  low-waste / sustainable / eco-friendly / minimalist and I wanted to share resources to help those who might be interested in similar topics. This is a guide to everything that is good for the earth and good for you! Follow me on instagram for more sustainable data-based tips [@yourecobestie](https://instagram.com/yourecobestie)
 
-As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have, buying secondhand, or using them until end of their life. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable
+As always, the most sustainable thing you can do is use things you already have, finding a home for things you already have, or using them until end of their life. Buying secondhand is always superier to buying new from a sustainability standpoint. I'd also like to emphasize the sustainability angle on buying, for items we're bringing into our homes. I've noticed that this takes work and sometimes makes it the 'not-so-convenient' option so I wanted to share a repository of all things sustainable.
 
 ## Table of Contents
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
@@ -346,8 +346,7 @@ Happi Earth | Laundry refills
 
 ## Makeup	
 
-Location: US based
-
+### Location: US based
 | Brand/Shop	| Why? |	
 | ------ | ------ |
 [Axiology Beauty](https://axiologybeauty.com/collections/balmies) | zero-waste lip colors - Lip Balmies|
@@ -366,22 +365,19 @@ Location: US based
 [Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
 [Trestique](https://www.trestique.com/) | Refillable make up made from post Consumer recycled materials and recyclable | 
 
-Location: India based
-
+#### Location: India based
 | Brand/Shop	| Why?	|
 | ------ | ------ |
 [Asa Beauty](https://asabeauty.com) | Refillable, vegan, recyclable, cruelty-free
 
-Location: Australia based
-
+#### Location: Australia based
 | Brand/Shop	| Why?	|
 | ------ | ------ 
 [Dirty Hippie Cosmetics](https://dirtyhippiecosmetics.com.au/shop) | vegan, cruelty-free, zerowaste
 
 
 ## Menstrual Products
-Location: US Based
-
+#### Location: US Based
 | Brand/Shop	| Why?	|
 | ------ | ------|
 Luna Pads
@@ -391,8 +387,7 @@ Dot Cup
 Lunette Cup
 June Cup
 
-Location: India Based
-
+#### Location: India Based
 | Item| Why?	 |
 | ------ | ------|
 Saathi Pads | Compostable pads
@@ -400,10 +395,12 @@ Saathi Pads | Compostable pads
 ## Packaging/Shipping	
 | Brand/Shop	| Why? |	
 | ------ | ------ |
-Eco Enclose
-Mushroom Packaging
-Green Cell Foam
-Compostable Mailers	
+[Eco Enclose](https://www.ecoenclose.com)
+[Mushroom Packaging](https://mushroompackaging.com) | compostable, made from mushrooms |
+[Green Cell Foam](https://greencellfoam.com) | Comportable, made form corn |
+[Compostable Mailer - Noissue](https://noissue.co/marketplace/compostable-biodegradable-mailers/)
+[Recycled Mailer - Noissue](https://noissue.co/marketplace/noissue-recycled-mailers/)
+[Compostable packing peanuts](https://www.ecopackagingsolutions.co.uk/product-page/large-box-of-eco-fill)
 
 ## Parties	
 | Brand/Shop	| Why? |	
@@ -416,9 +413,7 @@ Sustain LA Event rentals
 
 
 ## Hair Care
-
-Location: US based
-
+#### Location: US based
 | Brand/Shop	| Why?|
 | ------ | ------|
 Ethique | Shampoo bar |
@@ -434,8 +429,7 @@ Dirty Hippie Cosmetics
 Katie Mae Natuals
 Sea and Clean
 
-Location: India based
-
+#### Location: India based
 | Brand/Shop	| Why?|
 | ------ | ------|
 The Body Soap | 
@@ -455,7 +449,6 @@ Soludos
 ## Skincare 
 
 ### Location: US based 
-
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 [Activist Skincare](https://activistskincare.com/) | Refills, vegan, cruelty-free |
@@ -487,14 +480,14 @@ Soludos
 [Dermaplaning tool](https://www.tweezerman.com/facial-razor.html) | plastic-free
 [Do not eat shampoo and soap bars](https://www.donoteat.ca/) | small business, plastic-free, based in Toronto |
 [Sugar waxing - hair removal](https://sugardoh.co/collections/all-products-excluding-route/products/classic-paste) | compostable, plastic free |
-### Location: Canada based
 
+### Location: Canada based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 [Wild Skincare](https://wildskincare.ca/)| small batch, natural skincare | 
+[Om Organics](https://omskin.com) | Cruelty free, ethical, handcrafted in Canada |
 
 ## Sunscreen
-
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 [Butter bean organics](https://www.butterbeanorganics.com/)| Plastic-free, Refill system, mineral sunscreen
@@ -509,7 +502,6 @@ Suntribe screen |
 Not the norm LTD |
 
 ### Location: India based
-
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 [Earth Rhythm](https://www.earthrhythm.com) | plastic-free, natural ingredients 
@@ -541,7 +533,6 @@ Not the norm LTD |
 ## Vitamins, probiotics	
 
 ### Location: US based
-
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 | [Seed Probiotics](https://seed.com/) | plastic-free, glass jars w refils = only one probiotic though | 
@@ -549,10 +540,9 @@ Not the norm LTD |
 | [Care/Of](https://takecareof.com/) | plastic-free, compostable, subscription model| 
 | Central-Coop | Local to Seattle, vitamins in glass bottles | 
 
-* Look for your local liquid supplements as they come in glass bottles
+* *Look for your local liquid supplements as they come in glass bottles*
 
 ### Location: UK based
-
 | Brand/Shop	| Why?	|
 | ------ | --------|
 | [Vegums](https://www.vegums.com/) | plastic-free |  
