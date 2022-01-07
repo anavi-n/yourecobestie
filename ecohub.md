@@ -402,9 +402,11 @@ Compostable Mailers
 | Brand/Shop	| Why? |	
 | ------ | ------ |
 [Equo](https://shopequo.com/) | plastic free utensils | 
-Austeriti Sustainable Bar Services (Los Angeles)
-Sustain LA Event rentals (Los Angeles)
-Fibers & Florals (Los Angeles)
+[Confetti](https://fredericksandmae.com/products/wildflower-seed-paper-cannon) | Wilflower seed confetti in a recyclable tube, plastic-free |
+Fibers & Florals
+Austeriti Sustainable Bar Services
+Sustain LA Event rentals
+
 
 ## Hair Care
 
@@ -436,8 +438,8 @@ The Body Soap |
 | ------ | ------| 
 [Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
 [Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available in target | 
-Vera
-The Plant Shoe
+[Veja](https://www.veja-store.com/en_uk/) | Fair trade, organic shoes |
+[The Plant Shoe](https://www.nativeshoes.com/the-plant-shoe/the-plant-shoe.html) | Made from plants, vegan, organic |
 Avarcas
 Allbirds
 Rothys
