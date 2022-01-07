@@ -171,8 +171,8 @@ Rent The Runway |
 | [Anian](https://anianmfg.com/) | salvaged cloth from landfill turned into clothing | 
 | [Madewell](https://www.madewell.com/) |
 | [Everlane](https://www.everlane.com/) | 
-| [KOTN] |
-| Sezanne |  
+| [KOTN](https://kotn.com)| Sustainable clothing and decor |
+Sezanne   
 Whimsy & Row
 Jesse Kamm
 Mixed Business
@@ -254,7 +254,6 @@ Stojo Collapsible Coffee Cup
 [Paper Cosmetics](https://papercosmetics.com/products/sensitive-bare-naked) | natural, plastic free, vegan | 
 
 ### UK based
-
 | Brand/Shop	| Why?	|
 | ------ | ------|
 | [Wild](https://www.wearewild.com/collections/shop) | Plastic-free deodorant with refills |
@@ -262,7 +261,6 @@ Stojo Collapsible Coffee Cup
 
 ## Furniture/Home Decor	
 Always buy secondhand or thrift first.
-
 | Brand/Shop	| Why?	|
 | ------ | ------|
 Craigslist
@@ -319,7 +317,6 @@ Inka World Food Containers
 [Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |	
 
 ## Laundry	
-
 ### Location: US/Canada based
 | Brand/Shop	| Why?	|
 | ------ | ------|
@@ -345,7 +342,6 @@ Zero Co | Laundry detergent
 Happi Earth | Laundry refills
 
 ## Makeup	
-
 ### Location: US based
 | Brand/Shop	| Why? |	
 | ------ | ------ |
@@ -411,7 +407,6 @@ Fibers & Florals
 Austeriti Sustainable Bar Services
 Sustain LA Event rentals
 
-
 ## Hair Care
 #### Location: US based
 | Brand/Shop	| Why?|
@@ -447,7 +442,6 @@ Rothys
 Soludos	
 
 ## Skincare 
-
 ### Location: US based 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
@@ -531,7 +525,6 @@ Not the norm LTD |
 | [Green Case](greencase.in)| Compostable phone cases |
 
 ## Vitamins, probiotics	
-
 ### Location: US based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
