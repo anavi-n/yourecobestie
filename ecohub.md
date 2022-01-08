@@ -419,19 +419,17 @@ Sea and Clean
 #### Location: India based
 | Brand/Shop	| Why?|
 | ------ | ------|
-The Body Soap | 
+| [The Body Shop](https://www.thebodyshop.in) | Cruelty-free beauty products |
 
 ## Shoes	
 | Brand/Shop	| Why? |
 | ------ | ------| 
-[Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
-[Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available in target | 
-[Veja](https://www.veja-store.com/en_uk/) | Fair trade, organic shoes |
-[The Plant Shoe](https://www.nativeshoes.com/the-plant-shoe/the-plant-shoe.html) | Made from plants, vegan, organic |
-Avarcas
-Allbirds
-Rothys
-Soludos	
+| [Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
+| [Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available in target | 
+| [Veja](https://www.veja-store.com/en_uk/) | Fair trade, organic shoes |
+| [The Plant Shoe](https://www.nativeshoes.com/the-plant-shoe/the-plant-shoe.html) | Made from plants, vegan, organic |
+| [Allbirds](https://www.allbirds.com) | Shoes made from renewable materials | 
+| [Rothys](https://rothys.com) | Washable shoes and bags made from recycled materials | 
 
 ## Skincare 
 ### Location: US based 
@@ -476,27 +474,27 @@ Soludos
 ## Sunscreen
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-[Butter bean organics](https://www.butterbeanorganics.com/)| Plastic-free, Refill system, mineral sunscreen
-[Raw elements USA](https://www.rawelementsusa.com/)| Plastic-free, available at REI
-[badger balm](https://www.badgerbalm.com/)| Mineral sunscreen
-[just skin food](https://www.justskinfood.com/products/baby-beach-bum-sunscreen) | mineral sunscreen
-[Pacific Beach Organica](https://www.pacificbeachorganics.com/) | Plastic free, mineral sunscreen
-[Go Wax head](https://gowaxhead.com/) | Mineral sunscreen
-Sun butter skincare | vegan
-[Sun butter oceans](https://sunbutteroceans.com.au) | Plastic free, mineral sunscreen |
-Suntribe screen | 
-Not the norm LTD |
+| [Butter bean organics](https://www.butterbeanorganics.com/)| Plastic-free, Refill system, mineral sunscreen
+| [Raw elements USA](https://www.rawelementsusa.com/)| Plastic-free, available at REI
+| [badger balm](https://www.badgerbalm.com/)| Mineral sunscreen
+| [just skin food](https://www.justskinfood.com/products/baby-beach-bum-sunscreen) | mineral sunscreen
+| [Pacific Beach Organica](https://www.pacificbeachorganics.com/) | Plastic free, mineral sunscreen
+| [Go Wax head](https://gowaxhead.com/) | Mineral sunscreen
+| [Sun butter oceans](https://sunbutteroceans.com.au) | Plastic free, mineral sunscreen |
+| Sun butter skincare | vegan
+| Suntribe screen | 
+| Not the norm LTD |
 
 ### Location: India based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-[Earth Rhythm](https://www.earthrhythm.com) | plastic-free, natural ingredients 
-[Zero Waste Shop India](https://zerowasteshop.in) | a bunch of zero waste products from different brands
+| [Earth Rhythm](https://www.earthrhythm.com) | plastic-free, natural ingredients 
+| [Zero Waste Shop India](https://zerowasteshop.in) | a bunch of zero waste products from different brands
 
 ### Location: London based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-[Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
+| [Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
 
 ## Technology
 | Brand/Shop	| Why? | 
@@ -537,13 +535,13 @@ Not the norm LTD |
 ## Water Bottles	
 | Brand/Shop	| Why? |	
 | ------ | ------ |
-Purist Collective
-Klean Kanteen
-Kinto Travel Tumbler
-BKR
-Swell
-Hydroflask
-Miir	
+| Purist Collective |
+| Klean Kanteen |
+| Kinto Travel Tumbler |
+| BKR |
+| Swell |
+| Hydroflask |
+| Miir	|
 
 ## Water Filters
 | Brand/Shop	| Why? |	
