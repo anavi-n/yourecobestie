@@ -403,9 +403,9 @@ Sustain LA Event rentals
 #### Location: US based
 | Brand/Shop	| Why?|
 | ------ | ------|
-Ethique | Shampoo bar |
-EcoRoots
-Plaine Products
+| [Ethique](https://ethique.com) | Shampoo and conditioner bars |
+| [EcoRoots](https://ecoroots.us/collections/bath-beauty) | Shampoo and conditioner bars | 
+| [Plaine Products](https://www.plaineproducts.com) | Refill program, aluminuium packaging, circular economy |
 Andreas Organic Market
 Battle Green
 The Better Soap Company
