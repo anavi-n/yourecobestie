@@ -406,7 +406,7 @@ Sustain LA Event rentals
 | [Ethique](https://ethique.com) | Shampoo and conditioner bars |
 | [EcoRoots](https://ecoroots.us/collections/bath-beauty) | Shampoo and conditioner bars | 
 | [Plaine Products](https://www.plaineproducts.com) | Refill program, aluminuium packaging, circular economy |
-Andreas Organic Market
+| [Andreas Organic Market](https://www.etsy.com/shop/AndreasOrganicMarket) | Organic, plasgtic-free, hair mask |
 Battle Green
 The Better Soap Company
 Friendly Soap
