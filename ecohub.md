@@ -286,6 +286,8 @@ EBTH
 ## Jewelry	
 | Brand/Shop	| Why? | 
 | ------ | ------|
+| [Aether](https://aetherdiamonds.com/) 
+| Carbon negative diamonds |
 Danica Stamenic
 Ceremony
 Olivia Kane
