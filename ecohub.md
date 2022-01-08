@@ -176,6 +176,7 @@ Armoire
 | [Everlane](https://www.everlane.com/) | 
 | [KOTN](https://kotn.com)| Sustainable clothing and decor |
 Sezanne   
+| [Marine Layer](https://www.marinelayer.com/pages/respun-2021) | creates clothing from old clothes via recycling program, re-spun | 
 Whimsy & Row
 Jesse Kamm
 Mixed Business
