@@ -51,27 +51,25 @@ As always, the most sustainable thing you can do is use things you already have,
 | [By Humankind](https://byhumankind.com) | Personal care plastic-free, refillable |
 | [If You Care](https://buyifyoucare.com) | Kitchen and household products |
 | [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
-
+| [Marley's Monsters](https://www.marleysmonsters.com) | Eco-friendly products for beauty, bath, and babies | 
 
 ## Bathroom	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-Who Gives A Crap Toilet Paper |  |
+[Who Gives A Crap Toilet Paper](https://whogivesacrap.org/collections/all) | Recycled and bamboo TP |
 [Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) 
-Plant Paper Toilet Paper
-Public Goods Tree Free Toilet Paper
-Root Safety Razor
-Eco Roots safety razor 
-Plaine Products | Refill program, aluminuium packaging
-Coyuchi Organic Cotton Towels
-WiseTowl Organic Cotton Towels
-Leaf Shave Stainless Razor
-Oui The People Rose Gold Safety Razor
-Public Goods Sea Sponge
-Refillable Bathing Culture Body Wash
-Marley’s Monsters Organic Bamboo Washcloths
-Marley’s Monsters Organic Facial Rounds
-Tushy Spa Bidet Attachment
+[Plant Paper Toilet Paper](https://plantpaper.us) | Bamboo based TP |
+[Public Goods Tree Free Toilet Paper](https://www.publicgoods.com/collections/tree-free-paper) | Bamboo based TP |
+[Eco Roots safety razor](https://ecoroots.us/collections/gifts-ideas-for-bath-body) | Plastic-free razors |
+[Leaf safety razor](https://leafshave.com) | Plastic-free razors with recycling program for blades |
+[Plaine Products](https://www.plaineproducts.com) | Refill program, aluminuium packaging, circular economy |
+[Coyuchi Organic Cotton Towels](https://www.coyuchi.com/bath/organic-towels.html) | 
+[Oui The People Rose Gold Safety Razor](https://www.ouithepeople.com/products/rose-gold-safety-razor) | Plastic-free razors |
+[Public Goods Sea Sponge](https://www.publicgoods.com/products/sea-sponge) | Biodegradable, plastic-free sponge |
+[Refillable Bathing Culture Body Wash](https://bathingculture.com/products/16oz-refillable-rainbow-glass-mind-and-body-wash) | Refills based body wash |
+[Marley’s Monsters Organic Bamboo Washcloths](https://www.marleysmonsters.com) | Bamboo made washcloths |
+[Marley’s Monsters Organic Facial Rounds](https://www.marleysmonsters.com) | Reusable cotton rounds |
+[Tushy Spa Bidet Attachment](https://hellotushy.com) | Bidet and bamboo TP, carbon neutral |
 [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
 
 
