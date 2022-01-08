@@ -435,35 +435,35 @@ Sea and Clean
 ### Location: US based 
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-[Activist Skincare](https://activistskincare.com/) | Refills, vegan, cruelty-free |
-[The Detox Market](https://www.thedetoxmarket.com) | variety of products from different brands, also ships to India |
-[Follain](http://follain.com) | re-usable glass containers |
-[Meow Meow Tweet](https://meowmeowtweet.com) | Plastic-free , vegan, cruelty-free, ethical |
-[Fat and The Moon](https://www.fatandthemoon.com) | plastic-free, ethical |
-[RAW elements](https://www.rawelementsusa.com) | Plastic free sun protection products|
-[Empiresquad oragnics](https://www.empiresquid.com) | Plastic-free, certified organic, made to order |
-[Rainwater Botanicals](https://www.rainwaterbotanicals.com) | plastic-free, natural ingredients, cruelty-free|
-[Andreas Oragnic Market](https://www.etsy.com/shop/AndreasOrganicMarket)| fair-trade, organic, plastic-free products
-[Dab Herb](https://www.dabhms.com/about) | plastic-free, natural ingredients |
-[God Juju Herbal](https://www.goodjujuherbal.com) | plastic-free, natural ingredients, handmade |
-[Ethique](https://ethique.com) | Plastic-free |
-[Bee You Organics](https://beeyouorganics.com) | cruelty-free, plastic-free |
-[Evan Healy](https://www.evanhealy.com) | certified organic, no synthetic fragrances in products |
-[Monastery](https://www.monasterymade.com)| natural skincare |
-[Mad Hippie](https://madhippie.com/) | Vegan, cruelty-free |
-[Noto Botanics](https://notobotanics.com) | vegan, refill stations, plastic-free, locally sourced ingredients |
-[Cocokind](https://www.cocokind.com) | some plastic-free options
-[Osea](https://oseamalibu.com) | plastic-free, vegan, plant-based | 
-[Tata Harper](https://global.tataharperskincare.com) | natural skincare, plastic-free options|
-[True Botanicals](https://truebotanicals.com)|  plastic-free options |
-[Biossance](https://biossance.com) | carbon-neutral shipping, plastic-free, zero wate commitment by 2025 |
-[REN Skincare](https://usa.renskincare.com) | zero-waste, plastic-free options
-[By Humankind](https://byhumankind.com) | Refillable and plastic free products |
-[Beautycounter](https://www.beautycounter.com) | plastic-free options |
-[Sustain Yourself Shop](https://www.sustainyourselfshop.com/shop) | plastic-free, small business, female owned |
-[Dermaplaning tool](https://www.tweezerman.com/facial-razor.html) | plastic-free
-[Do not eat shampoo and soap bars](https://www.donoteat.ca/) | small business, plastic-free, based in Toronto |
-[Sugar waxing - hair removal](https://sugardoh.co/collections/all-products-excluding-route/products/classic-paste) | compostable, plastic free |
+| [Activist Skincare](https://activistskincare.com/) | Refills, vegan, cruelty-free |
+| [The Detox Market](https://www.thedetoxmarket.com) | variety of products from different brands, also ships to India |
+| [Follain](http://follain.com) | re-usable glass containers |
+| [Meow Meow Tweet](https://meowmeowtweet.com) | Plastic-free , vegan, cruelty-free, ethical |
+| [Fat and The Moon](https://www.fatandthemoon.com) | plastic-free, ethical |
+| [RAW elements](https://www.rawelementsusa.com) | Plastic free sun protection products|
+| [Empiresquad oragnics](https://www.empiresquid.com) | Plastic-free, certified organic, made to order |
+| [Rainwater Botanicals](https://www.rainwaterbotanicals.com) | plastic-free, natural ingredients, cruelty-free|
+| [Andreas Oragnic Market](https://www.etsy.com/shop/AndreasOrganicMarket)| fair-trade, organic, plastic-free products
+| [Dab Herb](https://www.dabhms.com/about) | plastic-free, natural ingredients |
+| [God Juju Herbal](https://www.goodjujuherbal.com) | plastic-free, natural ingredients, handmade |
+| [Ethique](https://ethique.com) | Plastic-free |
+| [Bee You Organics](https://beeyouorganics.com) | cruelty-free, plastic-free |
+| [Evan Healy](https://www.evanhealy.com) | certified organic, no synthetic fragrances in products |
+| [Monastery](https://www.monasterymade.com)| natural skincare |
+| [Mad Hippie](https://madhippie.com/) | Vegan, cruelty-free |
+| [Noto Botanics](https://notobotanics.com) | vegan, refill stations, plastic-free, locally sourced ingredients |
+| [Cocokind](https://www.cocokind.com) | some plastic-free options
+| [Osea](https://oseamalibu.com) | plastic-free, vegan, plant-based | 
+| [Tata Harper](https://global.tataharperskincare.com) | natural skincare, plastic-free options|
+| [True Botanicals](https://truebotanicals.com)|  plastic-free options |
+| [Biossance](https://biossance.com) | carbon-neutral shipping, plastic-free, zero wate commitment by 2025 |
+| [REN Skincare](https://usa.renskincare.com) | zero-waste, plastic-free options
+| [By Humankind](https://byhumankind.com) | Refillable and plastic free products |
+| [Beautycounter](https://www.beautycounter.com) | plastic-free options |
+| [Sustain Yourself Shop](https://www.sustainyourselfshop.com/shop) | plastic-free, small business, female owned |
+| [Dermaplaning tool](https://www.tweezerman.com/facial-razor.html) | plastic-free
+| [Do not eat shampoo and soap bars](https://www.donoteat.ca/) | small business, plastic-free, based in Toronto |
+| [Sugar waxing - hair removal](https://sugardoh.co/collections/all-products-excluding-route/products/classic-paste) | compostable, plastic free |
 
 ### Location: Canada based
 | Brand/Shop	| Why?	|
@@ -501,7 +501,7 @@ Sea and Clean
 | [Made Trade](https://www.madetrade.com/)| Second hand techology |
 | [Pela Phone Case](https://pelacase.com/) | Compostable phone cases; Poshmark also has secondhand Pela cases |
 | [Ecosia Search Engine](https://www.ecosia.org/) | Search engine that plants trees with ad revenue |
-| [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free,  vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | 
+| [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free, vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | 
 | [A green case](https://www.agreencase.com) | Compostable phone and device cases |
 | [GroupHug Tech](https://grouphugtech.com/collections/shop/products/window-solar-charger) | Solar powered charger | 
 | [Tiradia Cork](https://tiradia.com/collections) | Made from cork, woman owned |
@@ -534,9 +534,8 @@ Sea and Clean
 ## Water Bottles	
 | Brand/Shop	| Why? |	
 | ------ | ------ |
-| Purist Collective |
-| Klean Kanteen |
-| Kinto Travel Tumbler |
+| [Purist Collective](https://www.puristcollective.com) | Stainless steel water bottles 
+| [Klean Kanteen](https://www.kleankanteen.com) | Durable steel bottles, cups, migs, tumblers |
 | BKR |
 | Swell |
 | Hydroflask |
