@@ -56,41 +56,41 @@ As always, the most sustainable thing you can do is use things you already have,
 ## Bathroom	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-[Who Gives A Crap Toilet Paper](https://whogivesacrap.org/collections/all) | Recycled and bamboo TP |
-[Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) 
-[Plant Paper Toilet Paper](https://plantpaper.us) | Bamboo based TP |
-[Public Goods Tree Free Toilet Paper](https://www.publicgoods.com/collections/tree-free-paper) | Bamboo based TP |
-[Eco Roots safety razor](https://ecoroots.us/collections/gifts-ideas-for-bath-body) | Plastic-free razors |
-[Leaf safety razor](https://leafshave.com) | Plastic-free razors with recycling program for blades |
-[Plaine Products](https://www.plaineproducts.com) | Refill program, aluminuium packaging, circular economy |
-[Coyuchi Organic Cotton Towels](https://www.coyuchi.com/bath/organic-towels.html) | 
-[Oui The People Rose Gold Safety Razor](https://www.ouithepeople.com/products/rose-gold-safety-razor) | Plastic-free razors |
-[Public Goods Sea Sponge](https://www.publicgoods.com/products/sea-sponge) | Biodegradable, plastic-free sponge |
-[Refillable Bathing Culture Body Wash](https://bathingculture.com/products/16oz-refillable-rainbow-glass-mind-and-body-wash) | Refills based body wash |
-[Marley’s Monsters Organic Bamboo Washcloths](https://www.marleysmonsters.com) | Bamboo made washcloths |
-[Marley’s Monsters Organic Facial Rounds](https://www.marleysmonsters.com) | Reusable cotton rounds |
-[Tushy Spa Bidet Attachment](https://hellotushy.com) | Bidet and bamboo TP, carbon neutral |
-[Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
+| [Who Gives A Crap Toilet Paper](https://whogivesacrap.org/collections/all) | Recycled and bamboo TP |
+| [Reel Paper](https://reelpaper.com/pages/our-product) | TP made from natural materials (bamboo) 
+| [Plant Paper Toilet Paper](https://plantpaper.us) | Bamboo based TP |
+| [Public Goods Tree Free Toilet Paper](https://www.publicgoods.com/collections/tree-free-paper) | Bamboo based TP |
+| [Eco Roots safety razor](https://ecoroots.us/collections/gifts-ideas-for-bath-body) | Plastic-free razors |
+| [Leaf safety razor](https://leafshave.com) | Plastic-free razors with recycling program for blades |
+| [Plaine Products](https://www.plaineproducts.com) | Refill program, aluminuium packaging, circular economy |
+| [Coyuchi Organic Cotton Towels](https://www.coyuchi.com/bath/organic-towels.html) | 
+| [Oui The People Rose Gold Safety Razor](https://www.ouithepeople.com/products/rose-gold-safety-razor) | Plastic-free razors |
+| [Public Goods Sea Sponge](https://www.publicgoods.com/products/sea-sponge) | Biodegradable, plastic-free sponge |
+| [Refillable Bathing Culture Body Wash](https://bathingculture.com/products/16oz-refillable-rainbow-glass-mind-and-body-wash) | Refills based body wash |
+| [Marley’s Monsters Organic Bamboo Washcloths](https://www.marleysmonsters.com) | Bamboo made washcloths |
+| [Marley’s Monsters Organic Facial Rounds](https://www.marleysmonsters.com) | Reusable cotton rounds |
+| [Tushy Spa Bidet Attachment](https://hellotushy.com) | Bidet and bamboo TP, carbon neutral |
+| [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
 
 
 ### Oral care
 | Brand/Shop	| Why? | 
 | ------ | ------|
-[Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
-[Bite Toothpaste Tablets](https://bitetoothpastebits.com/products/mint-subscription) | 
-[By HumanKind tooth tabs](https://byhumankind.com/products/toothpaste) |
-[Huppy tooth bites](https://behuppy.com/collections/all) | refillable, plastic free |
-[David's toothpaste](https://davids-usa.com/)
-[Kaylaan toothpaste](https://www.kaylaan.com/products/mint-toothpaste-tablets?variant=42071359029484)
+| [Nelson's Naturals Toothpaste](https://nelsonnaturalsusa.com/) | zero waste toothpaste |
+| [Bite Toothpaste Tablets](https://bitetoothpastebits.com/products/mint-subscription) | 
+| [By HumanKind tooth tabs](https://byhumankind.com/products/toothpaste) |
+| [Huppy tooth bites](https://behuppy.com/collections/all) | refillable, plastic free |
+| [David's toothpaste](https://davids-usa.com/)
+| [Kaylaan toothpaste](https://www.kaylaan.com/products/mint-toothpaste-tablets?variant=42071359029484)
 
 ## Bedroom	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-[Avocado](https://www.avocadogreenmattress.com) | Organic mattresses, bedding, and pillows |
-[Coyuchi Organic](https://www.coyuchi.com) | Organic bedding, sheets, duvet covers | 
-[Birch Organic](https://birchliving.com/products/birch-natural-organic-mattress) | Organic mattresses |
-[Thuma Bedframe](https://www.thuma.co) | Environmentally-friendly, upcycled and repurposed rubberwood as materials |
-[Buffy Eucalyptus](https://buffy.co/collections/eucalyptus) | Recycled plastic bottles made into comforters |
+| [Avocado](https://www.avocadogreenmattress.com) | Organic mattresses, bedding, and pillows |
+| [Coyuchi Organic](https://www.coyuchi.com) | Organic bedding, sheets, duvet covers | 
+| [Birch Organic](https://birchliving.com/products/birch-natural-organic-mattress) | Organic mattresses |
+| [Thuma Bedframe](https://www.thuma.co) | Environmentally-friendly, upcycled and repurposed rubberwood as materials |
+| [Buffy Eucalyptus](https://buffy.co/collections/eucalyptus) | Recycled plastic bottles made into comforters |
 
 ## Chewing gum
 Location: US based
@@ -114,38 +114,39 @@ Location: Australia/NZ
 ## Cleaning	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-[Fillaree](https://fillaree.com/collections/online-shopping-individual-bottles) | Refillable, plastic free, cleaning |
-| Blueland | 
+| [Fillaree](https://fillaree.com/collections/online-shopping-individual-bottles) | Refillable, plastic free, cleaning |
+| [Blueland](https://www.blueland.com) | Refill based plastic free cleaning | 
 | [Papaya Resuables](https://www.papayareusables.com/) | Reusable paper towels for cleaning, compostable | 
 | [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
-Clean Cult
-No Tox Life Dishwashing Block
-DIY Vinegar All-Purpose Cleaner
-Echoview Fiber Mill Reusable Cleaner Cloth
+| [Clean Cult](https://www.cleancult.com) | Zero waste packaged cleaning products |
+| [No Tox Life](https://notoxlife.com) | Vegan bath, body, and cleaning products made by a mother daughter duo |
+| [Echoview Fiber Mill Reusable Cleaner Cloth](https://www.echoviewnc.com/shop/cleaner-cloth) | Reusable cleaning cloth |
+| DIY Vinegar All-Purpose Cleaner | Make yourself a home made cleaner with a 1:1 ratio of water and white distilled vinegar; avoid on granite, grout, and marble |
 
 
 ## Clothing 
 The most sustainable option is to use what you have or thrift instead of buying new clothes. But if you absolutely have to buy new clothes, here's some sustainable options! 
 
 ### Secondhand/Thrift
-| Brand/Shop	| Why? | 
-| ------ | ------|
-Depop
-Poshmark
-Etsy 
-ThredUp
-[Mercari](https://www.mercari.com/) | 
-Goodwill
-Fair Season
-Shop Future
-Shop Stressed
-Cabin Vintage
-Weepah Way
-Rawson
-Lunes Store
-This Repair Shop
-Ética Denim
-The RealReal
+| Brand/Shop	| 
+| ------ | 
+| [Depop](https://www.depop.com) | 
+| [Poshmark](https://poshmark.com) |
+| [Etsy](https://www.etsy.com) | 
+| [ThredUp](https://www.etsy.com) |
+| [Mercari](https://www.mercari.com/) | 
+| [The RealReal](https://www.therealreal.com) |
+| Goodwill
+| Fair Season
+| Shop Future
+| Shop Stressed
+| Cabin Vintage
+| Weepah Way
+| Rawson
+| Lunes Store
+| This Repair Shop
+| Ética Denim
+
 
 ### Clothing rentals
 | Brand/Shop	| Why? | 
