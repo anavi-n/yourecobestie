@@ -468,8 +468,8 @@ Sea and Clean
 ### Location: Canada based
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-[Wild Skincare](https://wildskincare.ca/)| small batch, natural skincare | 
-[Om Organics](https://omskin.com) | Cruelty free, ethical, handcrafted in Canada |
+| [Wild Skincare](https://wildskincare.ca/)| small batch, natural skincare | 
+| [Om Organics](https://omskin.com) | Cruelty free, ethical, handcrafted in Canada |
 
 ## Sunscreen
 | Brand/Shop	| Why?	|
@@ -481,9 +481,8 @@ Sea and Clean
 | [Pacific Beach Organica](https://www.pacificbeachorganics.com/) | Plastic free, mineral sunscreen
 | [Go Wax head](https://gowaxhead.com/) | Mineral sunscreen
 | [Sun butter oceans](https://sunbutteroceans.com.au) | Plastic free, mineral sunscreen |
-| Sun butter skincare | vegan
-| Suntribe screen | 
-| Not the norm LTD |
+| [Suntribe screen](https://suntribesunscreen.com) | Natural sunscreen | 
+| [Not the norm LTD](https://not-the-norm.com/products/shade-all-natural-sunscreen) | Plastic free, certified organic |
 
 ### Location: India based
 | Brand/Shop	| Why?	|
@@ -499,10 +498,10 @@ Sea and Clean
 ## Technology
 | Brand/Shop	| Why? | 
 | ------ | ------|
-| [Made Trade](https://www.madetrade.com/)| Second hand techology
+| [Made Trade](https://www.madetrade.com/)| Second hand techology |
 | [Pela Phone Case](https://pelacase.com/) | Compostable phone cases; Poshmark also has secondhand Pela cases |
 | [Ecosia Search Engine](https://www.ecosia.org/) | Search engine that plants trees with ad revenue |
-| [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free,  vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | I have a bag and a sleeve they are amazing! | 
+| [Samara Bags](https://samarabags.com/collections/all) | Laptop sleeves and bags, cruelty free,  vegan, sustainable, and made from left over apple skin from the juicing industry. Female founded | 
 | [A green case](https://www.agreencase.com) | Compostable phone and device cases |
 | [GroupHug Tech](https://grouphugtech.com/collections/shop/products/window-solar-charger) | Solar powered charger | 
 | [Tiradia Cork](https://tiradia.com/collections) | Made from cork, woman owned |
