@@ -536,10 +536,9 @@ Sea and Clean
 | ------ | ------ |
 | [Purist Collective](https://www.puristcollective.com) | Stainless steel water bottles 
 | [Klean Kanteen](https://www.kleankanteen.com) | Durable steel bottles, cups, migs, tumblers |
-| BKR |
-| Swell |
-| Hydroflask |
-| Miir	|
+| [BKR](https://mybkr.com) | Reusable glass bottles with silicone sleeves |
+| [Swell](https://www.swell.com) | Stainless steel water bottles, food containers |
+| [Hydroflask](https://www.hydroflask.com) | Vacuum insulated stainless steel water bottles |
 
 ## Water Filters
 | Brand/Shop	| Why? |	
