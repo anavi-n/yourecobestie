@@ -86,22 +86,11 @@ As always, the most sustainable thing you can do is use things you already have,
 ## Bedroom	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-Avocado Luxury Green Mattress
-Avocado Luxury Vegan Mattress
-Avocado Luxury Green Pillow
-Coyuchi Organic Mattress Pad
-Coyuchi Organic Relaxed Linen Duvet Cover
-Coyuchi Organic Jersey Sheets
-Coyuchi Organic Relaxed Linen Sheets
-Birch Organic Mattress
-Birch Organic Pillowtop
-Birch Organic Pillow
-Thuma Bedframe
-Buffy Eucalyptus Cloud Comforter
-Buffy Eucalyptus Breeze Comforter
-Buffy Eucalyptus Pillow
-Buffy Eucalyptus Sheets
-Buffy Eucalyptus Duvet Cover	
+[Avocado](https://www.avocadogreenmattress.com) | Organic mattresses, bedding, and pillows |
+[Coyuchi Organic](https://www.coyuchi.com) | Organic bedding, sheets, duvet covers | 
+[Birch Organic](https://birchliving.com/products/birch-natural-organic-mattress) | Organic mattresses |
+[Thuma Bedframe](https://www.thuma.co) | Environmentally-friendly, upcycled and repurposed rubberwood as materials |
+[Buffy Eucalyptus](https://buffy.co/collections/eucalyptus) | Recycled plastic bottles made into comforters |
 
 ## Chewing gum
 Location: US based
