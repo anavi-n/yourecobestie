@@ -104,18 +104,11 @@ Central Coast
 Bambu Batu (San Luis Obispo)
 Secret Garden (San Luis Obispo)
 SLO Food Co-op (San Luis Obispo)
-Online
-Package Free Shop
-The Wild Minimalist
-Zero Waste Store
-Well Earth Goods
-Eco Roots
-Helen MIlan
-Larger Grocery Stores With Bulk Sections
+
+##### Larger Grocery Stores With Bulk Sections
 Sprouts
 Rainbow Grocery
 Whole Foods
 Smart & Final
 WinCo Foods
 New Leaf	
-
