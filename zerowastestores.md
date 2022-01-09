@@ -1,17 +1,13 @@
 ## Sustainable shops / Zero waste shops	
 
-### Seattle
-| Brand/Shop	| Why? |
-| ------ | ------| 
-[Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | 
-[Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | 
-Zenith Supplies |
-Ballard Market | bulk dry goods and so much more! |
-[Mimi's Zero waste](https://mimiszerowastemarket.com/) | bulk grocery |
-[Central Co-op](https://www.centralcoop.coop/) | Bulk grocery and plastic0free produce |
-[PCC Markets](https://www.pccmarkets.com/) | bulk grocery, food, and cleaning supplies |
-[Dandelion Botanical Company](https://dandelionbotanical.com/) | Bulk spices, teas, salts, etc.|
-[Public Goods](https://apublicshop.com/) | Bulk everything |
+### Honolulu
+| Brand/Shop | Why? |
+| ------ | ------ |
+| [Keep It Simple](https://www.keepitsimplezerowaste.com) | Honolulu zero waste store, also has nut milk |
+| [Zero Waste O'ahu](https://www.zerowasteoahu.org) | Groceries, bulk food, among other zw items |
+| [Down to Earth](https://www.downtoearth.org) | Bulk grains, flours and baking supplies, beans, legumes, nuts, and some personal care products and more |
+| [Kokua Market](https://www.kokuamarket.com) | Bulk whole grains, beans, legumes, nuts, seeds, snacks, and more |
+
 
 ### Ithaca
 | Brand/Shop | Why? |
@@ -24,6 +20,18 @@ Wegmans | some bulk items |
 [Mimi’s attic](https://mimisatticithaca.com/) | Secondand items for home, kitchen |
 [Green Star](https://greenstar.coop/) | Bulk dry goods
 
+### Seattle
+| Brand/Shop	| Why? |
+| ------ | ------| 
+[Scoop Marketplace](https://www.scoopmarketplace.com/) | Zero-waste grocery store | 
+[Eco Collective](https://www.ecocollective.com/) | Women-owned zero waste store | 
+Zenith Supplies |
+Ballard Market | bulk dry goods and so much more! |
+[Mimi's Zero waste](https://mimiszerowastemarket.com/) | bulk grocery |
+[Central Co-op](https://www.centralcoop.coop/) | Bulk grocery and plastic0free produce |
+[PCC Markets](https://www.pccmarkets.com/) | bulk grocery, food, and cleaning supplies |
+[Dandelion Botanical Company](https://dandelionbotanical.com/) | Bulk spices, teas, salts, etc.|
+[Public Goods](https://apublicshop.com/) | Bulk everything |
 
 ### Southern California
 | Brand/Shop	| Why?	| 
