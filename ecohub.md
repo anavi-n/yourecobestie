@@ -26,6 +26,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Laundry](ecohub.md#laundry)
 - [Make up](ecohub.md#makeup)
 - [Menstrual products](ecohub.md#menstrual-products)
+- [Nail polish](ecohub.md#nailpolish)
 - [Packaging/Shipping](ecohub.md#packagingshipping)
 - [Parties](ecohub.md#parties)
 - [Shoes](ecohub.md#shoes)
@@ -381,6 +382,13 @@ June Cup
 | Item| Why?	 |
 | ------ | ------|
 Saathi Pads | Compostable pads
+
+## Nail polish
+Nail polish contains toxic ingreients that are not only harmful to you but also the planet. Further, they add microplastics into the environment. While there isn't good enough research on non toxic alternatives, the ones below are definitely better than traditional nail polishes that contain the toxic ingredients. It would be most sustainable to avoid nail polish altogether.
+
+| Brand/Shop	| Why?	|
+| ------ | ------|
+[B Kind](https://bkind.com) | Non-toxic, vegan, cruelty-free |
 
 ## Packaging/Shipping	
 | Brand/Shop	| Why? |	
