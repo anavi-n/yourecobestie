@@ -106,6 +106,8 @@ Secret Garden (San Luis Obispo)
 SLO Food Co-op (San Luis Obispo)
 
 ##### Larger Grocery Stores With Bulk Sections
+| Shop | Why? |
+| ------ | ------ |
 Sprouts
 Rainbow Grocery
 Whole Foods
