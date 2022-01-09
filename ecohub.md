@@ -481,6 +481,11 @@ Sea and Clean
 | [Wild Skincare](https://wildskincare.ca/)| small batch, natural skincare | 
 | [Om Organics](https://omskin.com) | Cruelty free, ethical, handcrafted in Canada |
 
+### Location: India based
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+| [Parama Naturals](https://paramanaturals.com/collections/all-products) | 
+
 ## Sunscreen
 | Brand/Shop	| Why?	|
 | ------ | ------| 
