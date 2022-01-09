@@ -388,10 +388,10 @@ Nail polish contains toxic ingreients that are not only harmful to you but also 
 
 | Brand/Shop	| Why?	|
 | ------ | ------|
-| [Habitat Cosmetics](https://www.habitcosmetics.com) | Non-toxic, vegan, wooden, recyclable bottle caps. Nail polish caps are made of 100% recycled PP plastic and are recyclable. Brushes are made from 80% recycled PE plastic. Bamboo caps are compostable. |
-| [Zao Organics](https://zaomakeup.com/en/nail-polish) | Vegan, bamboo cap |
+| [Habitat Cosmetics](https://www.habitcosmetics.com) | Non-toxic, vegan, wooden, recyclable bottle caps. Nail polish caps are made of 100% recycled PP plastic and are recyclable. Brushes are made from 80% recycled PE plastic. Bamboo caps are compostable |
+| [Zao Organics](https://zaomakeup.com/en/nail-polish) | Vegan, bamboo cap, Francg|
 | [Nails Inc](https://www.nailsinc.com/en/plant-power/cpl-32.aspx) | Vegan, cruelty-free, recyclable bamboo cap |
-| [Sienna](https://sienna.co) | Vegan, certified B corp, cruelty-free, recyclable timber cap, Australian, Their head office and warehouse uses 100% renewable energy, everything they produce is within Australia to keep their carbon footprint low. Sienna’s packaging is 100% recyclable, printed on 100% local recycled stock, and have in-house recycling program where customers can return their empty bottles. |
+| [Sienna](https://sienna.co) | Vegan, certified B corp, cruelty-free, recyclable timber cap, Australian, head office and warehouse uses 100% renewable energy, packaging is 100% recyclable, printed on 100% local recycled stock, and have in-house recycling program where customers can return their empty bottles |
 | [B Kind](https://bkind.com) | Non-toxic, vegan, cruelty-free, Canadian |
 
 ## Packaging/Shipping	
