@@ -26,7 +26,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Laundry](ecohub.md#laundry)
 - [Make up](ecohub.md#makeup)
 - [Menstrual products](ecohub.md#menstrual-products)
-- [Nail polish](ecohub.md#nailpolish)
+- [Nail polish](ecohub.md#nail-polish)
 - [Packaging/Shipping](ecohub.md#packagingshipping)
 - [Parties](ecohub.md#parties)
 - [Shoes](ecohub.md#shoes)
