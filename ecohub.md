@@ -137,7 +137,8 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [ThredUp](https://www.etsy.com) |
 | [Mercari](https://www.mercari.com/) | 
 | [The RealReal](https://www.therealreal.com) |
-| Goodwill
+| Goodwill | Need I say anything? |
+| [Sustainable Supply Co](https://www.hellossco.com) | Secondhand clothing online (mostly jeans) |
 | Fair Season
 | Shop Future
 | Shop Stressed
