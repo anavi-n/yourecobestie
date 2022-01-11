@@ -29,6 +29,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Nail polish](ecohub.md#nail-polish)
 - [Packaging/Shipping](ecohub.md#packagingshipping)
 - [Parties](ecohub.md#parties)
+- [Pens/pencils](ecohub.md#penspencils)
 - [Shoes](ecohub.md#shoes)
 - [Skincare](ecohub.md#skincare)
 - [Sunscreen](ecohub.md#sunscreen)
