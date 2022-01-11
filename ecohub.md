@@ -414,6 +414,12 @@ Fibers & Florals
 Austeriti Sustainable Bar Services
 Sustain LA Event rentals
 
+## Pens/pencils
+| Brand/Shop	| Why? |	
+| ------ | ------ |
+| [Eco highlighters](https://stubbypencilstudio.com/collections/eco-highlighters) | plastic-free highlighters | 
+| [Eco pen club](https://ecopen.club/) | paper based pens and stationary, based in Australia |
+
 ## Hair Care
 #### Location: US based
 | Brand/Shop	| Why?|
