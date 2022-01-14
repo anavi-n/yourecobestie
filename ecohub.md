@@ -9,6 +9,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Bathroom](ecohub.md#bathroom)
   - [Oral care](ecohub.md#oral-care)
 - [Bedroom](ecohub.md#bedroom)
+- [Carbon offsets](ecohub.md#carbon-offsets)
 - [Chewing Gum](ecohub.md#chewing-gum)
 - [Cleaning](ecohub.md#cleaning)
 - [Clothing](ecohub.md#clothing)
@@ -93,6 +94,18 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Birch Organic](https://birchliving.com/products/birch-natural-organic-mattress) | Organic mattresses |
 | [Thuma Bedframe](https://www.thuma.co) | Environmentally-friendly, upcycled and repurposed rubberwood as materials |
 | [Buffy Eucalyptus](https://buffy.co/collections/eucalyptus) | Recycled plastic bottles made into comforters |
+
+## Carbon offsets
+| Company	| Why? | 
+| ------ | ------|
+| Atmosfair | 
+| Carbon Offsets to Alleviate Poverty | 
+| Cool Effect | 
+| Clear | 
+| [Go Climate](https://www.goclimate.com) | 
+| MyClimate | 
+| Native Energy | 
+| Treedom | 
 
 ## Chewing gum
 Location: US based
