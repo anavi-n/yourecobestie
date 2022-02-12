@@ -75,6 +75,7 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Marley’s Monsters Organic Facial Rounds](https://www.marleysmonsters.com) | Reusable cotton rounds |
 | [Tushy Spa Bidet Attachment](https://hellotushy.com) | Bidet and bamboo TP, carbon neutral |
 | [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
+| [How we Roll](https://au.howwerollco.co/collections/shop-now) | Australia based, TP from recycled paper | 
 
 
 ### Oral care
