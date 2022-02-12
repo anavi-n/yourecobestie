@@ -175,6 +175,7 @@ Armoire
 ### New
 | Brand/Shop	| Why? | 
 | ------ | ------|
+| [Upparel](https://upparel.com.au/shop/) | Australia based, products from upcycled textiles - socks & other basics |
 | [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
 | [Anian](https://anianmfg.com/) | salvaged cloth from landfill turned into clothing | 
 | [Madewell](https://www.madewell.com/) |
@@ -201,6 +202,7 @@ Organic Basics
 ### Undergarments	
 | Brand/Shop	| Why? | 
 | ------ | ------|
+[Upparel](https://upparel.com.au/shop/) | Australia based, upcycled textiles | 
 Arq
 [Hara The Label](https://www.harathelabel.com/) | Plant dyed bamboo intimates |
 Proclaim
