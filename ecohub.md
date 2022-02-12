@@ -47,6 +47,7 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Pretty Planet Co](https://www.prettyplanetsupplyco.com/products) | Hair, body, kitchen products, woman owned, small business |
 | [Earthling Co](https://theearthlingco.com/) | 1% for the planet, plastic-free |
 | [Zero Waste Store](https://zerowastestore.com/) | Sustainable brands on one platform | 
+| [Zero Waste Cartel](https://zerowastecartel.com/) | 
 | [Ware](https://www.wareavl.com/collections/shop-all) | Sustainable refill store, local to Asheville, NC | 
 | [Plastic free pursuit](https://plasticfreepursuit.com/) | Package-free and zero waste products | 
 | [Humble Earth Co](https://humbleearthco.com) | Sustainable, plastic-free, 1% donated to wildlife |
@@ -260,6 +261,7 @@ Stojo Collapsible Coffee Cup
 [Island Thyme](https://www.islandthyme.com/) | plastic free, biodegradable | 
 [Tierra & Lava](https://www.tierraandlava.com/) | fair-trade, women-owned, small business |
 [Paper Cosmetics](https://papercosmetics.com/products/sensitive-bare-naked) | natural, plastic free, vegan | 
+[Humby Organics](https://humbyorganics.com/) | small sustainable shop w deodorant and shampoo/conditioner bars| 
 
 ### UK based
 | Brand/Shop	| Why?	|
