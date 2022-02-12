@@ -373,6 +373,7 @@ Happi Earth | Laundry refills
 [Clean Faced Cosmetics](https://www.etsy.com/shop/CleanFacedCosmetics) | cruelty-free, vegan, plastic-free, zerowaste, refillable |
 [Trestique](https://www.trestique.com/) | Refillable make up made from post Consumer recycled materials and recyclable | 
 [Zao](https://zaomakeup.com/en) | Refillable make up |
+[IvyPoppyMay](https://ivypoppymay.com/products/eye-brow-gel) eyebrow gel | plastic free, vegan, cruelty free | 
 
 #### Location: India based
 | Brand/Shop	| Why?	|
