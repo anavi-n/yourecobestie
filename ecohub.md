@@ -457,6 +457,18 @@ Dirty Hippie Cosmetics
 Katie Mae Natuals
 Sea and Clean
 
+## Hair ties & tools
+| Brand/Shop	| Why?|
+| ------ | ------|
+| [Kooshoo](https://kooshoo.com/) | plastic free, made from natural rubber and organic cotton |
+| [Ten thousand villages](https://www.tenthousandvillages.com/accessories/hair-accessories) | fair trade, made from cotton and recycled cotton |
+| [Tamga designs](https://www.tamgadesigns.com/collections/scarves-and-hair-accessories) | made from fabric scrap |
+| [Encircled](https://www.encircled.co/search?q=scrunchies&type=product) | made from recycled materials, ethical | 
+| [Fair Anita](https://fairanita.com/block-printed-scrunchie-set/) | Fair trade, made by women in India who receive 4x minimum wage & health benefits, 100% cotton |
+
+
+
+
 #### Location: India based
 | Brand/Shop	| Why?|
 | ------ | ------|
