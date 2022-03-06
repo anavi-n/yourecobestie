@@ -466,9 +466,10 @@ Sea and Clean
 | [Tamga designs](https://www.tamgadesigns.com/collections/scarves-and-hair-accessories) | made from fabric scrap |
 | [Encircled](https://www.encircled.co/search?q=scrunchies&type=product) | made from recycled materials, ethical | 
 | [Fair Anita](https://fairanita.com/block-printed-scrunchie-set/) | Fair trade, made by women in India who receive 4x minimum wage & health benefits, 100% cotton |
-
-
-
+| [Terra Ties](https://www.terraties.com/) | made from natural rubber and organic cotton | 
+| [Girlfriend Collective](https://girlfriend.com/collections/hair-accessories) | made from recycled plastic bottles and scrap |
+| [Tentree](https://www.tentree.com/products/3-upcycled-scrunchies) | made from recycled and organic materials |
+| [Sustain by Kat](https://sustainbykat.com/collections/accessories) | made from natural and organic materials | 
 
 #### Location: India based
 | Brand/Shop	| Why?|
