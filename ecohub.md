@@ -267,6 +267,7 @@ Stojo Collapsible Coffee Cup
 [Tierra & Lava](https://www.tierraandlava.com/) | fair-trade, women-owned, small business |
 [Paper Cosmetics](https://papercosmetics.com/products/sensitive-bare-naked) | natural, plastic free, vegan | 
 [Humby Organics](https://humbyorganics.com/) | small sustainable shop w deodorant and shampoo/conditioner bars| 
+[Crystal deodorant](https://packagefreeshop.com/products/crystal-deodorant-1) | cork container is compostable | 
 
 ### UK based
 | Brand/Shop	| Why?	|
