@@ -78,6 +78,8 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Plenty and Spare](https://plentyandspare.ca/)| Shampoo & conditioner bars |
 | [How we Roll](https://au.howwerollco.co/collections/shop-now) | Australia based, TP from recycled paper | 
 | [Bazoo](https://wearebazoo.com/collections/shop) | Tree free TP | 
+| [Shoo-Foo Hemp shower curtain](https://www.shoo-foo.com/products/hemp-shower-curtain-washable) | plastic free, hemp, washable |
+| [Bed, Bath & Beyond hemp and cotton shower curtain](https://www.bedbathandbeyond.com/store/product/nestwell-solid-hemp-shower-curtain/5546360)
 
 
 ### Oral care
