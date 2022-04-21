@@ -493,6 +493,8 @@ Sea and Clean
 | [The Plant Shoe](https://www.nativeshoes.com/the-plant-shoe/the-plant-shoe.html) | Made from plants, vegan, organic |
 | [Allbirds](https://www.allbirds.com) | Shoes made from renewable materials | 
 | [Rothys](https://rothys.com) | Washable shoes and bags made from recycled materials | 
+| [Vivo Barefoot](https://www.vivobarefoot.com/us/) | B corp, regenerative, barefoot |  
+
 
 ## Skincare 
 ### Location: US based 
