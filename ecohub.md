@@ -438,7 +438,8 @@ Nail polish contains toxic ingreients that are not only harmful to you but also 
 | ------ | ------ |
 [Equo](https://shopequo.com/) | plastic free utensils | 
 [Confetti](https://fredericksandmae.com/products/wildflower-seed-paper-cannon) | Wilflower seed confetti in a recyclable tube, plastic-free |
-[Cups] | Thrift glass cups from local thrift stores |
+Cups | Thrift glass cups from local thrift stores |
+[Chips](https://humblechips.ca/ourBags) | industrial compostable chip bags, plastic free |
 Fibers & Florals
 Austeriti Sustainable Bar Services
 Sustain LA Event rentals
