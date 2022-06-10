@@ -6,9 +6,11 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | Item | What you can do |
 | ------ | -------------|
 | Clothes you no longer need | Donate to local women shelters. Use as rags for cleaning |
+| Crayons | Donate to [The Crayon Initiative](https://thecrayoninitiative.org/)
 | Mascara wands | Clean and donate to [Wands for Wildlife](https://www.wandsforwildlife.org/donate-wands.html) |
 | Towels | Donate to local animal shelters |
 | Miscellanous items | Post on your local Buy Nothing Facebook group |
 | Laptops |
 | New and gently used appliances, sinks, lumber, furniture, building materials, household goods and more from individuals and companies| Donate to [Habitat for Humanity ReStores](https://www.habitat.org/restores/donate-goods) Each ReStore is unique, and many locations also accept items outside these categories |
 | Batteries | Drop off at local recycling places such as Home Depot, etc. |
+| Markers and highligthers | For markers and highlighters that are at the end of their life cycle, [Crayola’s ColorCycle](https://www.crayola.com/colorcycle) program for schools will accept all brands of plastic markers to be recycled and converted into clean-burning fuel
