@@ -9,3 +9,5 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | Mascara wands | Clean and donate to [Wands for Wildlife](https://www.wandsforwildlife.org/donate-wands.html) |
 | Towels | Donate to local animal shelters |
 | Miscellanous items | Post on your local Buy Nothing Facebook group |
+| Laptops |
+| New and gently used appliances, sinks, lumber, furniture, building materials, household goods and more from individuals and companies| Donate to [Habitat for Humanity ReStores](https://www.habitat.org/restores/donate-goods) Each ReStore is unique, and many locations also accept items outside these categories |
