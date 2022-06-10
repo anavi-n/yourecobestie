@@ -7,3 +7,5 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | ------ | -------------|
 | Clothes you no longer need | Donate to local women shelters. Use as rags for cleaning |
 | Mascara wands | Clean and donate to [Wands for Wildlife](https://www.wandsforwildlife.org/donate-wands.html) |
+| Towels | Donate to local animal shelters |
+| Miscellanous items | Post on your local Buy Nothing Facebook group |
