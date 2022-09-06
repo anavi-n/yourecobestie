@@ -172,11 +172,11 @@ The most sustainable option is to use what you have or thrift instead of buying 
 
 
 ### Clothing rentals
-| Brand/Shop	| Why? | 
-| ------ | ------|
+| Brand/Shop	| 
+| ------ | 
 Rent The Runway |
-Armoire
-
+Armoire | 
+Nuuly |  
 
 ### New
 | Brand/Shop	| Why? | 
