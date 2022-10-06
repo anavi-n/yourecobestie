@@ -385,6 +385,8 @@ Happi Earth | Laundry refills
 [Zao](https://zaomakeup.com/en) | Refillable make up |
 [IvyPoppyMay](https://ivypoppymay.com/products/eye-brow-gel) eyebrow gel | plastic free, vegan, cruelty free | 
 [Izzy](https://yourizzy.com/products/zero-waste-mascara) | zerowaste refillable mascara and lip gloss |
+[Zerra & Co](https://zerraco.com/) | plastic free, container return program, carbon neutral shipping | 
+
 
 #### Location: India based
 | Brand/Shop	| Why?	|
@@ -488,14 +490,18 @@ Sea and Clean
 ## Shoes	
 | Brand/Shop	| Why? |
 | ------ | ------| 
-| [Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
-| [Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available in target | 
+| [Okabashi](https://www.okabashi.com/) | American sustainable-made (can be a good local option), available at Target | 
 | [Veja](https://www.veja-store.com/en_uk/) | Fair trade, organic shoes |
 | [The Plant Shoe](https://www.nativeshoes.com/the-plant-shoe/the-plant-shoe.html) | Made from plants, vegan, organic |
 | [Allbirds](https://www.allbirds.com) | Shoes made from renewable materials | 
 | [Rothys](https://rothys.com) | Washable shoes and bags made from recycled materials | 
 | [Vivo Barefoot](https://www.vivobarefoot.com/us/) | B corp, regenerative, barefoot |  
 
+### Location: India based
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+| [Thaely](https://thaely.com/collections/all) | Indian based brand that makes shoes from waste plastic bags | 
+| [Neemam's](https://neemans.com/collections/new-collection) | sustainably sourced materials, made from recycled PET | 
 
 ## Skincare 
 ### Location: US based 
@@ -531,6 +537,7 @@ Sea and Clean
 | [Do not eat shampoo and soap bars](https://www.donoteat.ca/) | small business, plastic-free, based in Toronto |
 | [Sugar waxing - hair removal](https://sugardoh.co/collections/all-products-excluding-route/products/classic-paste) | compostable, plastic free |
 | [Rebrand Skincare](https://rebrandskincare.com/collections/all) | refillable, vegan, sustainable, ethical products | 
+| [Zerra & Co](https://zerraco.com/) | plastic free, container return program, carbon neutral shipping | 
 
 ### Location: Canada based
 | Brand/Shop	| Why?	|
