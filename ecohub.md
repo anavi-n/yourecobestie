@@ -313,16 +313,9 @@ EBTH
 ## Jewelry	
 | Brand/Shop	| Why? | 
 | ------ | ------|
-| [Aether](https://aetherdiamonds.com/) | 
- Carbon negative diamonds |
+|[Aether](https://aetherdiamonds.com/) | Carbon negative diamonds |
 |[AB Seas](https://www.aliceinwanderlustland.com/rings) | Rings from scraps in beach clean ups |
-Danica Stamenic
-Ceremony
-Olivia Kane
-Mr. OK
-J. Hannah
-Vrai		
-By Glaze | 
+| [Bruna](https://brunathelabel.com/en-us) | Jewelry made from recycled gold and silver |
 
 ## Kitchen	
 | Brand/Shop	| Why? | 
