@@ -35,6 +35,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Shoes](ecohub.md#shoes)
 - [Skincare](ecohub.md#skincare)
 - [Sunscreen](ecohub.md#sunscreen)
+- [Stockings](ecohub.md#stockings)
 - [Technology](ecohub.md#technology)
 - [Vitamins](ecohub.md#vitamins-probiotics)
 - [Water bottles](ecohub.md#water-bottles)
@@ -566,6 +567,18 @@ Sea and Clean
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 | [Pai Skincare](https://www.paiskincare.ie) | certified organic, plastic-free, vegan, fomulated for sensitive skin
+
+## Stockings
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+Dear Denier | 
+Organic Basics | made from recycled materials, Denmark based |
+Lanius | vegan, made from econyl, German brand | 
+Living Crafts | made from castor oil plant instead of from crude oil, German based | 
+Swedish Stockings | made from pre and post consumer nylon waste, made in Italy | 
+Thought | made from post consumer recycled plastic, Britain based |
+Underprotection | made from recycled polyster and organic cotton, Denmark based |
+
 
 ## Technology
 | Brand/Shop	| Why? | 
