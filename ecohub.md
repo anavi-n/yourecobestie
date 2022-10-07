@@ -571,7 +571,7 @@ Sea and Clean
 ## Stockings
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-Dear Denier | 
+Dear Denier | made from recycled materials, Denmark based | 
 Organic Basics | made from recycled materials, Denmark based |
 Lanius | vegan, made from econyl, German brand | 
 Living Crafts | made from castor oil plant instead of from crude oil, German based | 
