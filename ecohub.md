@@ -502,6 +502,7 @@ Sea and Clean
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 | [Activist Skincare](https://activistskincare.com/) | Refills, vegan, cruelty-free |
+| [Island Thyme](https://www.islandthyme.com/) | plastic free, small business, handcrafted in the pnw (USA) | 
 | [The Detox Market](https://www.thedetoxmarket.com) | variety of products from different brands, also ships to India |
 | [Follain](http://follain.com) | re-usable glass containers |
 | [Meow Meow Tweet](https://meowmeowtweet.com) | Plastic-free , vegan, cruelty-free, ethical |
