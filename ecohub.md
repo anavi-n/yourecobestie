@@ -264,7 +264,8 @@ Stojo Collapsible Coffee Cup
 ## Coasters
 | Brand/Shop	| Why? | 
 | ------ | ------|
-[Will & Atlas coasters](https://www.madetrade.com/products/will-and-atlas-jute-round-coasters-set) | Made from jute, fair trade
+[Will & Atlas coasters](https://www.madetrade.com/products/will-and-atlas-jute-round-coasters-set) | Made from jute, fair trade |
+[Tiradia Cork](https://tiradia.com/products/biodegradable-cork-coasters-set-of-4?) | Coasters made from cork, vegan, ethical |
 
 ## Deodorant
 | Brand/Shop	| Why?	|
