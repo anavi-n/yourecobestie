@@ -19,6 +19,7 @@ As always, the most sustainable thing you can do is use things you already have,
   - [Swim](ecohub.md#swim)	
   - [New](ecohub.md#new)
 - [Coffee](ecohub.md#coffee)
+- [Coasters](ecohub.md#coasters)
 - [Deodorant](ecohub.md#deodorant)
 - [Furniture](ecohub.md#furniturehome-decor)
 - [Hair care](ecohub.md#hair-care)
@@ -259,6 +260,11 @@ Beleaf Green Travel Straw
 Huskee
 Corksickle
 Stojo Collapsible Coffee Cup
+
+## Coasters
+| Brand/Shop	| Why? | 
+| ------ | ------|
+[Will & Atlas coasters](https://www.madetrade.com/products/will-and-atlas-jute-round-coasters-set) | Made from jute, fair trade
 
 ## Deodorant
 | Brand/Shop	| Why?	|
