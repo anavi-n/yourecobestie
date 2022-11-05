@@ -330,14 +330,16 @@ EBTH
 | ------ | ------|
 [Clean Cult](https://www.cleancult.com/) | 95% plastic-free, all-natural, zero-waste, natural cleaners | |
 [Aplat Bowl & Pan Covers](https://aplat.com/collections/food-covers)| "Our 100% organic cotton canvas is 10oz, food-safe, and produced from environmentally friendly materials and fabrication methods using sustainable fibers along with low impact dyeing methods preserving the Earth"|
+[Recycled glass oil dispenser](https://www.shopterrain.com/products/recycled-glass-oil-dispenser) |
+[Sunbird Straws](https://sunbirdstraws.com/) | Uses Cocconut leaves that would be o/w burnt while funding women in rural areas| Karnataka, India| 
+[Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |	
 No Tox Life Dishwashing Block
 Echoview Fiber Mill Compostable Wool Dish Sponge
 Ambrosia Produce Storage Bags
 Stasher Bags
 Bamboo Countertop Compost Bin
 Inka World Food Containers
-[Sunbird Straws](https://sunbirdstraws.com/) | Uses Cocconut leaves that would be o/w burnt while funding women in rural areas| Karnataka, India| 
-[Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |	
+
 
 ## Laundry	
 ### Location: US/Canada based
