@@ -146,6 +146,7 @@ Location: Australia/NZ
 | [No Tox Life](https://notoxlife.com) | Vegan bath, body, and cleaning products made by a mother daughter duo |
 | [Echoview Fiber Mill Reusable Cleaner Cloth](https://www.echoviewnc.com/shop/cleaner-cloth) | Reusable cleaning cloth |
 | DIY Vinegar All-Purpose Cleaner | Make yourself a home made cleaner with a 1:1 ratio of water and white distilled vinegar; avoid on granite, grout, and marble |
+| [Reclaimed wood broom](https://www.etsy.com/listing/1067689407/tall-size-zero-waste-cleaning-set-rustic) | Handmade from a small business with reclaimed wood |
 
 
 ## Clothing 
