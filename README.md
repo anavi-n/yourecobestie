@@ -1,6 +1,6 @@
 # SustainablEverything
 
-I'm a (barely) 20-something low-waste / sustaianable / eco-friendly / minimalist and I wanted to share resources to help those who might be interested in similar topics.
+I'm a low-waste / sustaianable / eco-friendly / minimalist and I wanted to share resources to help those who might be interested in similar topics.
 This is a guide to everything that is good for the earth and good for you!
 Follow me on instagram for more sustainable data-based tips [@yourecobestie](https://www.instagram.com/yourecobestie/)
 
