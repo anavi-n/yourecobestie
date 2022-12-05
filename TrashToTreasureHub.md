@@ -11,9 +11,9 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | New and gently used appliances, sinks, lumber, furniture, building materials, household goods and more from individuals and companies| Donate to [Habitat for Humanity ReStores](https://www.habitat.org/restores/donate-goods) Each ReStore is unique, and many locations also accept items outside these categories |
 | Markers and highligthers | For markers and highlighters that are at the end of their life cycle, [Crayola’s ColorCycle](https://www.crayola.com/colorcycle) program for schools will accept all brands of plastic markers to be recycled and converted into clean-burning fuel
 | Laptops | Donate to [Computers for Causes](https://www.computerswithcauses.org/laptop-donation/) |
-|[](https://portlandbeebalm.com/pages/recycle) | 
+| Lipbalm containers | [Portland Bee Balm](https://portlandbeebalm.com/pages/recycle) | 
 | Miscellanous items | Post on your local Buy Nothing Facebook group |
 | Mascara wands | Clean and donate to [Wands for Wildlife](https://www.wandsforwildlife.org/donate-wands.html) |
 | Towels | Donate to local animal shelters |
+| Shoes | Donate to [Soles4Souls](https://soles4souls.org/give-shoes/) |
 | Underwesr | Donate to [Knickey's recycling program](https://knickey.com/pages/recycle) - they also take socks, bras, and tights |
-
