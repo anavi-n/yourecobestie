@@ -334,6 +334,7 @@ EBTH
 [Recycled glass oil dispenser](https://www.shopterrain.com/products/recycled-glass-oil-dispenser) | This cute oil dispenser is made from recycled glass |
 [Sunbird Straws](https://sunbirdstraws.com/) | Uses Cocconut leaves that would be o/w burnt while funding women in rural areas| Karnataka, India| 
 [Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |	
+[Remark Glass](https://remarkglass.com/collections/all-products) | handmade, recycled glassware | 
 No Tox Life Dishwashing Block
 Echoview Fiber Mill Compostable Wool Dish Sponge
 Ambrosia Produce Storage Bags
