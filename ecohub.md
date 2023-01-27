@@ -173,7 +173,6 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | This Repair Shop
 | Ética Denim
 
-
 ### Clothing rentals
 | Brand/Shop	| 
 | ------ | 
@@ -193,6 +192,7 @@ Nuuly |
 Sezanne   
 | [Marine Layer](https://www.marinelayer.com/pages/respun-2021) | creates clothing from old clothes via recycling program, re-spun | 
 | [Tala](https://www.wearetala.com/en-us/pages/tala-sustainability) |
+| [Cos](https://www.cos.com/en_usd/sustainability.html)
 Whimsy & Row
 Jesse Kamm
 Mixed Business
