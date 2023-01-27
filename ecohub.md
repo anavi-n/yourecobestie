@@ -192,6 +192,7 @@ Nuuly |
 | [KOTN](https://kotn.com)| Sustainable clothing and decor |
 Sezanne   
 | [Marine Layer](https://www.marinelayer.com/pages/respun-2021) | creates clothing from old clothes via recycling program, re-spun | 
+| [Tala](https://www.wearetala.com/en-us/pages/tala-sustainability) |
 Whimsy & Row
 Jesse Kamm
 Mixed Business
