@@ -237,18 +237,17 @@ Boody
 Pact
 
 ### Swim	
+
+#### Swimsuits
 | Brand/Shop	| Why? | 
 | ------ | ------|
-Galamaar
-Summersalt
-TallPoppy
-Vitamin A
-Salome Swim
-Now Then
-Alyned
-Bold Swim
-Outerknown
-Londré		
+| [Zoggs](https://www.zoggs.com/en_GB/ecolast-plus) | Ecolast+ line is made from recycled plastic bottles |
+| [Kaiona](https://kaionaswimwear.com/collections/one-piece-swimsuits) | Small business, made in small batches in Hawaii |
+| [YouSwim](https://www.youswim.com/collections/all) | 7 sizes in one piece helps you buy less if your sizes frequently change |
+| [Emroce](https://emroce.com/collections/one-piece-suit-costume-intero) | Made from recycled fishing nets and nylon waste |
+
+#### Goggles
+
 
 ## Coffee	
 | Brand/Shop	| Why? | 
