@@ -288,12 +288,11 @@ Stojo Collapsible Coffee Cup
 | [Boo heads](https://www.booheads.com/) | Bamboo heads for electric toothbrushes | 
 
 ## Furniture/Home Decor	
-Always buy secondhand or thrift first.
+Always buy secondhand or thrift first. Check Craigslist, Facebook Marketplace, or your local thrift stores.
+
 | Brand/Shop	| Why?	|
 | ------ | ------|
-Craigslist
-Facebook Marketplace	
-Local thrift stores
+[ChopValue](https://chopvalue.com/collections/home) | Made from recycled chopsticks 
 Chairish
 Studio Moe
 Fyrn
