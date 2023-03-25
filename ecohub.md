@@ -324,7 +324,7 @@ EBTH
 |[Aether](https://aetherdiamonds.com/) | Carbon negative diamonds |
 |[AB Seas](https://www.aliceinwanderlustland.com/rings) | Rings from scraps in beach clean ups |
 |[Bruna](https://brunathelabel.com/en-us) | Jewelry made from recycled gold and silver |
-|[OceanPlan](https://www.etsy.com/uk/shop/OceanPlan | Handmade jewelry made from plastic found during ocean clean ups |
+|[OceanPlan](https://www.etsy.com/uk/shop/OceanPlan) | Handmade jewelry made from plastic found during ocean clean ups |
 
 ## Kitchen	
 | Brand/Shop	| Why? | 
