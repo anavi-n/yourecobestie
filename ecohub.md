@@ -24,6 +24,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Furniture](ecohub.md#furniturehome-decor)
 - [Hair care](ecohub.md#hair-care)
 - [Hair ties & tools](ecohub.md#hair-ties--tools)
+- [Home](ecohub.md#home)
 - [Jewelry](ecohub.md#jewelry)
 - [Kitchen](ecohub.md#kitchen)
 - [Laundry](ecohub.md#laundry)
@@ -491,6 +492,11 @@ Sea and Clean
 | Brand/Shop	| Why?|
 | ------ | ------|
 | [The Body Shop](https://www.thebodyshop.in) | Cruelty-free beauty products |
+
+## Home
+| Brand/Shop	| Why?|
+| ------ | ------|
+| [Phool Co](https://phool.co/collections/all) | Incense sticks, essential oils made from to be wasted flowers |
 
 ## Shoes	
 | Brand/Shop	| Why? |
