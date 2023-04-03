@@ -61,6 +61,12 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
 | [Marley's Monsters](https://www.marleysmonsters.com) | Eco-friendly products for beauty, bath, and babies | 
 
+## Bags
+| Brand/Shop	| Why?	|
+| ------ | ------|
+| [Rokhak](https://www.rokhak.com/store/) | Handmade by women in Cambodia from water hyacinths (plants) that block waterways | 
+
+
 ## Bathroom	
 | Brand/Shop	| Why? | 
 | ------ | ------|
