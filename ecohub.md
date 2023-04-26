@@ -91,6 +91,7 @@ As always, the most sustainable thing you can do is use things you already have,
 | [Bed, Bath & Beyond hemp and cotton shower curtain](https://www.bedbathandbeyond.com/store/product/nestwell-solid-hemp-shower-curtain/5546360)
 | [Bean Products hemp shower curtain](https://beanproducts.com/products/hemp-shower-curtains) 
 | [Raworganique hemp shower curtain](https://rawganique.com/collections/organic-shower-curtains/products/48-x-72-hemp-stall-shower-curtain-montebello?variant=36198330237095)
+| [Compostable toilet brush](https://zerowastestore.com/products/plastic-free-toilet-brush) | fully compostable, plastic-free | 
 
 ### Oral care
 | Brand/Shop	| Why? | 
