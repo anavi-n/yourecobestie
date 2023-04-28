@@ -16,4 +16,5 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | Mascara wands | Clean and donate to [Wands for Wildlife](https://www.wandsforwildlife.org/donate-wands.html) |
 | Towels | Donate to local animal shelters |
 | Shoes | Donate to [Soles4Souls](https://soles4souls.org/give-shoes/) |
+| Socks | Donate to [SmartWool's SecondCut]( ) program to upcycle them info new socks | 
 | Underwear | Donate to [Knickey's recycling program](https://knickey.com/pages/recycle) - they also take socks, bras, and tights; [Parade's take back program](https://yourparade.com/pages/take-back) also recycles them |
