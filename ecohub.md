@@ -28,6 +28,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Jewelry](ecohub.md#jewelry)
 - [Kitchen](ecohub.md#kitchen)
 - [Laundry](ecohub.md#laundry)
+- [Medicines](ecohub.md#medicines)
 - [Make up](ecohub.md#makeup)
 - [Menstrual products](ecohub.md#menstrual-products)
 - [Nail polish](ecohub.md#nail-polish)
@@ -408,8 +409,14 @@ Happi Earth | Laundry refills
 
 #### Location: Australia based
 | Brand/Shop	| Why?	|
-| ------ | ------ 
+| ------ | ------ |
 [Dirty Hippie Cosmetics](https://dirtyhippiecosmetics.com.au/shop) | vegan, cruelty-free, zerowaste
+
+## Medicines
+| Brand/Shop | Why? |
+| ------ | ------ |
+[Cabinet Health](https://cabinethealth.com/collections/refills) | Refillable OTC and prescription medication. I found this in my research but havent personally vetted it. Goes without saying that consult your doctor, I am not one. and health should be prioritized above sustainability.|
+
 
 ## Menstrual Products
 #### Location: US Based
