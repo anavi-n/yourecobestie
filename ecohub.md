@@ -415,7 +415,7 @@ Happi Earth | Laundry refills
 ## Medicines
 | Brand/Shop | Why? |
 | ------ | ------ |
-[Cabinet Health](https://cabinethealth.com/collections/refills) | Refillable OTC and prescription medication. I found this in my research but havent personally vetted it. Goes without saying that consult your doctor, I am not one. and health should be prioritized above sustainability.|
+[Cabinet Health](https://cabinethealth.com/collections/refills) | Refillable OTC and prescription medication. I found this in my research but havent personally tried it. Goes without saying that consult your doctor, I am not a doctor and you cannot be sustainable if you are not healthy :) |
 
 
 ## Menstrual Products
