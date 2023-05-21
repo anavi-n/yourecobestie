@@ -12,7 +12,7 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | Markers and highligthers | For markers and highlighters that are at the end of their life cycle, [Crayola’s ColorCycle](https://www.crayola.com/colorcycle) program for schools will accept all brands of plastic markers to be recycled and converted into clean-burning fuel
 | Hair | Donate your hair to a program like [Locks of Love](https://locksoflove.org/) or Wigs for Kids. Natural, untreated hair is compostable so you can also ask your salon to bag it for you and compost it | 
 | Laptops | Donate to [Computers for Causes](https://www.computerswithcauses.org/laptop-donation/) |
-| Lipbalm containers | [Portland Bee Balm](https://portlandbeebalm.com/pages/recycle) | 
+| Lipbalm containers | [Portland Bee Balm](https://portlandbeebalm.com/pages/recycle) only accepts their own lip balm containers | 
 | Miscellanous items | Post on your local Buy Nothing Facebook group |
 | Mascara wands | Clean and donate to [Wands for Wildlife](https://www.wandsforwildlife.org/donate-wands.html) |
 | Towels | Donate to local animal shelters |
