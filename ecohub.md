@@ -580,7 +580,7 @@ Sea and Clean
 ## Sunglasses
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-| Ochis | (https://ochis.co/collections/sunglasses) | Sunglasses and optical glasses made from used coffee grounds | 
+| [Ochis](https://ochis.co/collections/sunglasses) | Sunglasses and optical glasses made from used coffee grounds | 
 
 ## Sunscreen
 | Brand/Shop	| Why?	|
