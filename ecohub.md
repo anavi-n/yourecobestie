@@ -38,6 +38,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Shoes](ecohub.md#shoes)
 - [Skincare](ecohub.md#skincare)
 - [Sunscreen](ecohub.md#sunscreen)
+- [Sunglasses](ecohub.md#sunglasses)
 - [Stockings](ecohub.md#stockings)
 - [Technology](ecohub.md#technology)
 - [Vitamins](ecohub.md#vitamins-probiotics)
@@ -575,6 +576,11 @@ Sea and Clean
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 | [Parama Naturals](https://paramanaturals.com/collections/all-products) | 
+
+## Sunglasses
+| Brand/Shop	| Why?	|
+| ------ | ------| 
+| Ochis | (https://ochis.co/collections/sunglasses) | Sunglasses and optical glasses made from used coffee grounds | 
 
 ## Sunscreen
 | Brand/Shop	| Why?	|
