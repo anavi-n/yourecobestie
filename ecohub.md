@@ -229,6 +229,7 @@ Organic Basics
 [Hara the Label](https://www.harathelabel.com/collections/undies) | made in Australia, 90% Lyocell Bamboo, 10% Spandex, Naturally dyed using low reactive dyes, organic Indigo and Turmeric |
 [Pansy](https://www.pansy.co/shop?category=UNDERWEAR) | Made in U.S. California from 100% organic, USA-grown cotton. Fully compostable. |
 [Organic Basics](https://us.organicbasics.com/) | 100% organic cotton |
+[Oddobody](https://oddobody.com/collections/underwear) | 100% GOTS organic cotton, fair trade certified |
 [Pact](https://wearpact.com/women/underwear) | GOTS certified cotton, fair trade factory, 95% cotton but 5% elastane | 
 [Brook There](https://www.brookthere.com/collections/organic-underwear) | 
 [Groceries Apparel](https://groceriesapparel.com/collections/underwear) | made in Los Angeles, U.S. Ingredients : 95% Tencel™ but 5% Spandex, Dyed with plant-based Vege-Dyes™
