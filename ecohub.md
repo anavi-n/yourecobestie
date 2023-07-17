@@ -231,7 +231,7 @@ Organic Basics
 [Organic Basics](https://us.organicbasics.com/) | 100% organic cotton |
 [Oddobody](https://oddobody.com/collections/underwear) | 100% GOTS organic cotton, fair trade certified, compostable |
 [Pact](https://wearpact.com/women/underwear) | GOTS certified cotton, fair trade factory, 95% cotton but 5% elastane | 
-[Brook There](https://www.brookthere.com/collections/organic-underwear) | 
+[Brook There](https://www.brookthere.com/collections/organic-underwear) | made in the U.S, organic cotton, 94% organic cotton but 6% spandex |
 [Groceries Apparel](https://groceriesapparel.com/collections/underwear) | made in Los Angeles, U.S. Ingredients : 95% Tencel™ but 5% Spandex, Dyed with plant-based Vege-Dyes™
 [Pantee](https://pantee.co.uk/) | made from dead stock, 1% for the planet |
 [Knickey](https://knickey.com/collections/undies)  | GOTS certified cotton, fair trade international certified, but 5% elastane | 
