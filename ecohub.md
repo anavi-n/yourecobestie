@@ -223,7 +223,7 @@ Organic Basics
 | Brand/Shop	| Why? | 
 | ------ | ------|
 [Upparel](https://upparel.com.au/shop/) | Australia based, upcycled textiles | 
-[Arq](https://shoparq.com/collections/undies) | sewn in the U.S. from certified organic, recycled, and/or deadstock material |
+[Arq](https://shoparq.com/collections/undies) | sewn in the U.S. from certified organic, recycled, and/or deadstock material, but 4% spandex |
 [Hara The Label](https://www.harathelabel.com/) | Plant dyed bamboo intimates |
 [Proclaim](https://www.wearproclaim.com/collections/all) | made in U.S. from Tencel™ Lyocell is made from "responsibly harvested trees" |
 [Hara the Label](https://www.harathelabel.com/collections/undies) | made in Australia, 90% Lyocell Bamboo, 10% Spandex, Naturally dyed using low reactive dyes, organic Indigo and Turmeric |
