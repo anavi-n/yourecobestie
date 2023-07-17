@@ -235,6 +235,7 @@ Organic Basics
 [Groceries Apparel](https://groceriesapparel.com/collections/underwear) | made in Los Angeles, U.S. Ingredients : 95% Tencel™ but 5% Spandex, Dyed with plant-based Vege-Dyes™
 [Pantee](https://pantee.co.uk/) | U.K based, made from dead stock, 1% for the planet |
 [Knickey](https://knickey.com/collections/undies)  | GOTS certified cotton, fair trade international certified, but 5% elastane | 
+[The Very Good Bra](https://www.theverygoodbra.com/collections/briefs-2) | B corp, compostable, plastic free |
 
 ### Workout gear	
 | Brand/Shop	| Why? | 
