@@ -68,7 +68,6 @@ As always, the most sustainable thing you can do is use things you already have,
 | ------ | ------|
 | [Rokhak](https://www.rokhak.com/store/) | Handmade by women in Cambodia from water hyacinths (plants) that block waterways | 
 
-
 ## Bathroom	
 | Brand/Shop	| Why? | 
 | ------ | ------|
@@ -586,7 +585,8 @@ Sea and Clean
 ## Sunscreen
 | Brand/Shop	| Why?	|
 | ------ | ------| 
-|[Eclipse sun protectant clothing](https://eclipseglove.com/collections/all-products) | small business, made from recycled materials 
+| [Vapor Apparel](https://vaporapparel.com/) | Sun protectant clothing made from plastic bottles (Eco line) |
+| [Eclipse sun protectant clothing](https://eclipseglove.com/collections/all-products) | small business, made from recycled plastic bottles |
 | [Butter bean organics](https://www.butterbeanorganics.com/)| Plastic-free, Refill system, mineral sunscreen
 | [Raw elements USA](https://www.rawelementsusa.com/)| Plastic-free, available at REI
 | [badger balm](https://www.badgerbalm.com/)| Mineral sunscreen
