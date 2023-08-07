@@ -347,6 +347,7 @@ EBTH
 [Sunbird Straws](https://sunbirdstraws.com/) | Uses Cocconut leaves that would be o/w burnt while funding women in rural areas| Karnataka, India| 
 [Lavinia Trafe](https://www.lavinia-trade.com/en/) | Handmade in India from jute |	
 [Remark Glass](https://remarkglass.com/collections/all-products) | handmade, recycled glassware | 
+[Smooth Edge](https://www.smoothedge.co.uk/all-products) | made from recycled glass, based in UK | 
 No Tox Life Dishwashing Block
 Echoview Fiber Mill Compostable Wool Dish Sponge
 Ambrosia Produce Storage Bags
