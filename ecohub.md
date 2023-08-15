@@ -426,12 +426,12 @@ Happi Earth | Laundry refills
 #### Location: US Based
 | Brand/Shop	| Why?	|
 | ------ | ------|
-Luna Pads
-Thinx Reusable Tampon Applicator
-Saalt Cup
-Dot Cup
-Lunette Cup
-June Cup
+[Period Aisle](https://periodaisle.com/collections/all) | Reusable pads, liners, period underwear, cups, based in Canada |
+[Thinx](https://www.thinx.com/thinx/collections/shop-all-period-underwear) | period underwear | 
+[Saalt Cup](https://saalt.com/) | menstrual cups, discs, period underwear, vegan, cruelty-free, B-corp |
+[Dot Cup](https://dotforall.com/) | Menstrual cups |
+[Lunette Cup](https://www.lunette.com/collections/periods) | reusable pads and cups |
+[June Cup](https://thejunecup.com/collections/frontpage) | Menstrual cups, discs, period underwear | 
 
 #### Location: India Based
 | Item| Why?	 |
