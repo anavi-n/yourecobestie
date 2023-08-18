@@ -7,6 +7,7 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | ------ | -------------|
 | Batteries | Drop off at local recycling places such as Home Depot, etc. |
 | Books, holiday lights, bikes, etc |[Scarce](https://www.scarce.org/accepted-items/) - in person drop off only in US (Illinois) |
+| Bread tags | [Aussie Bread Tags for Wheelchairs](https://ozbreadtagsforwheelchairs.org.au/) - collects plastic bread tags nationally in Australia. The tags are recycled locally, raising funds to buy wheelchairs for disadvantaged people, mainly in South Africa. |
 | Clothes you no longer need | Donate to local women shelters or your local Buy Nothing group. You can also use as rags for cleaning. If all else fails, try [For Days take back bag](https://fordays.com/products/take-back-bag)|
 | Crayons | Donate to [The Crayon Initiative](https://thecrayoninitiative.org/)
 | New and gently used appliances, sinks, lumber, furniture, building materials, household goods and more from individuals and companies| Donate to [Habitat for Humanity ReStores](https://www.habitat.org/restores/donate-goods) Each ReStore is unique, and many locations also accept items outside these categories |
