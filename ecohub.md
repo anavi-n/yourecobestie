@@ -67,6 +67,7 @@ As always, the most sustainable thing you can do is use things you already have,
 | Brand/Shop	| Why?	|
 | ------ | ------|
 | [Rokhak](https://www.rokhak.com/store/) | Handmade by women in Cambodia from water hyacinths (plants) that block waterways | 
+| [Rareform](https://www.rareform.com/products/) | Made from 95% recycled billboard vinyl | 
 
 ## Bathroom	
 | Brand/Shop	| Why? | 
