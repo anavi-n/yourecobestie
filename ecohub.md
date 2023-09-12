@@ -173,6 +173,7 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [The RealReal](https://www.therealreal.com) |
 | Goodwill | Need I say anything? |
 | [Sustainable Supply Co](https://www.hellossco.com) | Secondhand clothing online (mostly jeans) |
+| [Vintage denim](https://allvintagedenim.com/collections/denim) | 
 | Fair Season
 | Shop Future
 | Shop Stressed
