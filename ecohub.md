@@ -570,6 +570,7 @@ Leftovers | St. Louis, MO
 Perennial | St. Louis, MO
 Scrapskc | Kansas City, MO
 Tinkerhollow (fabric & craft supplies only) | Kearney, NE
+Propoagate Studio | Stuwartsville, NJ
 Craft Bits & Pieces (fabric & craft supplies only) |  Fairport, NY
 Crafting For Good (fabric & craft supplies only) |  North Chili, NY
 FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) | Brooklyn, NY
@@ -618,7 +619,7 @@ The Scrappy Elephant | Charlottesvilla & Palmyra, VA
 UpCycle Creative Reuse Center | Alexandria, VA
 Allied Arts Reuse Thrift Store (craft & sewing supplies only) | Bellingham, WA
 Art Salvage | Spokane, WA.
-Lost & Found Crafts (craft & sewing supplies ONLY, no upcycle-ables) | Olympia, WA
+Lost & Found Crafts (craft & sewing supplies only) | Olympia, WA
 Our Fabric Stash (fabric only) | Seattle, WA
 Ragfinery (fabric only) | Bellingham, WA
 Seattle ReCreative | Seattle, WA
