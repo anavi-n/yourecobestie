@@ -518,6 +518,192 @@ Sea and Clean
 | ------ | ------|
 | [Phool Co](https://phool.co/collections/all) | Incense sticks, essential oils made from to be wasted flowers |
 
+## Reuse stores
+#### Location: US based
+Alaska
+Treasure Trader (craft supplies only, no upcycleables)- Wasilla, AK
+Upcycle Annex (craft supplies only, no upcycleables)- Fairbanks, AK (this was submitted by someone who works there, she affirmed that it was open to the public and included some craft supplies!)
+
+Arizona
+Art Resource Center– Tempe, AZ
+
+California
+Art FORM– San Diego, CA
+Art from Scrap, Santa Barbara, California
+East Bay Depot for Creative Reuse – Oakland, CA
+Fabmo – Sunnyvale, CA
+ReCreate – Rocklin, CA
+reDiscover Center – Los Angeles, CA
+Remainders Creative Reuse– Pasadena, CA
+Reuse Arts & Crafts– Berkley, CA
+SCRAP – San Francisco, CA
+The Legacy (craft & sewing supplies ONLY, no upcycle-ables) – Sebastopol, CA
+
+Colorado
+Art Parts Creative Reuse Center – Boulder, CO
+ReCreative Denver– Denver, CO
+The Hidden Treasure 2  (craft & sewing supplies ONLY, no upcycle-ables)- Longmont, CO
+Who Gives a Scrap – Colorado Springs, CO
+Connecticut
+EcoWorks Creative Reuse – North Haven, CT
+
+Florida
+Resource Depot – West Palm Beach, FL
+Reusuable Resources ADVENTURE Center – West Melbourne, FL
+The Repurpose Project – Gainesville, FL
+Idaho
+The ReUse Market – Boise, ID
+
+Iowa
+Make It Yours Upcycle Center – Maquoketa, IA
+The create/exchange– Cedar Rapids, IA
+
+Illinois
+Greener Good – Palatine, IL
+The Idea Room – Urbana, IL
+The WasteShed – Chicago, IL
+The WasteShed Evanston – Evanston, IL
+
+Georgia
+Scraplanta Creative Reuse – Atlanta, GA
+Starlandia Supply (art/craft/sewing supplies ONLY, no upcycle-ables)- Savannah, GA
+Kansas
+A Thrifty Notion (fabric ONLY, no upcycle-ables or craft supplies)- Ogden, KS
+
+Kentucky
+LEX Center for Creative Reuse– Lexington, KY
+Louisiana
+ricRACK (fabric ONLY, no upcycle-ables or craft supplies) – New Orleans, LA
+
+Maine
+Ruth’s Reusable Resources– Portland, ME
+
+Maryland
+SCRAP B-more – Baltimore, MD
+
+Massachusetts
+Make & Mend (craft & sewing supplies ONLY, no upcycle-ables)- Somerville, MA
+Swanson’s Fabric (fabric ONLY, no upcycle-ables or craft supplies)- Turners Falls, MA
+
+Michigan
+Arts and Scraps – Detroit, MI
+Learning from Scratch – Grand Rapids, MI
+SCRAP Creative Reuse – Ann Arbor, MI
+
+Minnesota
+ArtScraps Reuse Center – St. Paul, MN
+
+Missouri
+Arrow Creative Reuse – Springfield, MO
+City Sewing Room (fabric ONLY, no upcycle-ables or craft supplies)- St. Louis, MO
+Leftovers – St. Louis, MO
+Perennial– St. Louis, MO
+Scrapskc – Kansas City, MO
+
+Nebraska
+Tinkerhollow (fabric & craft supplies ONLY, no upcycle-ables)- Kearney, NE
+
+New York
+Craft Bits & Pieces (fabric & craft supplies ONLY, no upcycle-ables)- Fairport, NY
+Crafting For Good (fabric & craft supplies ONLY, no upcycle-ables) – North Chili, NY
+FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) – Brooklyn, NY
+Retake/Remake – Peekskill, NY
+Sew Green (fabric ONLY, no upcycle-ables or craft supplies) – Ithaca, NY
+Sew Green (fabric ONLY, no upcycle-ables or craft supplies) – Rochester, NY
+Stitch Buffalo’s Second Stitch (fabric & craft supplies ONLY, no upcycle-ables)- Buffalo, NY
+Up-Stitch (fabric & craft supplies ONLY, no upcycle-ables)- Albany, NY
+
+North Carolina
+Reconsidered Goods – Greensboro, NC
+The Scrap Exchange – Durham, NC
+Upcycle Arts– Charlotte, NC
+Village Fabric Shop (fabric ONLY, no upcycle-ables or craft supplies, a portion of a regular fabric store) – Winston-Salem, NC
+923 Fabrics & Crafts (fabric ONLY, no upcycle-ables or craft supplies) – Monroe, NC
+
+Ohio
+Indigo Hippo– Cincinnati, OH
+Scrap 4 Art -Maumee, OH
+Scrap It Up– Cincinnati, OH
+Upcycle Parts Shop – Cleveland, OH
+
+Oklahoma
+Sew Bewitching (fabric/sewing stuff ONLY, no upcycle-ables or craft supplies)- Oklahoma City, OK
+
+Oregon
+MECCA – Eugene, OR
+ReClaim It – Portland, OR
+Scrap PDX – Portland, OR
+
+Pennsylvania
+Art of Recycle – Ephrata, PA
+FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) – Philadelphia, PA
+Lancaster Creative Reuse – Lancaster, PA
+
+Pittsburgh Center For Creative Reuse – Pittsburgh, PA
+Scraps & Skeins – State College, Pennsylvania
+The Resource Exchange -Philadelphia, PA
+
+Rhode Island
+Creative Reuse Center of RI – East Providence, RI
+
+South Carolina
+ReCraft Creative Reuse Center – Greenville, SC
+
+Tennessee
+Smart Art + Craft Supplies – Nashville, TN
+Turnip Green Creative Reuse – Nashville, TN
+
+Texas
+Artable Curiousities – Seguin, TX
+Austin Creative Reuse Center – Austin, TX
+Houston Center for Creative Reuse – Houston, TX
+Pegasus Creative Reuse– Dallas, TX
+Spare Parts– San Antonio, TX
+Texas Art Asylum – Houston, TX
+The Welman Project– Fort Worth, TX
+Thistle Creative Reuse– Denton, TX
+Untrash Creative Reuse – Richardson, TX
+
+Utah
+Making Space Thrift Store (craft & sewing supplies ONLY, no upcycle-ables) – Springville, UT
+The Clever Octopus – South Salt Lake, UT
+
+Virginia
+757 Creative ReUse Center – Norfolk, VA
+SCRAP Creative Reuse – Richmond, VA
+The Scrappy Elephant– Charlottesvilla & Palmyra, VA
+UpCycle Creative Reuse Center – Alexandria, VA
+
+Washington
+Allied Arts Reuse Thrift Store (craft & sewing supplies ONLY, no upcycle-ables)- Bellingham, WA
+Art Salvage – Spokane, WA.
+Lost & Found Crafts (craft & sewing supplies ONLY, no upcycle-ables)- Olympia, WA
+Our Fabric Stash (fabric ONLY, no upcycle-ables or craft supplies)- Seattle, WA
+Ragfinery (fabric ONLY, no upcycle-ables or craft supplies)- Bellingham, WA
+Seattle ReCreative – Seattle, WA
+Tinkertopia – Tacoma, WA
+
+Wisconsin
+Hello Art Hatchery (craft & sewing supplies ONLY, no upcycle-ables)- Stoughton, WI
+Hello Happiness Creativity Center (craft & sewing supplies ONLY, no upcycle-ables) – Sheboygan, WI
+
+#### Location: Australia based 
+REmida Perth
+Reverse Garbage NSW
+ 
+#### Location: Canada
+ArtsJunktion mb
+Urban Source
+Concordia University’s Used Material Depot
+Fabcycle
+Our Social Fabric (fabric only, no craft supplies or upcycleables)
+
+#### Location: UK based
+Children’s Scrapstore
+Scrap Creative Reuse Arts Project Ltd​
+Community Scrapstore North Somerset
+Swindon Children’s Scrapstore
+
 ## Shoes	
 | Brand/Shop	| Why? |
 | ------ | ------| 
