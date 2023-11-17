@@ -540,7 +540,6 @@ Art Parts Creative Reuse Center | Boulder, CO
 ReCreative Denver | Denver, CO
 The Hidden Treasure 2  (craft & sewing supplies- Longmont, CO
 Who Gives a Scrap | Colorado Springs, CO
-Connecticut
 EcoWorks Creative Reuse | North Haven, CT
 Resource Depot | West Palm Beach, FL
 Reusuable Resources ADVENTURE Center | West Melbourne, FL
@@ -554,7 +553,6 @@ The WasteShed | Chicago, IL
 The WasteShed Evanston | Evanston, IL
 Scraplanta Creative Reuse Atlanta, GA
 Starlandia Supply (art/craft/sewing supplies ONLY) | Savannah, GA
-Kansas
 A Thrifty Notion (fabric ONLY, no upcycle-ables or craft supplies) | Ogden, KS
 LEX Center for Creative Reuse | Lexington, KY
 ricRACK (fabric ONLY, no upcycle-ables or craft supplies) | New Orleans, LA
@@ -575,7 +573,7 @@ Tinkerhollow (fabric & craft supplies only) | Kearney, NE
 Craft Bits & Pieces (fabric & craft supplies only) |  Fairport, NY
 Crafting For Good (fabric & craft supplies only) |  North Chili, NY
 FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) | Brooklyn, NY
-Retake/Remake – Peekskill, NY
+Retake/Remake | Peekskill, NY
 Sew Green (fabric ONLY, no upcycle-ables or craft supplies) |  Ithaca, NY
 Sew Green (fabric ONLY, no upcycle-ables or craft supplies) |  Rochester, NY
 Stitch Buffalo’s Second Stitch (fabric & craft supplies only) |  Buffalo, NY
@@ -620,7 +618,7 @@ The Scrappy Elephant | Charlottesvilla & Palmyra, VA
 UpCycle Creative Reuse Center | Alexandria, VA
 Allied Arts Reuse Thrift Store (craft & sewing supplies only) | Bellingham, WA
 Art Salvage | Spokane, WA.
-Lost & Found Crafts (craft & sewing supplies ONLY, no upcycle-ables) |Olympia, WA
+Lost & Found Crafts (craft & sewing supplies ONLY, no upcycle-ables) | Olympia, WA
 Our Fabric Stash (fabric only) | Seattle, WA
 Ragfinery (fabric only) | Bellingham, WA
 Seattle ReCreative | Seattle, WA
@@ -632,8 +630,8 @@ Hello Art Hatchery (craft & sewing supplies only) | Stoughton, WI
 #### Location: Australia based 
 | Brand/Shop	| Where|
 | ------ | ------|
-REmida Perth
-Reverse Garbage NSW
+REmida |  Perth
+Reverse Garbage | NSW
  
 #### Location: Canada
 | Brand/Shop	| Where|
@@ -642,14 +640,14 @@ ArtsJunktion mb
 Urban Source
 Concordia University’s Used Material Depot
 Fabcycle
-Our Social Fabric (fabric only, no craft supplies or upcycleables)
+Our Social Fabric (fabric only)
 
 #### Location: UK based
 | Brand/Shop	| Where|
 | ------ | ------|
 Children’s Scrapstore
 Scrap Creative Reuse Arts Project Ltd​
-Community Scrapstore North Somerset
+Community Scrapstore | North Somerset
 Swindon Children’s Scrapstore
 
 ## Shoes	
