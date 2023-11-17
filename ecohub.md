@@ -538,7 +538,7 @@ SCRAP | San Francisco, CA
 The Legacy (craft & sewing supplies) | Sebastopol, CA
 Art Parts Creative Reuse Center | Boulder, CO
 ReCreative Denver | Denver, CO
-The Hidden Treasure 2  (craft & sewing supplies- Longmont, CO
+The Hidden Treasure 2  (craft & sewing supplies | Longmont, CO
 Who Gives a Scrap | Colorado Springs, CO
 EcoWorks Creative Reuse | North Haven, CT
 Resource Depot | West Palm Beach, FL
@@ -551,7 +551,7 @@ Greener Good | Palatine, IL
 The Idea Room | Urbana, IL
 The WasteShed | Chicago, IL
 The WasteShed Evanston | Evanston, IL
-Scraplanta Creative Reuse Atlanta, GA
+Scraplanta Creative Reuse | Atlanta, GA
 Starlandia Supply (art/craft/sewing supplies ONLY) | Savannah, GA
 A Thrifty Notion (fabric ONLY, no upcycle-ables or craft supplies) | Ogden, KS
 LEX Center for Creative Reuse | Lexington, KY
@@ -559,7 +559,7 @@ ricRACK (fabric ONLY, no upcycle-ables or craft supplies) | New Orleans, LA
 Ruth’s Reusable Resources |Portland, ME
 SCRAP B-more | Baltimore, MD
 Make & Mend (craft & sewing supplies) | Somerville, MA
-Swanson’s Fabric (fabric only) - Turners Falls, MA
+Swanson’s Fabric (fabric only) | Turners Falls, MA
 Arts and Scraps | Detroit, MI
 Learning from Scratch | Grand Rapids, MI
 SCRAP Creative Reuse | Ann Arbor, MI
@@ -575,8 +575,8 @@ Craft Bits & Pieces (fabric & craft supplies only) |  Fairport, NY
 Crafting For Good (fabric & craft supplies only) |  North Chili, NY
 FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) | Brooklyn, NY
 Retake/Remake | Peekskill, NY
-Sew Green (fabric ONLY, no upcycle-ables or craft supplies) |  Ithaca, NY
-Sew Green (fabric ONLY, no upcycle-ables or craft supplies) |  Rochester, NY
+Sew Green (fabric only) |  Ithaca, NY
+Sew Green (fabric only) |  Rochester, NY
 Stitch Buffalo’s Second Stitch (fabric & craft supplies only) |  Buffalo, NY
 Up-Stitch (fabric & craft supplies only) |  Albany, NY
 Reconsidered Goods | Greensboro, NC
