@@ -596,44 +596,48 @@ Scrap PDX | Portland, OR
 Art of Recycle | Ephrata, PA
 FABSCRAP (fabric only) | Philadelphia, PA
 Lancaster Creative Reuse | Lancaster, PA
-Pittsburgh Center For Creative Reuse – Pittsburgh, PA
-Scraps & Skeins – State College, Pennsylvania
-The Resource Exchange -Philadelphia, PA
-Creative Reuse Center of RI – East Providence, RI
-ReCraft Creative Reuse Center – Greenville, SC
-Smart Art + Craft Supplies – Nashville, TN
-Turnip Green Creative Reuse – Nashville, TN
-Artable Curiousities – Seguin, TX
-Austin Creative Reuse Center – Austin, TX
-Houston Center for Creative Reuse – Houston, TX
-Pegasus Creative Reuse– Dallas, TX
-Spare Parts– San Antonio, TX
-Texas Art Asylum – Houston, TX
-The Welman Project– Fort Worth, TX
-Thistle Creative Reuse– Denton, TX
-Untrash Creative Reuse – Richardson, TX
-Making Space Thrift Store (craft & sewing supplies ONLY, no upcycle-ables) – Springville, UT
-The Clever Octopus – South Salt Lake, UT
-757 Creative ReUse Center – Norfolk, VA
-SCRAP Creative Reuse – Richmond, VA
-The Scrappy Elephant– Charlottesvilla & Palmyra, VA
-UpCycle Creative Reuse Center – Alexandria, VA
-Allied Arts Reuse Thrift Store (craft & sewing supplies ONLY, no upcycle-ables)- Bellingham, WA
-Art Salvage – Spokane, WA.
-Lost & Found Crafts (craft & sewing supplies ONLY, no upcycle-ables)- Olympia, WA
-Our Fabric Stash (fabric ONLY, no upcycle-ables or craft supplies)- Seattle, WA
-Ragfinery (fabric ONLY, no upcycle-ables or craft supplies)- Bellingham, WA
-Seattle ReCreative – Seattle, WA
-Tinkertopia – Tacoma, WA
-Hello Happiness Creativity Center (craft & sewing supplies ONLY, no upcycle-ables) – Sheboygan, WI
-Hello Art Hatchery (craft & sewing supplies ONLY, no upcycle-ables)- Stoughton, WI
+Pittsburgh Center For Creative Reuse | Pittsburgh, PA
+Scraps & Skeins | State College, Pennsylvania
+The Resource Exchange | Philadelphia, PA
+Creative Reuse Center of RI | East Providence, RI
+ReCraft Creative Reuse Center | Greenville, SC
+Smart Art + Craft Supplies | Nashville, TN
+Turnip Green Creative Reuse | Nashville, TN
+Artable Curiousities | Seguin, TX
+Austin Creative Reuse Center | Austin, TX
+Houston Center for Creative Reuse | Houston, TX
+Pegasus Creative Reuse |Dallas, TX
+Spare Parts | San Antonio, TX
+Texas Art Asylum | Houston, TX
+The Welman Project | Fort Worth, TX
+Thistle Creative Reuse |Denton, TX
+Untrash Creative Reuse | Richardson, TX
+Making Space Thrift Store (craft & sewing supplies) | Springville, UT
+The Clever Octopus | South Salt Lake, UT
+757 Creative ReUse Center | Norfolk, VA
+SCRAP Creative Reuse | Richmond, VA
+The Scrappy Elephant | Charlottesvilla & Palmyra, VA
+UpCycle Creative Reuse Center | Alexandria, VA
+Allied Arts Reuse Thrift Store (craft & sewing supplies only) | Bellingham, WA
+Art Salvage | Spokane, WA.
+Lost & Found Crafts (craft & sewing supplies ONLY, no upcycle-ables) |Olympia, WA
+Our Fabric Stash (fabric only) | Seattle, WA
+Ragfinery (fabric only) | Bellingham, WA
+Seattle ReCreative | Seattle, WA
+Tinkertopia | Tacoma, WA
+Hello Happiness Creativity Center (craft & sewing supplies only) | Sheboygan, WI
+Hello Art Hatchery (craft & sewing supplies only) | Stoughton, WI
 
 
 #### Location: Australia based 
+| Brand/Shop	| Where|
+| ------ | ------|
 REmida Perth
 Reverse Garbage NSW
  
 #### Location: Canada
+| Brand/Shop	| Where|
+| ------ | ------|
 ArtsJunktion mb
 Urban Source
 Concordia University’s Used Material Depot
@@ -641,6 +645,8 @@ Fabcycle
 Our Social Fabric (fabric only, no craft supplies or upcycleables)
 
 #### Location: UK based
+| Brand/Shop	| Where|
+| ------ | ------|
 Children’s Scrapstore
 Scrap Creative Reuse Arts Project Ltd​
 Community Scrapstore North Somerset
