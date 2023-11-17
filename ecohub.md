@@ -564,7 +564,7 @@ Arts and Scraps | Detroit, MI
 Learning from Scratch | Grand Rapids, MI
 SCRAP Creative Reuse | Ann Arbor, MI
 ArtScraps Reuse Center| St. Paul, MN
-Arrow Creative Reuse  Springfield, MO
+Arrow Creative Reuse | Springfield, MO
 City Sewing Room (fabric only) | St. Louis, MO
 Leftovers | St. Louis, MO
 Perennial | St. Louis, MO
