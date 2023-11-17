@@ -35,6 +35,7 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Packaging/Shipping](ecohub.md#packagingshipping)
 - [Parties](ecohub.md#parties)
 - [Pens/pencils](ecohub.md#penspencils)
+- [Reuse stores](ecohub.md#reuse-stores)
 - [Shoes](ecohub.md#shoes)
 - [Skincare](ecohub.md#skincare)
 - [Sunscreen](ecohub.md#sunscreen)
