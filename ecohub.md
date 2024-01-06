@@ -175,6 +175,8 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | Goodwill | Need I say anything? |
 | [Sustainable Supply Co](https://www.hellossco.com) | Secondhand clothing online (mostly jeans) |
 | [Vintage denim](https://allvintagedenim.com/collections/denim) | 
+| [Poppy Lu Clothing](https://poppyluclothing.com/) | Upclycled thrifted clothing
+| [After Always Designs[((https://www.etsy.com/shop/afteralwaysdesigns/) | Upcycled thrifted clothing |
 | Fair Season
 | Shop Future
 | Shop Stressed
@@ -188,9 +190,9 @@ The most sustainable option is to use what you have or thrift instead of buying 
 ### Clothing rentals
 | Brand/Shop	| 
 | ------ | 
-Rent The Runway |
-Armoire | 
-Nuuly |  
+| Rent The Runway |
+| [Armoire](https://armoire.style/) | 
+| Nuuly |  Note that it is owned by URBN, so not the best option but better than buying new | 
 
 ### New
 | Brand/Shop	| Why? | 
@@ -307,6 +309,7 @@ Always buy secondhand or thrift first. Check Craigslist, Facebook Marketplace, o
 | Brand/Shop	| Why?	|
 | ------ | ------|
 [ChopValue](https://chopvalue.com/collections/home) | Made from recycled chopsticks 
+[Rescue Vintage](https://www.rescuevintage.com/) | Made from rescued furniture and also repairs and restores furniture | 
 Chairish
 Studio Moe
 Fyrn
