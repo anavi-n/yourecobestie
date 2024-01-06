@@ -177,6 +177,7 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [Vintage denim](https://allvintagedenim.com/collections/denim) | 
 | [Poppy Lu Clothing](https://poppyluclothing.com/) | Upclycled thrifted clothing
 | [After Always Designs[((https://www.etsy.com/shop/afteralwaysdesigns/) | Upcycled thrifted clothing |
+| [Rclaim Creative](https://reclaimcreative.space/) | Jackets and other fabric products from thrifted textiles | 
 | Fair Season
 | Shop Future
 | Shop Stressed
@@ -542,7 +543,7 @@ The Legacy (craft & sewing supplies) | Sebastopol, CA
 Art Parts Creative Reuse Center | Boulder, CO
 ReCreative Denver | Denver, CO
 The Hidden Treasure 2  (craft & sewing supplies | Longmont, CO
-Who Gives a Scrap | Colorado Springs, CO
+[Who Gives a Scrap](https://whogivesascrapcolorado.com/) | Colorado Springs, CO
 EcoWorks Creative Reuse | North Haven, CT
 Resource Depot | West Palm Beach, FL
 Reusuable Resources ADVENTURE Center | West Melbourne, FL
@@ -722,6 +723,7 @@ Swindon Children’s Scrapstore
 | Brand/Shop	| Why?	|
 | ------ | ------| 
 | [Ochis](https://ochis.co/collections/sunglasses) | Sunglasses and optical glasses made from used coffee grounds | 
+| [Brothers Make](https://www.brothersmake.com/shop) | Sunglasses, coasters, combs etc made from recycled plastic |
 
 ## Sunscreen
 | Brand/Shop	| Why?	|
