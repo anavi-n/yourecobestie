@@ -163,8 +163,8 @@ Location: Australia/NZ
 The most sustainable option is to use what you have or thrift instead of buying new clothes. But if you absolutely have to buy new clothes, here's some sustainable options! 
 
 ### Secondhand/Thrift
-| Brand/Shop	| 
-| ------ | 
+| Brand/Shop	| Why? |
+| ------ | ------ | 
 | [Depop](https://www.depop.com) | 
 | [Poshmark](https://poshmark.com) |
 | [Etsy](https://www.etsy.com) | 
