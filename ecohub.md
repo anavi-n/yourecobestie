@@ -189,11 +189,11 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | Ética Denim
 
 ### Clothing rentals
-| Brand/Shop	| 
-| ------ | 
-| [Rent The Runway](https://www.renttherunway.com/) |
+| Brand/Shop	| Why? | 
+| ------ | ----- |
+| [Rent The Runway](https://www.renttherunway.com/) | Clothing rental for events or monthly subscription |
 | [Armoire](https://armoire.style/) | 
-| Nuuly |  Note that it is owned by URBN, so not the best option but better than buying new | 
+| [Nuuly](https://www.nuuly.com/) |  Note that it is owned by URBN, so not the best option but better than buying new | 
 
 ### New
 | Brand/Shop	| Why? | 
