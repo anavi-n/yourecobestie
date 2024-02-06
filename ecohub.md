@@ -134,7 +134,6 @@ Location: US based
 | [Glee gum](https://www.gleegum.com/) | Plastic-free | 
 | [Simply Gum](https://www.simplygum.com/) | Plastic-free |
 
-
 Location: UK based
 | Brand/Shop  | Why? |
 | ------ | ------| 
@@ -175,9 +174,10 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | Goodwill | Need I say anything? |
 | [Sustainable Supply Co](https://www.hellossco.com) | Secondhand clothing online (mostly jeans) |
 | [Vintage denim](https://allvintagedenim.com/collections/denim) | 
-| [Poppy Lu Clothing](https://poppyluclothing.com/) | Upclycled thrifted clothing
+| [Poppy Lu Clothing](https://poppyluclothing.com/) | Upclycled thrifted clothing 
 | [After Always Designs](https://www.etsy.com/shop/afteralwaysdesigns/) | Upcycled thrifted clothing |
 | [Rclaim Creative](https://reclaimcreative.space/) | Jackets and other fabric products from thrifted textiles | 
+| [The Rescue Collection](https://therescuecollection.com) | thirfted clothing pieces that are elevated or made better in some way |
 | Fair Season
 | Shop Future
 | Shop Stressed
