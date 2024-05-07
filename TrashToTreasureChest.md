@@ -13,6 +13,7 @@ Here is a guide on you can do with items instead of throwing them in trash.
 | New and gently used appliances, sinks, lumber, furniture, building materials, household goods and more from individuals and companies| Donate to [Habitat for Humanity ReStores](https://www.habitat.org/restores/donate-goods) Each ReStore is unique, and many locations also accept items outside these categories |
 | Markers and highligthers | For markers and highlighters that are at the end of their life cycle, [Crayola’s ColorCycle](https://www.crayola.com/colorcycle) program for schools will accept all brands of plastic markers to be recycled and converted into clean-burning fuel
 | Hair | Donate your hair to a program like [Locks of Love](https://locksoflove.org/) or Wigs for Kids. Natural, untreated hair is compostable so you can also ask your salon to bag it for you and compost it | 
+| Hair, fur, fleece | Donate to a program like [Matter of Trust](https://matteroftrust.org/clean-wave-program/#) which uses it to clean up oil spills |
 | Laptops | Donate to [Computers for Causes](https://www.computerswithcauses.org/laptop-donation/) |
 | Lipbalm containers | [Portland Bee Balm](https://portlandbeebalm.com/pages/recycle) only accepts their own lip balm containers | 
 | Miscellanous items | Post on your local Buy Nothing Facebook group |
