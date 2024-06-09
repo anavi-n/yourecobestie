@@ -6,7 +6,7 @@ As always, the most sustainable thing you can do is use things you already have,
 ## Table of Contents
 **Reminder: Always opt for secondhand first! (except undergarmets and toothbrushes, use your judgement, duh)**
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
-- [Art & craft supplies](ecohun.md#art)
+- [Art & craft supplies](ecohub.md#art)
 - [Bathroom](ecohub.md#bathroom)
   - [Oral care](ecohub.md#oral-care)
 - [Bedroom](ecohub.md#bedroom)
