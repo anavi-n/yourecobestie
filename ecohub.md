@@ -6,7 +6,7 @@ As always, the most sustainable thing you can do is use things you already have,
 ## Table of Contents
 **Reminder: Always opt for secondhand first! (except undergarmets and toothbrushes, use your judgement, duh)**
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
-- [Art & craft supplies](ecohub.md#art)
+- [Art & craft supplies](ecohub.md#art--craft-supplies)
 - [Bathroom](ecohub.md#bathroom)
   - [Oral care](ecohub.md#oral-care)
 - [Bedroom](ecohub.md#bedroom)
@@ -36,7 +36,6 @@ As always, the most sustainable thing you can do is use things you already have,
 - [Packaging/Shipping](ecohub.md#packagingshipping)
 - [Parties](ecohub.md#parties)
 - [Pens/pencils](ecohub.md#penspencils)
-- [Reuse stores](ecohub.md#reuse-stores)
 - [Shoes](ecohub.md#shoes)
 - [Skincare](ecohub.md#skincare)
 - [Sunscreen](ecohub.md#sunscreen)
@@ -69,6 +68,137 @@ As always, the most sustainable thing you can do is use things you already have,
 | Brand | Why? |
 | ----- | ----- |
 | [True Pigments](https://www.truepigments.com/shop/reclaimed-earth-colors) | They sell paint from cleaning up the earth! They turn pollution from historic coal mining into vibrant pigments for use in paint and other products|
+| Creative Reuse Stores | Look for a local Creative Reuse Store near you - they sell secondhand craft supplies. List below! |
+
+#### Location: US based
+| Creative Reuse Stores	| Where|
+| ------ | ------|
+Treasure Trader (craft supplies only) | Wasilla, AK
+Upcycle Annex (craft supplies only) | Fairbanks, AK
+Art Resource Center | Tempe, AZ 
+Art FORM | San Diego, CA
+Art from Scrap | Santa Barbara, CA
+East Bay Depot for Creative Reuse | Oakland, CA
+Fabmo | Sunnyvale, CA
+ReCreate | Rocklin, CA
+reDiscover Center | Los Angeles, CA
+Remainders Creative Reuse | Pasadena, CA
+Reuse Arts & Crafts | Berkley, CA
+SCRAP | San Francisco, CA
+The Legacy (craft & sewing supplies) | Sebastopol, CA
+Art Parts Creative Reuse Center | Boulder, CO
+ReCreative Denver | Denver, CO
+The Hidden Treasure 2  (craft & sewing supplies | Longmont, CO
+[Who Gives a Scrap](https://whogivesascrapcolorado.com/) | Colorado Springs, CO
+EcoWorks Creative Reuse | North Haven, CT
+Resource Depot | West Palm Beach, FL
+Reusuable Resources ADVENTURE Center | West Melbourne, FL
+The Repurpose Project | Gainesville, FL
+The ReUse Market | Boise, ID
+Make It Yours Upcycle Center | Maquoketa, IA
+The create/exchange| Cedar Rapids, IA
+Greener Good | Palatine, IL
+The Idea Room | Urbana, IL
+The WasteShed | Chicago, IL
+The WasteShed Evanston | Evanston, IL
+Scraplanta Creative Reuse | Atlanta, GA
+Starlandia Supply (art/craft/sewing supplies ONLY) | Savannah, GA
+A Thrifty Notion (fabric ONLY, no upcycle-ables or craft supplies) | Ogden, KS
+LEX Center for Creative Reuse | Lexington, KY
+ricRACK (fabric ONLY, no upcycle-ables or craft supplies) | New Orleans, LA
+Ruth’s Reusable Resources |Portland, ME
+SCRAP B-more | Baltimore, MD
+Make & Mend (craft & sewing supplies) | Somerville, MA
+Swanson’s Fabric (fabric only) | Turners Falls, MA
+Arts and Scraps | Detroit, MI
+Learning from Scratch | Grand Rapids, MI
+SCRAP Creative Reuse | Ann Arbor, MI
+ArtScraps Reuse Center| St. Paul, MN
+Arrow Creative Reuse | Springfield, MO
+City Sewing Room (fabric only) | St. Louis, MO
+Leftovers | St. Louis, MO
+Perennial | St. Louis, MO
+Scrapskc | Kansas City, MO
+Tinkerhollow (fabric & craft supplies only) | Kearney, NE
+Propoagate Studio | Stuwartsville, NJ
+Craft Bits & Pieces (fabric & craft supplies only) |  Fairport, NY
+Crafting For Good (fabric & craft supplies only) |  North Chili, NY
+FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) | Brooklyn, NY
+Retake/Remake | Peekskill, NY
+Sew Green (fabric only) |  Ithaca, NY
+Sew Green (fabric only) |  Rochester, NY
+Stitch Buffalo’s Second Stitch (fabric & craft supplies only) |  Buffalo, NY
+Up-Stitch (fabric & craft supplies only) |  Albany, NY
+Reconsidered Goods | Greensboro, NC
+The Scrap Exchange |  Durham, NC
+Upcycle Arts | Charlotte, NC
+Village Fabric Shop (fabric only) | Winston-Salem, NC
+923 Fabrics & Crafts (fabric only) | Monroe, NC
+Indigo Hippo |  Cincinnati, OH
+Scrap 4 Art | Maumee, OH
+Scrap It Up | Cincinnati, OH
+Upcycle Parts Shop | Cleveland, OH
+Sew Bewitching (fabric/sewing only) | Oklahoma City, OK
+MECCA | Eugene, OR
+ReClaim It | Portland, OR
+Scrap PDX | Portland, OR
+Art of Recycle | Ephrata, PA
+FABSCRAP (fabric only) | Philadelphia, PA
+Lancaster Creative Reuse | Lancaster, PA
+Pittsburgh Center For Creative Reuse | Pittsburgh, PA
+Scraps & Skeins | State College, Pennsylvania
+The Resource Exchange | Philadelphia, PA
+Creative Reuse Center of RI | East Providence, RI
+ReCraft Creative Reuse Center | Greenville, SC
+Smart Art + Craft Supplies | Nashville, TN
+Turnip Green Creative Reuse | Nashville, TN
+Artable Curiousities | Seguin, TX
+Austin Creative Reuse Center | Austin, TX
+Houston Center for Creative Reuse | Houston, TX
+Pegasus Creative Reuse |Dallas, TX
+Spare Parts | San Antonio, TX
+Texas Art Asylum | Houston, TX
+The Welman Project | Fort Worth, TX
+Thistle Creative Reuse |Denton, TX
+Untrash Creative Reuse | Richardson, TX
+Making Space Thrift Store (craft & sewing supplies) | Springville, UT
+The Clever Octopus | South Salt Lake, UT
+757 Creative ReUse Center | Norfolk, VA
+SCRAP Creative Reuse | Richmond, VA
+The Scrappy Elephant | Charlottesvilla & Palmyra, VA
+UpCycle Creative Reuse Center | Alexandria, VA
+Allied Arts Reuse Thrift Store (craft & sewing supplies only) | Bellingham, WA
+Art Salvage | Spokane, WA.
+Lost & Found Crafts (craft & sewing supplies only) | Olympia, WA
+Our Fabric Stash (fabric only) | Seattle, WA
+Ragfinery (fabric only) | Bellingham, WA
+Seattle ReCreative | Seattle, WA
+Tinkertopia | Tacoma, WA
+Hello Happiness Creativity Center (craft & sewing supplies only) | Sheboygan, WI
+Hello Art Hatchery (craft & sewing supplies only) | Stoughton, WI
+
+#### Location: Australia based 
+| Brand/Shop	| Where|
+| ------ | ------|
+REmida |  Perth
+Reverse Garbage | NSW
+ 
+#### Location: Canada
+| Brand/Shop	| Where|
+| ------ | ------|
+ArtsJunktion mb
+Urban Source
+Concordia University’s Used Material Depot
+Fabcycle
+Our Social Fabric (fabric only)
+
+#### Location: UK based
+| Brand/Shop	| Where|
+| ------ | ------|
+Children’s Scrapstore
+Scrap Creative Reuse Arts Project Ltd​
+Community Scrapstore | North Somerset
+Swindon Children’s Scrapstore
 
 ## Bags
 | Brand/Shop	| Why?	|
@@ -528,138 +658,6 @@ Sea and Clean
 | Brand/Shop	| Why?|
 | ------ | ------|
 | [Phool Co](https://phool.co/collections/all) | Incense sticks, essential oils made from to be wasted flowers |
-
-## Reuse stores
-#### Location: US based
-| Brand/Shop	| Where|
-| ------ | ------|
-Treasure Trader (craft supplies only) | Wasilla, AK
-Upcycle Annex (craft supplies only) | Fairbanks, AK
-Art Resource Center | Tempe, AZ 
-Art FORM | San Diego, CA
-Art from Scrap | Santa Barbara, CA
-East Bay Depot for Creative Reuse | Oakland, CA
-Fabmo | Sunnyvale, CA
-ReCreate | Rocklin, CA
-reDiscover Center | Los Angeles, CA
-Remainders Creative Reuse | Pasadena, CA
-Reuse Arts & Crafts | Berkley, CA
-SCRAP | San Francisco, CA
-The Legacy (craft & sewing supplies) | Sebastopol, CA
-Art Parts Creative Reuse Center | Boulder, CO
-ReCreative Denver | Denver, CO
-The Hidden Treasure 2  (craft & sewing supplies | Longmont, CO
-[Who Gives a Scrap](https://whogivesascrapcolorado.com/) | Colorado Springs, CO
-EcoWorks Creative Reuse | North Haven, CT
-Resource Depot | West Palm Beach, FL
-Reusuable Resources ADVENTURE Center | West Melbourne, FL
-The Repurpose Project | Gainesville, FL
-The ReUse Market | Boise, ID
-Make It Yours Upcycle Center | Maquoketa, IA
-The create/exchange| Cedar Rapids, IA
-Greener Good | Palatine, IL
-The Idea Room | Urbana, IL
-The WasteShed | Chicago, IL
-The WasteShed Evanston | Evanston, IL
-Scraplanta Creative Reuse | Atlanta, GA
-Starlandia Supply (art/craft/sewing supplies ONLY) | Savannah, GA
-A Thrifty Notion (fabric ONLY, no upcycle-ables or craft supplies) | Ogden, KS
-LEX Center for Creative Reuse | Lexington, KY
-ricRACK (fabric ONLY, no upcycle-ables or craft supplies) | New Orleans, LA
-Ruth’s Reusable Resources |Portland, ME
-SCRAP B-more | Baltimore, MD
-Make & Mend (craft & sewing supplies) | Somerville, MA
-Swanson’s Fabric (fabric only) | Turners Falls, MA
-Arts and Scraps | Detroit, MI
-Learning from Scratch | Grand Rapids, MI
-SCRAP Creative Reuse | Ann Arbor, MI
-ArtScraps Reuse Center| St. Paul, MN
-Arrow Creative Reuse | Springfield, MO
-City Sewing Room (fabric only) | St. Louis, MO
-Leftovers | St. Louis, MO
-Perennial | St. Louis, MO
-Scrapskc | Kansas City, MO
-Tinkerhollow (fabric & craft supplies only) | Kearney, NE
-Propoagate Studio | Stuwartsville, NJ
-Craft Bits & Pieces (fabric & craft supplies only) |  Fairport, NY
-Crafting For Good (fabric & craft supplies only) |  North Chili, NY
-FABSCRAP (fabric ONLY, no upcycle-ables or craft supplies) | Brooklyn, NY
-Retake/Remake | Peekskill, NY
-Sew Green (fabric only) |  Ithaca, NY
-Sew Green (fabric only) |  Rochester, NY
-Stitch Buffalo’s Second Stitch (fabric & craft supplies only) |  Buffalo, NY
-Up-Stitch (fabric & craft supplies only) |  Albany, NY
-Reconsidered Goods | Greensboro, NC
-The Scrap Exchange |  Durham, NC
-Upcycle Arts | Charlotte, NC
-Village Fabric Shop (fabric only) | Winston-Salem, NC
-923 Fabrics & Crafts (fabric only) | Monroe, NC
-Indigo Hippo |  Cincinnati, OH
-Scrap 4 Art | Maumee, OH
-Scrap It Up | Cincinnati, OH
-Upcycle Parts Shop | Cleveland, OH
-Sew Bewitching (fabric/sewing only) | Oklahoma City, OK
-MECCA | Eugene, OR
-ReClaim It | Portland, OR
-Scrap PDX | Portland, OR
-Art of Recycle | Ephrata, PA
-FABSCRAP (fabric only) | Philadelphia, PA
-Lancaster Creative Reuse | Lancaster, PA
-Pittsburgh Center For Creative Reuse | Pittsburgh, PA
-Scraps & Skeins | State College, Pennsylvania
-The Resource Exchange | Philadelphia, PA
-Creative Reuse Center of RI | East Providence, RI
-ReCraft Creative Reuse Center | Greenville, SC
-Smart Art + Craft Supplies | Nashville, TN
-Turnip Green Creative Reuse | Nashville, TN
-Artable Curiousities | Seguin, TX
-Austin Creative Reuse Center | Austin, TX
-Houston Center for Creative Reuse | Houston, TX
-Pegasus Creative Reuse |Dallas, TX
-Spare Parts | San Antonio, TX
-Texas Art Asylum | Houston, TX
-The Welman Project | Fort Worth, TX
-Thistle Creative Reuse |Denton, TX
-Untrash Creative Reuse | Richardson, TX
-Making Space Thrift Store (craft & sewing supplies) | Springville, UT
-The Clever Octopus | South Salt Lake, UT
-757 Creative ReUse Center | Norfolk, VA
-SCRAP Creative Reuse | Richmond, VA
-The Scrappy Elephant | Charlottesvilla & Palmyra, VA
-UpCycle Creative Reuse Center | Alexandria, VA
-Allied Arts Reuse Thrift Store (craft & sewing supplies only) | Bellingham, WA
-Art Salvage | Spokane, WA.
-Lost & Found Crafts (craft & sewing supplies only) | Olympia, WA
-Our Fabric Stash (fabric only) | Seattle, WA
-Ragfinery (fabric only) | Bellingham, WA
-Seattle ReCreative | Seattle, WA
-Tinkertopia | Tacoma, WA
-Hello Happiness Creativity Center (craft & sewing supplies only) | Sheboygan, WI
-Hello Art Hatchery (craft & sewing supplies only) | Stoughton, WI
-
-
-#### Location: Australia based 
-| Brand/Shop	| Where|
-| ------ | ------|
-REmida |  Perth
-Reverse Garbage | NSW
- 
-#### Location: Canada
-| Brand/Shop	| Where|
-| ------ | ------|
-ArtsJunktion mb
-Urban Source
-Concordia University’s Used Material Depot
-Fabcycle
-Our Social Fabric (fabric only)
-
-#### Location: UK based
-| Brand/Shop	| Where|
-| ------ | ------|
-Children’s Scrapstore
-Scrap Creative Reuse Arts Project Ltd​
-Community Scrapstore | North Somerset
-Swindon Children’s Scrapstore
 
 ## Shoes	
 | Brand/Shop	| Why? |
