@@ -6,6 +6,7 @@ As always, the most sustainable thing you can do is use things you already have,
 ## Table of Contents
 **Reminder: Always opt for secondhand first! (except undergarmets and toothbrushes, use your judgement, duh)**
 - [One stop sustainable shops](ecohub.md#one-stop-shops)
+- [Art & craft supplies](ecohun.md#art)
 - [Bathroom](ecohub.md#bathroom)
   - [Oral care](ecohub.md#oral-care)
 - [Bedroom](ecohub.md#bedroom)
@@ -63,6 +64,11 @@ As always, the most sustainable thing you can do is use things you already have,
 | [If You Care](https://buyifyoucare.com) | Kitchen and household products |
 | [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
 | [Marley's Monsters](https://www.marleysmonsters.com) | Eco-friendly products for beauty, bath, and babies | 
+
+## Art & craft supplies
+| Brand | Why? |
+| ----- | ----- |
+| [True Pigments](https://www.truepigments.com/shop/reclaimed-earth-colors) | They sell paint from cleaning up the earth! They turn pollution from historic coal mining into vibrant pigments for use in paint and other products|
 
 ## Bags
 | Brand/Shop	| Why?	|
@@ -773,7 +779,7 @@ Underprotection | made from recycled polyster and organic cotton, Denmark based 
 | [A green case](https://www.agreencase.com) | Compostable phone and device cases |
 | [GroupHug Tech](https://grouphugtech.com/collections/shop/products/window-solar-charger) | Solar powered charger | 
 | [Tiradia Cork](https://tiradia.com/collections) | Made from cork, woman owned |
-
+| [Plug](https://www.plug.tech/) | Refurbished tech - laptops, phones, tables, etc. |
 
 ### Location: India based
 | Brand/Shop	| Why?	|
