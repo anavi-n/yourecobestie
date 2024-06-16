@@ -439,6 +439,7 @@ Stojo Collapsible Coffee Cup
 | ------ | ------|
 | [Wild](https://www.wearewild.com/collections/shop) | Plastic-free deodorant with refills |
 | [Boo heads](https://www.booheads.com/) | Bamboo heads for electric toothbrushes | 
+| [Remy Restores](https://remyrestores.com/) | Restored secondhand furniture |
 
 ## Furniture/Home Decor	
 Always buy secondhand or thrift first. Check Craigslist, Facebook Marketplace, or your local thrift stores.
