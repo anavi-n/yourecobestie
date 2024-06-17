@@ -448,6 +448,7 @@ Always buy secondhand or thrift first. Check Craigslist, Facebook Marketplace, o
 | ------ | ------|
 [ChopValue](https://chopvalue.com/collections/home) | Made from recycled chopsticks 
 [Rescue Vintage](https://www.rescuevintage.com/) | Made from rescued furniture and also repairs and restores furniture | 
+| [Optimum Modern](https://www.instagram.com/optimum_modern/?igsh=Njg5Z2JleXdmNmVs) | Restored furniture | 
 Chairish
 Studio Moe
 Fyrn
