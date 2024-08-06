@@ -32,6 +32,9 @@ Ballard Market | bulk dry goods and so much more! |
 [PCC Markets](https://www.pccmarkets.com/) | bulk grocery, food, and cleaning supplies |
 [Dandelion Botanical Company](https://dandelionbotanical.com/) | Bulk spices, teas, salts, etc.|
 [Public Goods](https://apublicshop.com/) | Bulk everything |
+Seattle Best Tea | Lets you bring your own cup for bubble tea |
+Young Tea | Lets you bring your own cup for bubble tea|
+Atulea | Lets you bring your own cup for bubble tea |
 
 ### Southern California
 | Brand/Shop	| Why?	| 
