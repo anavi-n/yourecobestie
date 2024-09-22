@@ -314,6 +314,7 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [After Always Designs](https://www.etsy.com/shop/afteralwaysdesigns/) | Upcycled thrifted clothing |
 | [Rclaim Creative](https://reclaimcreative.space/) | Jackets and other fabric products from thrifted textiles | 
 | [The Rescue Collection](https://therescuecollection.com) | thirfted clothing pieces that are elevated or made better in some way |
+| [Keep Earth Alive etsy shop ](https://www.etsy.com/shop/keepearthvintage/) | thifted clothing |
 | Fair Season
 | Shop Future
 | Shop Stressed
