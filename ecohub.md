@@ -390,6 +390,7 @@ It's been SO hard to find workout or active wear that doesn't contain plastic! H
 | [Groceries Apparel](https://groceriesapparel.com/collections/active) | 92% Organic Cotton, 8% Spandex, Dyed with plant based non-toxic Vege-dye™, Made Locally in Los Angeles
 | [Rippley Yoga Wear](https://rippleyogawear.com/products/slouchy-unisex-yoga-pants-black)| 95% Modal, 5% Elastane - Soft, breathable, and eco-friendly, the Modal Fabric is a bio-based fabric made from the bark of the beech tree |
 | [Wellicious](https://www.wellicious.com/collections/pants) | 87% Organic Cotton, 13% compostable Elastane |
+| [Cottonique](https://www.cottonique.com/collections/all-products/products/womens-jogger-pocket-sweatpants-black) | 100% cotton joggers |
 Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
