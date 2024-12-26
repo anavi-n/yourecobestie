@@ -386,7 +386,10 @@ It's been SO hard to find workout or active wear that doesn't contain plastic! H
 | ------ | ------|
 | [Maikai](https://maikaiclothing.com/collections/maikai-sports-bra-yoga-collection)| 100% cotton sports bras but need to be hand washed |
 | [DK Active ](https://www.dkactive.com/collections/organic-cotton) | Pants are 100% cotton but tops have 1% elastane |
-| [Move by MATE](https://matethelabel.com/collections/move-by-mate)| 92% Organic Cotton and only 8% Spandex
+| [Move by MATE](https://matethelabel.com/collections/move-by-mate)| 92% Organic Cotton and only 8% Spandex |
+| [Groceries Apparel](https://groceriesapparel.com/collections/active) | 92% Organic Cotton, 8% Spandex, Dyed with plant based non-toxic Vege-dye™, Made Locally in Los Angeles
+| [Rippley Yoga Wear](https://rippleyogawear.com/products/slouchy-unisex-yoga-pants-black)| 95% Modal, 5% Elastane - Soft, breathable, and eco-friendly, the Modal Fabric is a bio-based fabric made from the bark of the beech tree |
+| [https://www.wellicious.com/collections/pants](https://www.wellicious.com/collections/pants) | 87% Organic Cotton, 13% compostable Elastane |
 Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
