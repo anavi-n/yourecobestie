@@ -381,8 +381,12 @@ Organic Basics
 [The Very Good Bra](https://www.theverygoodbra.com/collections/briefs-2) | B corp, compostable, plastic free |
 
 ### Workout gear	
+It's been SO hard to find workout or active wear that doesn't contain plastic! Here's a few I've found so far
 | Brand/Shop	| Why? | 
 | ------ | ------|
+| [Maikai](https://maikaiclothing.com/collections/maikai-sports-bra-yoga-collection)| 100% cotton sports bras but need to be hand washed |
+| [DK Active ](https://www.dkactive.com/collections/organic-cotton) | Pants are 100% cotton but tops have 1% elastane |
+| [Move by MATE](https://matethelabel.com/collections/move-by-mate)| 92% Organic Cotton and only 8% Spandex
 Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
