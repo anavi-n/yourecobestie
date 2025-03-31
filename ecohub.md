@@ -338,7 +338,7 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [Upparel](https://upparel.com.au/shop/) | Australia based, products from upcycled textiles - socks & other basics |
 | [Ten Tree](https://www.tentree.com/) | Sustainable clothing; plants 10 trees for every purchase | |
 | [Anian](https://anianmfg.com/) | salvaged cloth from landfill turned into clothing | 
-| [Madewell](https://www.madewell.com/) |
+| [Madewell](https://www.madewell.com/) | Sadly it is owned by URBN |
 | [Everlane](https://www.everlane.com/) | 
 | [Green Folk Collective](https://www.greenfolkcollective.com/shop) | Made form fabric scraps |
 | [KOTN](https://kotn.com)| Sustainable clothing and decor |
@@ -346,6 +346,7 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [Marine Layer](https://www.marinelayer.com/pages/respun-2021) | creates clothing from old clothes via recycling program, re-spun | 
 | [Tala](https://www.wearetala.com/en-us/pages/tala-sustainability) |
 | [Cos](https://www.cos.com/en_usd/sustainability.html)
+| [Noble](https://shopnoble.com/collections/noble-adult) | Certified GOTS cotton, compostable packaging |
 Whimsy & Row
 Jesse Kamm
 Mixed Business
