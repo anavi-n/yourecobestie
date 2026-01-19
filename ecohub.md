@@ -380,6 +380,8 @@ Organic Basics
 [Pantee](https://pantee.co.uk/) | U.K based, made from dead stock, 1% for the planet |
 [Knickey](https://knickey.com/collections/undies)  | GOTS certified cotton, fair trade international certified, but 5% elastane | 
 [The Very Good Bra](https://www.theverygoodbra.com/collections/briefs-2) | B corp, compostable, plastic free |
+[Natura Fit](https://shopnaturafit.com/product/the-lush-bamboo-bra-1) | Made from 100% bamboo |
+[The Very good Bra](https://www.theverygoodbra.com/collections/cotton-bras/products/the-very-good-bra-vintage-peach-1?variant=29376917078085) | 100% cotton |
 
 ### Workout gear	
 It's been SO hard to find workout or active wear that doesn't contain plastic! Here's a few I've found so far
