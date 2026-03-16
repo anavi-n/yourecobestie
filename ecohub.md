@@ -63,6 +63,7 @@ As always, the most sustainable thing you can do is use things you already have,
 | [If You Care](https://buyifyoucare.com) | Kitchen and household products |
 | [Full Circle](https://earthhero.com/brands/full-circle-home/)| Eco-friendly cleaning supplies |
 | [Marley's Monsters](https://www.marleysmonsters.com) | Eco-friendly products for beauty, bath, and babies | 
+| [Lucky Sweater](https://www.luckysweater.com) | platform to trade things |
 
 ## Art & craft supplies
 | Brand | Why? |
