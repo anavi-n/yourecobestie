@@ -395,6 +395,11 @@ It's been SO hard to find workout or active wear that doesn't contain plastic! H
 | [Wellicious](https://www.wellicious.com/collections/pants) | 87% Organic Cotton, 13% compostable Elastane |
 | [Cottonique](https://www.cottonique.com/collections/all-products/products/womens-jogger-pocket-sweatpants-black) | 100% cotton joggers |
 | [Zubek.co](https://zubek.co/collections/women-gymwear) | Plastic-free clothing |
+| [Jung Maven](https://jungmaven.com/collections/womens-hemp-clothing) | workout wear, undergarmebts, and clothing made from hemp amd cotton (contains some percentage of elsstane) |  
+| [Yes Friends](https://yesfriends.co/collections/women) | workout wear, undergarmebts, and clothing made from hemp amd cotton (contains some percentage of elsstane)| 
+| Studio K | (https://studiokyogawear.com/en-us/collections/crop-tops) | | 
+| [Indigo Luna](https://indigoluna.store/en-us/collections/shop-all) | |
+| [Reprise Activewear](https://www.repriseactivewear.com/products/organic-cotton-wide-leg-sweatpants-unisex) | |
 Girlfriend Collective
 Outdoor Voices
 Groceries Apparel
