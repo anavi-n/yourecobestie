@@ -316,6 +316,10 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [Rclaim Creative](https://reclaimcreative.space/) | Jackets and other fabric products from thrifted textiles | 
 | [The Rescue Collection](https://therescuecollection.com) | thirfted clothing pieces that are elevated or made better in some way |
 | [Keep Earth Alive etsy shop ](https://www.etsy.com/shop/keepearthvintage/) | thifted clothing |
+| [Suay](https://suayla.com/) | Made from seconhand clothing |
+| [Drift](https://thedriftcollective.com/) | Made from seconhand clothing |
+| [Nearly New Cashmere](https://www.nearlynewcashmere.co.uk/) | Secondhand Cashmere clothing |
+| [Thoughtful Vintage](https://www.thoughtfulvintage.com/) | secondhand clothing |
 | Fair Season
 | Shop Future
 | Shop Stressed
@@ -348,6 +352,10 @@ The most sustainable option is to use what you have or thrift instead of buying 
 | [Tala](https://www.wearetala.com/en-us/pages/tala-sustainability) |
 | [Cos](https://www.cos.com/en_usd/sustainability.html)
 | [Noble](https://shopnoble.com/collections/noble-adult) | Certified GOTS cotton, compostable packaging |
+| [Dariadeh](https://dariadeh.com/) | 100% organic cotton clothing |
+https://na.icebreaker.com/en-us
+https://indigoluna.store/en-us
+https://www.simplymerino.com/
 Whimsy & Row
 Jesse Kamm
 Mixed Business
@@ -402,7 +410,12 @@ It's been SO hard to find workout or active wear that doesn't contain plastic! H
 | [Indigo Luna](https://indigoluna.store/en-us/collections/shop-all) | |
 | [Reprise Activewear](https://www.repriseactivewear.com/products/organic-cotton-wide-leg-sweatpants-unisex) | |
 | [Sports Organics](https://sportsorganics.com/collections/womens) | 9% elastane, mostly organic cotton activewear | 
-Girlfriend Collective
+| [Sokoi](https://sokoishop.com/) | Up to 90% natual fiber workout clothing |
+| [Wildbody](https://www.wildbody.com.au/) | Up to 80% organic cotton active wear |
+| [Lezat](https://www.lezat.com/) | 95% cotton workout wear |
+| [Sports Organica](https://sportsorganics.com/) | 91% organic cotton active wear |
+https://www.studiokatelier.com/
+https://baiactive.com/products/square-up-top
 Outdoor Voices
 Groceries Apparel
 Patagonia
